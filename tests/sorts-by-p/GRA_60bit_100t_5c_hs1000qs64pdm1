@@ -1,0 +1,5600 @@
+==================================================================================
+--- p  : 794696013945783077
+--- m  : 111546435
+--- f  : x^5 + 560996233821366827x^4 + 330246979743591798x^3 + 284237223325565636x^2 + 386812318304389451x + 275790987299762249
+--- s1 : 50891263 = 50891263 (mod m)
+--- s2 : 28746545 = 28746545 (mod m)
+--- N  : 631541755781910269981270708696982091
+--- pD : 9
+
+Test #1
+N                    : 631541755781910269981270708696982091
+Required times       : 2.48682 (2.48682) [s]
+Total jumps          : 45211 (45211)
+Distinguished found  : 515 (515)
+Speed                : 207.092 (207.092) [dP/s]
+Out of bounds cycles : 0 (0)
+Side-to-side cycles  : 121 (121)
+Total cycles         : 121 (121)
+Right in             : 100% cases
+
+Test #2
+N                    : 631541755781910269981270708696982091
+Required times       : 10.5756 (6.53121) [s]
+Total jumps          : 220118 (132664)
+Distinguished found  : 2221 (1368)
+Speed                : 210.012 (209.456) [dP/s]
+Out of bounds cycles : 0 (0)
+Side-to-side cycles  : 549 (335)
+Total cycles         : 549 (335)
+Right in             : 100% cases
+
+Test #3
+N                    : 631541755781910269981270708696982091
+Required times       : 42.9029 (18.6551) [s]
+Total jumps          : 864573 (376634)
+Distinguished found  : 8839 (3858)
+Speed                : 206.023 (206.825) [dP/s]
+Out of bounds cycles : 0 (0)
+Side-to-side cycles  : 2120 (930)
+Total cycles         : 2120 (930)
+Right in             : 100% cases
+
+Test #4
+N                    : 631541755781910269981270708696982091
+Required times       : 1.29659 (14.3155) [s]
+Total jumps          : 27349 (289312)
+Distinguished found  : 282 (2964)
+Speed                : 217.494 (207.066) [dP/s]
+Out of bounds cycles : 0 (0)
+Side-to-side cycles  : 66 (714)
+Total cycles         : 66 (714)
+Right in             : 100% cases
+
+Test #5
+N                    : 631541755781910269981270708696982091
+Required times       : 10.6153 (13.5754) [s]
+Total jumps          : 214805 (274411)
+Distinguished found  : 2293 (2830)
+Speed                : 216.01 (208.465) [dP/s]
+Out of bounds cycles : 0 (0)
+Side-to-side cycles  : 513 (673)
+Total cycles         : 513 (673)
+Right in             : 100% cases
+
+Test #6
+N                    : 631541755781910269981270708696982091
+Required times       : 25.3813 (15.5431) [s]
+Total jumps          : 558796 (321808)
+Distinguished found  : 5255 (3234)
+Speed                : 207.042 (208.078) [dP/s]
+Out of bounds cycles : 0 (0)
+Side-to-side cycles  : 1370 (789)
+Total cycles         : 1370 (789)
+Right in             : 100% cases
+
+Test #7
+N                    : 631541755781910269981270708696982091
+Required times       : 16.2719 (15.6472) [s]
+Total jumps          : 357878 (326961)
+Distinguished found  : 3290 (3242)
+Speed                : 202.189 (207.203) [dP/s]
+Out of bounds cycles : 1 (0.142857)
+Side-to-side cycles  : 868 (801)
+Total cycles         : 869 (801)
+Right in             : 100% cases
+
+Test #8
+N                    : 631541755781910269981270708696982091
+Required times       : 43.635 (19.1457) [s]
+Total jumps          : 869011 (394717)
+Distinguished found  : 8898 (3949)
+Speed                : 203.919 (206.267) [dP/s]
+Out of bounds cycles : 2 (0.375)
+Side-to-side cycles  : 2167 (971)
+Total cycles         : 2169 (972)
+Right in             : 100% cases
+
+Test #9
+N                    : 631541755781910269981270708696982091
+Required times       : 21.1901 (19.3728) [s]
+Total jumps          : 468647 (402932)
+Distinguished found  : 4345 (3993)
+Speed                : 205.049 (206.119) [dP/s]
+Out of bounds cycles : 2 (0.555556)
+Side-to-side cycles  : 1098 (985)
+Total cycles         : 1100 (986)
+Right in             : 100% cases
+
+Test #10
+N                    : 631541755781910269981270708696982091
+Required times       : 9.23383 (18.3589) [s]
+Total jumps          : 176727 (380311)
+Distinguished found  : 1910 (3784)
+Speed                : 206.848 (206.156) [dP/s]
+Out of bounds cycles : 1 (0.6)
+Side-to-side cycles  : 443 (931)
+Total cycles         : 444 (932)
+Right in             : 100% cases
+
+Test #11
+N                    : 631541755781910269981270708696982091
+Required times       : 23.2657 (18.805) [s]
+Total jumps          : 479175 (389299)
+Distinguished found  : 4782 (3875)
+Speed                : 205.539 (206.086) [dP/s]
+Out of bounds cycles : 0 (0.545455)
+Side-to-side cycles  : 1197 (955)
+Total cycles         : 1197 (956)
+Right in             : 100% cases
+
+Test #12
+N                    : 631541755781910269981270708696982091
+Required times       : 31.4737 (19.8607) [s]
+Total jumps          : 679862 (413512)
+Distinguished found  : 6577 (4100)
+Speed                : 208.968 (206.467) [dP/s]
+Out of bounds cycles : 0 (0.5)
+Side-to-side cycles  : 1641 (1012)
+Total cycles         : 1641 (1013)
+Right in             : 100% cases
+
+Test #13
+N                    : 631541755781910269981270708696982091
+Required times       : 26.3203 (20.3576) [s]
+Total jumps          : 570936 (425622)
+Distinguished found  : 5359 (4197)
+Speed                : 203.607 (206.183) [dP/s]
+Out of bounds cycles : 2 (0.615385)
+Side-to-side cycles  : 1369 (1040)
+Total cycles         : 1371 (1040)
+Right in             : 100% cases
+
+Test #14
+N                    : 631541755781910269981270708696982091
+Required times       : 10.448 (19.6498) [s]
+Total jumps          : 214079 (410511)
+Distinguished found  : 2176 (4053)
+Speed                : 208.27 (206.262) [dP/s]
+Out of bounds cycles : 0 (0.571429)
+Side-to-side cycles  : 504 (1001)
+Total cycles         : 504 (1002)
+Right in             : 100% cases
+
+Test #15
+N                    : 631541755781910269981270708696982091
+Required times       : 27.8374 (20.1956) [s]
+Total jumps          : 600679 (423189)
+Distinguished found  : 5616 (4157)
+Speed                : 201.743 (205.847) [dP/s]
+Out of bounds cycles : 0 (0.533333)
+Side-to-side cycles  : 1443 (1031)
+Total cycles         : 1443 (1031)
+Right in             : 100% cases
+
+Test #16
+N                    : 631541755781910269981270708696982091
+Required times       : 9.465 (19.525) [s]
+Total jumps          : 195497 (408958)
+Distinguished found  : 2028 (4024)
+Speed                : 214.263 (206.102) [dP/s]
+Out of bounds cycles : 1 (0.5625)
+Side-to-side cycles  : 517 (999)
+Total cycles         : 518 (999)
+Right in             : 100% cases
+
+Test #17
+N                    : 631541755781910269981270708696982091
+Required times       : 14.129 (19.2075) [s]
+Total jumps          : 303583 (402760)
+Distinguished found  : 2881 (3956)
+Speed                : 203.907 (206.007) [dP/s]
+Out of bounds cycles : 0 (0.529412)
+Side-to-side cycles  : 742 (984)
+Total cycles         : 742 (984)
+Right in             : 100% cases
+
+Test #18
+N                    : 631541755781910269981270708696982091
+Required times       : 15.7872 (19.0175) [s]
+Total jumps          : 323660 (398365)
+Distinguished found  : 3239 (3917)
+Speed                : 205.166 (205.968) [dP/s]
+Out of bounds cycles : 0 (0.5)
+Side-to-side cycles  : 810 (974)
+Total cycles         : 810 (974)
+Right in             : 100% cases
+
+Test #19
+N                    : 631541755781910269981270708696982091
+Required times       : 31.9131 (19.6962) [s]
+Total jumps          : 667194 (412514)
+Distinguished found  : 6533 (4054)
+Speed                : 204.712 (205.861) [dP/s]
+Out of bounds cycles : 1 (0.526316)
+Side-to-side cycles  : 1578 (1006)
+Total cycles         : 1579 (1006)
+Right in             : 100% cases
+
+Test #20
+N                    : 631541755781910269981270708696982091
+Required times       : 15.7055 (19.4967) [s]
+Total jumps          : 307137 (407245)
+Distinguished found  : 3192 (4011)
+Speed                : 203.241 (205.755) [dP/s]
+Out of bounds cycles : 0 (0.5)
+Side-to-side cycles  : 753 (993)
+Total cycles         : 753 (993)
+Right in             : 100% cases
+
+Test #21
+N                    : 631541755781910269981270708696982091
+Required times       : 4.57641 (18.7862) [s]
+Total jumps          : 90558 (392165)
+Distinguished found  : 962 (3866)
+Speed                : 210.209 (205.807) [dP/s]
+Out of bounds cycles : 0 (0.47619)
+Side-to-side cycles  : 223 (956)
+Total cycles         : 223 (957)
+Right in             : 100% cases
+
+Test #22
+N                    : 631541755781910269981270708696982091
+Required times       : 27.3075 (19.1735) [s]
+Total jumps          : 587529 (401045)
+Distinguished found  : 5445 (3938)
+Speed                : 199.396 (205.392) [dP/s]
+Out of bounds cycles : 1 (0.5)
+Side-to-side cycles  : 1414 (977)
+Total cycles         : 1415 (978)
+Right in             : 100% cases
+
+Test #23
+N                    : 631541755781910269981270708696982091
+Required times       : 20.6006 (19.2356) [s]
+Total jumps          : 430868 (402342)
+Distinguished found  : 4269 (3952)
+Speed                : 207.226 (205.477) [dP/s]
+Out of bounds cycles : 0 (0.478261)
+Side-to-side cycles  : 1018 (979)
+Total cycles         : 1018 (979)
+Right in             : 100% cases
+
+Test #24
+N                    : 631541755781910269981270708696982091
+Required times       : 33.9699 (19.8495) [s]
+Total jumps          : 744866 (416614)
+Distinguished found  : 6907 (4075)
+Speed                : 203.327 (205.324) [dP/s]
+Out of bounds cycles : 1 (0.5)
+Side-to-side cycles  : 1757 (1011)
+Total cycles         : 1758 (1012)
+Right in             : 100% cases
+
+Test #25
+N                    : 631541755781910269981270708696982091
+Required times       : 30.8472 (20.2894) [s]
+Total jumps          : 651822 (426022)
+Distinguished found  : 6349 (4166)
+Speed                : 205.821 (205.354) [dP/s]
+Out of bounds cycles : 3 (0.6)
+Side-to-side cycles  : 1602 (1035)
+Total cycles         : 1605 (1035)
+Right in             : 100% cases
+
+Test #26
+N                    : 631541755781910269981270708696982091
+Required times       : 16.8452 (20.157) [s]
+Total jumps          : 348559 (423043)
+Distinguished found  : 3441 (4138)
+Speed                : 204.271 (205.319) [dP/s]
+Out of bounds cycles : 1 (0.615385)
+Side-to-side cycles  : 811 (1026)
+Total cycles         : 812 (1027)
+Right in             : 100% cases
+
+Test #27
+N                    : 631541755781910269981270708696982091
+Required times       : 21.3634 (20.2016) [s]
+Total jumps          : 446533 (423913)
+Distinguished found  : 4415 (4148)
+Speed                : 206.662 (205.372) [dP/s]
+Out of bounds cycles : 0 (0.592593)
+Side-to-side cycles  : 1119 (1030)
+Total cycles         : 1119 (1030)
+Right in             : 100% cases
+
+Test #28
+N                    : 631541755781910269981270708696982091
+Required times       : 18.5126 (20.1413) [s]
+Total jumps          : 406194 (423280)
+Distinguished found  : 3798 (4136)
+Speed                : 205.157 (205.365) [dP/s]
+Out of bounds cycles : 2 (0.642857)
+Side-to-side cycles  : 1007 (1029)
+Total cycles         : 1009 (1029)
+Right in             : 100% cases
+
+Test #29
+N                    : 631541755781910269981270708696982091
+Required times       : 6.32817 (19.665) [s]
+Total jumps          : 142460 (413596)
+Distinguished found  : 1299 (4038)
+Speed                : 205.273 (205.364) [dP/s]
+Out of bounds cycles : 0 (0.62069)
+Side-to-side cycles  : 335 (1005)
+Total cycles         : 335 (1005)
+Right in             : 100% cases
+
+Test #30
+N                    : 631541755781910269981270708696982091
+Required times       : 25.7063 (19.8664) [s]
+Total jumps          : 549321 (418120)
+Distinguished found  : 5278 (4079)
+Speed                : 205.32 (205.362) [dP/s]
+Out of bounds cycles : 0 (0.6)
+Side-to-side cycles  : 1358 (1017)
+Total cycles         : 1358 (1017)
+Right in             : 100% cases
+
+Test #31
+N                    : 631541755781910269981270708696982091
+Required times       : 41.5713 (20.5665) [s]
+Total jumps          : 853579 (432167)
+Distinguished found  : 8519 (4223)
+Speed                : 204.925 (205.334) [dP/s]
+Out of bounds cycles : 1 (0.612903)
+Side-to-side cycles  : 2090 (1051)
+Total cycles         : 2091 (1052)
+Right in             : 100% cases
+
+Test #32
+N                    : 631541755781910269981270708696982091
+Required times       : 23.3107 (20.6523) [s]
+Total jumps          : 528541 (435179)
+Distinguished found  : 4751 (4239)
+Speed                : 203.812 (205.28) [dP/s]
+Out of bounds cycles : 0 (0.59375)
+Side-to-side cycles  : 1258 (1058)
+Total cycles         : 1258 (1058)
+Right in             : 100% cases
+
+Test #33
+N                    : 631541755781910269981270708696982091
+Required times       : 22.7621 (20.7162) [s]
+Total jumps          : 455327 (435790)
+Distinguished found  : 4755 (4255)
+Speed                : 208.9 (205.4) [dP/s]
+Out of bounds cycles : 1 (0.606061)
+Side-to-side cycles  : 1182 (1061)
+Total cycles         : 1183 (1062)
+Right in             : 100% cases
+
+Test #34
+N                    : 631541755781910269981270708696982091
+Required times       : 4.92619 (20.2518) [s]
+Total jumps          : 104415 (426043)
+Distinguished found  : 1040 (4160)
+Speed                : 211.117 (205.441) [dP/s]
+Out of bounds cycles : 0 (0.588235)
+Side-to-side cycles  : 264 (1038)
+Total cycles         : 264 (1039)
+Right in             : 100% cases
+
+Test #35
+N                    : 631541755781910269981270708696982091
+Required times       : 31.3889 (20.57) [s]
+Total jumps          : 693578 (433687)
+Distinguished found  : 6350 (4223)
+Speed                : 202.301 (205.304) [dP/s]
+Out of bounds cycles : 0 (0.571429)
+Side-to-side cycles  : 1630 (1055)
+Total cycles         : 1630 (1055)
+Right in             : 100% cases
+
+Test #36
+N                    : 631541755781910269981270708696982091
+Required times       : 17.5093 (20.485) [s]
+Total jumps          : 354932 (431499)
+Distinguished found  : 3643 (4207)
+Speed                : 208.061 (205.37) [dP/s]
+Out of bounds cycles : 2 (0.611111)
+Side-to-side cycles  : 884 (1050)
+Total cycles         : 886 (1051)
+Right in             : 100% cases
+
+Test #37
+N                    : 631541755781910269981270708696982091
+Required times       : 27.0066 (20.6613) [s]
+Total jumps          : 558096 (434921)
+Distinguished found  : 5576 (4244)
+Speed                : 206.468 (205.409) [dP/s]
+Out of bounds cycles : 2 (0.648649)
+Side-to-side cycles  : 1383 (1059)
+Total cycles         : 1385 (1060)
+Right in             : 100% cases
+
+Test #38
+N                    : 631541755781910269981270708696982091
+Required times       : 31.4036 (20.9439) [s]
+Total jumps          : 658064 (440793)
+Distinguished found  : 6387 (4300)
+Speed                : 203.385 (205.329) [dP/s]
+Out of bounds cycles : 2 (0.684211)
+Side-to-side cycles  : 1608 (1074)
+Total cycles         : 1610 (1074)
+Right in             : 100% cases
+
+Test #39
+N                    : 631541755781910269981270708696982091
+Required times       : 24.1804 (21.0269) [s]
+Total jumps          : 486322 (441961)
+Distinguished found  : 4961 (4317)
+Speed                : 205.166 (205.324) [dP/s]
+Out of bounds cycles : 1 (0.692308)
+Side-to-side cycles  : 1192 (1077)
+Total cycles         : 1193 (1077)
+Right in             : 100% cases
+
+Test #40
+N                    : 631541755781910269981270708696982091
+Required times       : 18.1607 (20.9553) [s]
+Total jumps          : 364354 (440020)
+Distinguished found  : 3776 (4303)
+Speed                : 207.922 (205.38) [dP/s]
+Out of bounds cycles : 1 (0.7)
+Side-to-side cycles  : 928 (1073)
+Total cycles         : 929 (1074)
+Right in             : 100% cases
+
+Test #41
+N                    : 631541755781910269981270708696982091
+Required times       : 11.3046 (20.7199) [s]
+Total jumps          : 258399 (435591)
+Distinguished found  : 2354 (4256)
+Speed                : 208.234 (205.418) [dP/s]
+Out of bounds cycles : 0 (0.682927)
+Side-to-side cycles  : 606 (1061)
+Total cycles         : 606 (1062)
+Right in             : 100% cases
+
+Test #42
+N                    : 631541755781910269981270708696982091
+Required times       : 22.6123 (20.765) [s]
+Total jumps          : 463104 (436246)
+Distinguished found  : 4764 (4268)
+Speed                : 210.682 (205.555) [dP/s]
+Out of bounds cycles : 1 (0.690476)
+Side-to-side cycles  : 1167 (1064)
+Total cycles         : 1168 (1065)
+Right in             : 100% cases
+
+Test #43
+N                    : 631541755781910269981270708696982091
+Required times       : 15.1783 (20.635) [s]
+Total jumps          : 313856 (433399)
+Distinguished found  : 3071 (4240)
+Speed                : 202.329 (205.5) [dP/s]
+Out of bounds cycles : 0 (0.674419)
+Side-to-side cycles  : 770 (1057)
+Total cycles         : 770 (1058)
+Right in             : 100% cases
+
+Test #44
+N                    : 631541755781910269981270708696982091
+Required times       : 22.434 (20.6759) [s]
+Total jumps          : 474722 (434339)
+Distinguished found  : 4696 (4250)
+Speed                : 209.325 (205.594) [dP/s]
+Out of bounds cycles : 1 (0.681818)
+Side-to-side cycles  : 1148 (1059)
+Total cycles         : 1149 (1060)
+Right in             : 100% cases
+
+Test #45
+N                    : 631541755781910269981270708696982091
+Required times       : 12.1225 (20.4858) [s]
+Total jumps          : 242787 (430082)
+Distinguished found  : 2578 (4213)
+Speed                : 212.663 (205.687) [dP/s]
+Out of bounds cycles : 0 (0.666667)
+Side-to-side cycles  : 595 (1049)
+Total cycles         : 595 (1049)
+Right in             : 100% cases
+
+Test #46
+N                    : 631541755781910269981270708696982091
+Required times       : 22.2599 (20.5244) [s]
+Total jumps          : 466702 (430878)
+Distinguished found  : 4568 (4221)
+Speed                : 205.212 (205.676) [dP/s]
+Out of bounds cycles : 0 (0.652174)
+Side-to-side cycles  : 1094 (1050)
+Total cycles         : 1094 (1050)
+Right in             : 100% cases
+
+Test #47
+N                    : 631541755781910269981270708696982091
+Required times       : 25.4575 (20.6294) [s]
+Total jumps          : 525211 (432885)
+Distinguished found  : 5340 (4245)
+Speed                : 209.761 (205.783) [dP/s]
+Out of bounds cycles : 2 (0.680851)
+Side-to-side cycles  : 1354 (1056)
+Total cycles         : 1356 (1057)
+Right in             : 100% cases
+
+Test #48
+N                    : 631541755781910269981270708696982091
+Required times       : 25.4567 (20.7299) [s]
+Total jumps          : 521660 (434734)
+Distinguished found  : 5249 (4266)
+Speed                : 206.194 (205.793) [dP/s]
+Out of bounds cycles : 0 (0.666667)
+Side-to-side cycles  : 1263 (1061)
+Total cycles         : 1263 (1061)
+Right in             : 100% cases
+
+Test #49
+N                    : 631541755781910269981270708696982091
+Required times       : 18.3715 (20.6818) [s]
+Total jumps          : 364207 (433295)
+Distinguished found  : 3873 (4258)
+Speed                : 210.816 (205.884) [dP/s]
+Out of bounds cycles : 0 (0.653061)
+Side-to-side cycles  : 927 (1058)
+Total cycles         : 927 (1058)
+Right in             : 100% cases
+
+Test #50
+N                    : 631541755781910269981270708696982091
+Required times       : 8.70446 (20.4423) [s]
+Total jumps          : 182042 (428270)
+Distinguished found  : 1845 (4209)
+Speed                : 211.96 (205.936) [dP/s]
+Out of bounds cycles : 0 (0.64)
+Side-to-side cycles  : 469 (1046)
+Total cycles         : 469 (1047)
+Right in             : 100% cases
+
+Test #51
+N                    : 631541755781910269981270708696982091
+Required times       : 41.7206 (20.8595) [s]
+Total jumps          : 859341 (436722)
+Distinguished found  : 8630 (4296)
+Speed                : 206.852 (205.972) [dP/s]
+Out of bounds cycles : 1 (0.647059)
+Side-to-side cycles  : 2177 (1068)
+Total cycles         : 2178 (1069)
+Right in             : 100% cases
+
+Test #52
+N                    : 631541755781910269981270708696982091
+Required times       : 24.7355 (20.934) [s]
+Total jumps          : 488175 (437712)
+Distinguished found  : 5092 (4311)
+Speed                : 205.858 (205.97) [dP/s]
+Out of bounds cycles : 2 (0.673077)
+Side-to-side cycles  : 1221 (1071)
+Total cycles         : 1223 (1072)
+Right in             : 100% cases
+
+Test #53
+N                    : 631541755781910269981270708696982091
+Required times       : 12.2562 (20.7703) [s]
+Total jumps          : 247385 (434121)
+Distinguished found  : 2596 (4279)
+Speed                : 211.811 (206.035) [dP/s]
+Out of bounds cycles : 0 (0.660377)
+Side-to-side cycles  : 626 (1063)
+Total cycles         : 626 (1063)
+Right in             : 100% cases
+
+Test #54
+N                    : 631541755781910269981270708696982091
+Required times       : 13.1957 (20.63) [s]
+Total jumps          : 296111 (431565)
+Distinguished found  : 2659 (4249)
+Speed                : 201.505 (205.981) [dP/s]
+Out of bounds cycles : 0 (0.648148)
+Side-to-side cycles  : 702 (1056)
+Total cycles         : 702 (1057)
+Right in             : 100% cases
+
+Test #55
+N                    : 631541755781910269981270708696982091
+Required times       : 33.9228 (20.8717) [s]
+Total jumps          : 713116 (436684)
+Distinguished found  : 6906 (4297)
+Speed                : 203.58 (205.91) [dP/s]
+Out of bounds cycles : 1 (0.654545)
+Side-to-side cycles  : 1771 (1069)
+Total cycles         : 1772 (1070)
+Right in             : 100% cases
+
+Test #56
+N                    : 631541755781910269981270708696982091
+Required times       : 5.03665 (20.5889) [s]
+Total jumps          : 110634 (430862)
+Distinguished found  : 1037 (4239)
+Speed                : 205.891 (205.91) [dP/s]
+Out of bounds cycles : 0 (0.642857)
+Side-to-side cycles  : 280 (1055)
+Total cycles         : 280 (1056)
+Right in             : 100% cases
+
+Test #57
+N                    : 631541755781910269981270708696982091
+Required times       : 13.648 (20.4672) [s]
+Total jumps          : 279889 (428213)
+Distinguished found  : 2863 (4215)
+Speed                : 209.774 (205.955) [dP/s]
+Out of bounds cycles : 0 (0.631579)
+Side-to-side cycles  : 739 (1049)
+Total cycles         : 739 (1050)
+Right in             : 100% cases
+
+Test #58
+N                    : 631541755781910269981270708696982091
+Required times       : 33.0651 (20.6844) [s]
+Total jumps          : 692011 (432761)
+Distinguished found  : 6804 (4259)
+Speed                : 205.776 (205.95) [dP/s]
+Out of bounds cycles : 0 (0.62069)
+Side-to-side cycles  : 1692 (1060)
+Total cycles         : 1692 (1061)
+Right in             : 100% cases
+
+Test #59
+N                    : 631541755781910269981270708696982091
+Required times       : 18.1031 (20.6406) [s]
+Total jumps          : 382865 (431916)
+Distinguished found  : 3661 (4249)
+Speed                : 202.231 (205.895) [dP/s]
+Out of bounds cycles : 0 (0.610169)
+Side-to-side cycles  : 924 (1058)
+Total cycles         : 924 (1059)
+Right in             : 100% cases
+
+Test #60
+N                    : 631541755781910269981270708696982091
+Required times       : 36.0715 (20.8978) [s]
+Total jumps          : 737344 (437006)
+Distinguished found  : 7295 (4300)
+Speed                : 202.237 (205.79) [dP/s]
+Out of bounds cycles : 1 (0.616667)
+Side-to-side cycles  : 1835 (1071)
+Total cycles         : 1836 (1072)
+Right in             : 100% cases
+
+Test #61
+N                    : 631541755781910269981270708696982091
+Required times       : 17.2109 (20.8374) [s]
+Total jumps          : 340156 (435418)
+Distinguished found  : 3540 (4288)
+Speed                : 205.684 (205.788) [dP/s]
+Out of bounds cycles : 1 (0.622951)
+Side-to-side cycles  : 872 (1068)
+Total cycles         : 873 (1068)
+Right in             : 100% cases
+
+Test #62
+N                    : 631541755781910269981270708696982091
+Required times       : 51.9059 (21.3385) [s]
+Total jumps          : 1099561 (446130)
+Distinguished found  : 10330 (4385)
+Speed                : 199.014 (205.522) [dP/s]
+Out of bounds cycles : 3 (0.66129)
+Side-to-side cycles  : 2703 (1094)
+Total cycles         : 2706 (1095)
+Right in             : 100% cases
+
+Test #63
+N                    : 631541755781910269981270708696982091
+Required times       : 17.3783 (21.2756) [s]
+Total jumps          : 380514 (445089)
+Distinguished found  : 3465 (4370)
+Speed                : 199.387 (205.443) [dP/s]
+Out of bounds cycles : 0 (0.650794)
+Side-to-side cycles  : 858 (1090)
+Total cycles         : 858 (1091)
+Right in             : 100% cases
+
+Test #64
+N                    : 631541755781910269981270708696982091
+Required times       : 1.78041 (20.971) [s]
+Total jumps          : 32630 (438644)
+Distinguished found  : 395 (4308)
+Speed                : 221.859 (205.465) [dP/s]
+Out of bounds cycles : 0 (0.640625)
+Side-to-side cycles  : 103 (1075)
+Total cycles         : 103 (1076)
+Right in             : 100% cases
+
+Test #65
+N                    : 631541755781910269981270708696982091
+Required times       : 10.2642 (20.8063) [s]
+Total jumps          : 234698 (435507)
+Distinguished found  : 2087 (4274)
+Speed                : 203.329 (205.448) [dP/s]
+Out of bounds cycles : 0 (0.630769)
+Side-to-side cycles  : 562 (1067)
+Total cycles         : 562 (1068)
+Right in             : 100% cases
+
+Test #66
+N                    : 631541755781910269981270708696982091
+Required times       : 34.3412 (21.0113) [s]
+Total jumps          : 687534 (439325)
+Distinguished found  : 7093 (4317)
+Speed                : 206.545 (205.476) [dP/s]
+Out of bounds cycles : 2 (0.651515)
+Side-to-side cycles  : 1708 (1077)
+Total cycles         : 1710 (1077)
+Right in             : 100% cases
+
+Test #67
+N                    : 631541755781910269981270708696982091
+Required times       : 14.888 (20.92) [s]
+Total jumps          : 322308 (437579)
+Distinguished found  : 3052 (4298)
+Speed                : 204.998 (205.47) [dP/s]
+Out of bounds cycles : 0 (0.641791)
+Side-to-side cycles  : 768 (1072)
+Total cycles         : 768 (1073)
+Right in             : 100% cases
+
+Test #68
+N                    : 631541755781910269981270708696982091
+Required times       : 22.3831 (20.9415) [s]
+Total jumps          : 470241 (438059)
+Distinguished found  : 4593 (4302)
+Speed                : 205.2 (205.466) [dP/s]
+Out of bounds cycles : 1 (0.647059)
+Side-to-side cycles  : 1125 (1073)
+Total cycles         : 1126 (1074)
+Right in             : 100% cases
+
+Test #69
+N                    : 631541755781910269981270708696982091
+Required times       : 36.4166 (21.1657) [s]
+Total jumps          : 791864 (443186)
+Distinguished found  : 7517 (4349)
+Speed                : 206.417 (205.49) [dP/s]
+Out of bounds cycles : 1 (0.652174)
+Side-to-side cycles  : 1942 (1085)
+Total cycles         : 1943 (1086)
+Right in             : 100% cases
+
+Test #70
+N                    : 631541755781910269981270708696982091
+Required times       : 17.7368 (21.1168) [s]
+Total jumps          : 376838 (442239)
+Distinguished found  : 3718 (4340)
+Speed                : 209.62 (205.539) [dP/s]
+Out of bounds cycles : 0 (0.642857)
+Side-to-side cycles  : 932 (1083)
+Total cycles         : 932 (1084)
+Right in             : 100% cases
+
+Test #71
+N                    : 631541755781910269981270708696982091
+Required times       : 15.2063 (21.0335) [s]
+Total jumps          : 320502 (440524)
+Distinguished found  : 3076 (4322)
+Speed                : 202.284 (205.506) [dP/s]
+Out of bounds cycles : 0 (0.633803)
+Side-to-side cycles  : 789 (1079)
+Total cycles         : 789 (1080)
+Right in             : 100% cases
+
+Test #72
+N                    : 631541755781910269981270708696982091
+Required times       : 27.1583 (21.1186) [s]
+Total jumps          : 605182 (442811)
+Distinguished found  : 5540 (4339)
+Speed                : 203.99 (205.479) [dP/s]
+Out of bounds cycles : 1 (0.638889)
+Side-to-side cycles  : 1470 (1085)
+Total cycles         : 1471 (1085)
+Right in             : 100% cases
+
+Test #73
+N                    : 631541755781910269981270708696982091
+Required times       : 22.9002 (21.143) [s]
+Total jumps          : 490134 (443459)
+Distinguished found  : 4598 (4342)
+Speed                : 200.785 (205.41) [dP/s]
+Out of bounds cycles : 0 (0.630137)
+Side-to-side cycles  : 1156 (1086)
+Total cycles         : 1156 (1086)
+Right in             : 100% cases
+
+Test #74
+N                    : 631541755781910269981270708696982091
+Required times       : 2.27022 (20.8879) [s]
+Total jumps          : 49253 (438132)
+Distinguished found  : 461 (4290)
+Speed                : 203.064 (205.406) [dP/s]
+Out of bounds cycles : 1 (0.635135)
+Side-to-side cycles  : 128 (1073)
+Total cycles         : 129 (1073)
+Right in             : 100% cases
+
+Test #75
+N                    : 631541755781910269981270708696982091
+Required times       : 8.62324 (20.7244) [s]
+Total jumps          : 187652 (434792)
+Distinguished found  : 1740 (4256)
+Speed                : 201.78 (205.386) [dP/s]
+Out of bounds cycles : 0 (0.626667)
+Side-to-side cycles  : 444 (1064)
+Total cycles         : 444 (1065)
+Right in             : 100% cases
+
+Test #76
+N                    : 631541755781910269981270708696982091
+Required times       : 23.4812 (20.7607) [s]
+Total jumps          : 504326 (435707)
+Distinguished found  : 4825 (4263)
+Speed                : 205.484 (205.387) [dP/s]
+Out of bounds cycles : 1 (0.631579)
+Side-to-side cycles  : 1224 (1066)
+Total cycles         : 1225 (1067)
+Right in             : 100% cases
+
+Test #77
+N                    : 631541755781910269981270708696982091
+Required times       : 12.86 (20.6581) [s]
+Total jumps          : 291792 (433838)
+Distinguished found  : 2649 (4243)
+Speed                : 205.988 (205.392) [dP/s]
+Out of bounds cycles : 0 (0.623377)
+Side-to-side cycles  : 675 (1061)
+Total cycles         : 675 (1062)
+Right in             : 100% cases
+
+Test #78
+N                    : 631541755781910269981270708696982091
+Required times       : 9.48536 (20.5148) [s]
+Total jumps          : 195023 (430776)
+Distinguished found  : 1985 (4214)
+Speed                : 209.27 (205.415) [dP/s]
+Out of bounds cycles : 2 (0.641026)
+Side-to-side cycles  : 486 (1054)
+Total cycles         : 488 (1054)
+Right in             : 100% cases
+
+Test #79
+N                    : 631541755781910269981270708696982091
+Required times       : 30.8583 (20.6458) [s]
+Total jumps          : 676672 (433889)
+Distinguished found  : 6291 (4240)
+Speed                : 203.867 (205.386) [dP/s]
+Out of bounds cycles : 1 (0.64557)
+Side-to-side cycles  : 1604 (1061)
+Total cycles         : 1605 (1061)
+Right in             : 100% cases
+
+Test #80
+N                    : 631541755781910269981270708696982091
+Required times       : 43.3658 (20.9298) [s]
+Total jumps          : 911251 (439856)
+Distinguished found  : 8854 (4298)
+Speed                : 204.17 (205.355) [dP/s]
+Out of bounds cycles : 2 (0.6625)
+Side-to-side cycles  : 2170 (1075)
+Total cycles         : 2172 (1075)
+Right in             : 100% cases
+
+Test #81
+N                    : 631541755781910269981270708696982091
+Required times       : 20.7013 (20.927) [s]
+Total jumps          : 447947 (439956)
+Distinguished found  : 4308 (4298)
+Speed                : 208.103 (205.388) [dP/s]
+Out of bounds cycles : 0 (0.654321)
+Side-to-side cycles  : 1045 (1074)
+Total cycles         : 1045 (1075)
+Right in             : 100% cases
+
+Test #82
+N                    : 631541755781910269981270708696982091
+Required times       : 18.3694 (20.8958) [s]
+Total jumps          : 373932 (439151)
+Distinguished found  : 3898 (4293)
+Speed                : 212.2 (205.461) [dP/s]
+Out of bounds cycles : 1 (0.658537)
+Side-to-side cycles  : 932 (1073)
+Total cycles         : 933 (1073)
+Right in             : 100% cases
+
+Test #83
+N                    : 631541755781910269981270708696982091
+Required times       : 14.3623 (20.8171) [s]
+Total jumps          : 300062 (437475)
+Distinguished found  : 3008 (4277)
+Speed                : 209.437 (205.494) [dP/s]
+Out of bounds cycles : 1 (0.662651)
+Side-to-side cycles  : 724 (1068)
+Total cycles         : 725 (1069)
+Right in             : 100% cases
+
+Test #84
+N                    : 631541755781910269981270708696982091
+Required times       : 5.32024 (20.6326) [s]
+Total jumps          : 109626 (433572)
+Distinguished found  : 1085 (4239)
+Speed                : 203.938 (205.489) [dP/s]
+Out of bounds cycles : 1 (0.666667)
+Side-to-side cycles  : 279 (1059)
+Total cycles         : 280 (1060)
+Right in             : 100% cases
+
+Test #85
+N                    : 631541755781910269981270708696982091
+Required times       : 32.5291 (20.7725) [s]
+Total jumps          : 684217 (436521)
+Distinguished found  : 6818 (4270)
+Speed                : 209.597 (205.565) [dP/s]
+Out of bounds cycles : 0 (0.658824)
+Side-to-side cycles  : 1672 (1066)
+Total cycles         : 1672 (1067)
+Right in             : 100% cases
+
+Test #86
+N                    : 631541755781910269981270708696982091
+Required times       : 13.498 (20.6879) [s]
+Total jumps          : 291309 (434832)
+Distinguished found  : 2786 (4252)
+Speed                : 206.401 (205.571) [dP/s]
+Out of bounds cycles : 0 (0.651163)
+Side-to-side cycles  : 688 (1062)
+Total cycles         : 688 (1062)
+Right in             : 100% cases
+
+Test #87
+N                    : 631541755781910269981270708696982091
+Required times       : 13.2631 (20.6026) [s]
+Total jumps          : 282939 (433086)
+Distinguished found  : 2783 (4235)
+Speed                : 209.83 (205.603) [dP/s]
+Out of bounds cycles : 1 (0.655172)
+Side-to-side cycles  : 690 (1057)
+Total cycles         : 691 (1058)
+Right in             : 100% cases
+
+Test #88
+N                    : 631541755781910269981270708696982091
+Required times       : 18.7631 (20.5817) [s]
+Total jumps          : 420586 (432944)
+Distinguished found  : 3857 (4231)
+Speed                : 205.563 (205.603) [dP/s]
+Out of bounds cycles : 1 (0.659091)
+Side-to-side cycles  : 1014 (1057)
+Total cycles         : 1015 (1058)
+Right in             : 100% cases
+
+Test #89
+N                    : 631541755781910269981270708696982091
+Required times       : 28.7028 (20.6729) [s]
+Total jumps          : 602966 (434855)
+Distinguished found  : 5987 (4251)
+Speed                : 208.586 (205.649) [dP/s]
+Out of bounds cycles : 3 (0.685393)
+Side-to-side cycles  : 1429 (1061)
+Total cycles         : 1432 (1062)
+Right in             : 100% cases
+
+Test #90
+N                    : 631541755781910269981270708696982091
+Required times       : 14.2389 (20.6015) [s]
+Total jumps          : 298754 (433342)
+Distinguished found  : 2937 (4236)
+Speed                : 206.265 (205.654) [dP/s]
+Out of bounds cycles : 1 (0.688889)
+Side-to-side cycles  : 734 (1057)
+Total cycles         : 735 (1058)
+Right in             : 100% cases
+
+Test #91
+N                    : 631541755781910269981270708696982091
+Required times       : 30.9772 (20.7155) [s]
+Total jumps          : 646758 (435688)
+Distinguished found  : 6487 (4261)
+Speed                : 209.412 (205.716) [dP/s]
+Out of bounds cycles : 4 (0.725275)
+Side-to-side cycles  : 1635 (1064)
+Total cycles         : 1639 (1065)
+Right in             : 100% cases
+
+Test #92
+N                    : 631541755781910269981270708696982091
+Required times       : 14.0234 (20.6427) [s]
+Total jumps          : 288483 (434088)
+Distinguished found  : 2912 (4246)
+Speed                : 207.652 (205.73) [dP/s]
+Out of bounds cycles : 1 (0.728261)
+Side-to-side cycles  : 743 (1060)
+Total cycles         : 744 (1061)
+Right in             : 100% cases
+
+Test #93
+N                    : 631541755781910269981270708696982091
+Required times       : 19.8438 (20.6341) [s]
+Total jumps          : 457567 (434340)
+Distinguished found  : 4041 (4244)
+Speed                : 203.64 (205.708) [dP/s]
+Out of bounds cycles : 1 (0.731183)
+Side-to-side cycles  : 1084 (1061)
+Total cycles         : 1085 (1061)
+Right in             : 100% cases
+
+Test #94
+N                    : 631541755781910269981270708696982091
+Required times       : 9.99886 (20.521) [s]
+Total jumps          : 206027 (431911)
+Distinguished found  : 2091 (4221)
+Speed                : 209.124 (205.726) [dP/s]
+Out of bounds cycles : 0 (0.723404)
+Side-to-side cycles  : 497 (1055)
+Total cycles         : 497 (1055)
+Right in             : 100% cases
+
+Test #95
+N                    : 631541755781910269981270708696982091
+Required times       : 38.0128 (20.7051) [s]
+Total jumps          : 766148 (435429)
+Distinguished found  : 7814 (4259)
+Speed                : 205.562 (205.723) [dP/s]
+Out of bounds cycles : 3 (0.747368)
+Side-to-side cycles  : 1955 (1064)
+Total cycles         : 1958 (1065)
+Right in             : 100% cases
+
+Test #96
+N                    : 631541755781910269981270708696982091
+Required times       : 15.1088 (20.6468) [s]
+Total jumps          : 319400 (434221)
+Distinguished found  : 3059 (4247)
+Speed                : 202.465 (205.698) [dP/s]
+Out of bounds cycles : 1 (0.75)
+Side-to-side cycles  : 807 (1061)
+Total cycles         : 808 (1062)
+Right in             : 100% cases
+
+Test #97
+N                    : 631541755781910269981270708696982091
+Required times       : 44.318 (20.8909) [s]
+Total jumps          : 978690 (439834)
+Distinguished found  : 9086 (4296)
+Speed                : 205.018 (205.683) [dP/s]
+Out of bounds cycles : 1 (0.752577)
+Side-to-side cycles  : 2289 (1074)
+Total cycles         : 2290 (1075)
+Right in             : 100% cases
+
+Test #98
+N                    : 631541755781910269981270708696982091
+Required times       : 20.4421 (20.8863) [s]
+Total jumps          : 418083 (439612)
+Distinguished found  : 4424 (4298)
+Speed                : 216.416 (205.79) [dP/s]
+Out of bounds cycles : 0 (0.744898)
+Side-to-side cycles  : 1085 (1074)
+Total cycles         : 1085 (1075)
+Right in             : 100% cases
+
+Test #99
+N                    : 631541755781910269981270708696982091
+Required times       : 17.3566 (20.8506) [s]
+Total jumps          : 371114 (438920)
+Distinguished found  : 3638 (4291)
+Speed                : 209.604 (205.822) [dP/s]
+Out of bounds cycles : 2 (0.757576)
+Side-to-side cycles  : 910 (1072)
+Total cycles         : 912 (1073)
+Right in             : 100% cases
+
+Test #100
+N                    : 631541755781910269981270708696982091
+Required times       : 14.4638 (20.7868) [s]
+Total jumps          : 300894 (437540)
+Distinguished found  : 3036 (4278)
+Speed                : 209.903 (205.851) [dP/s]
+Out of bounds cycles : 1 (0.76)
+Side-to-side cycles  : 768 (1069)
+Total cycles         : 769 (1070)
+Right in             : 100% cases
+
+
+==================================================================================
+Time                 : 20.7868 [sec]
+Jumps                : 437540
+Ratio                : 1.83368
+Speed                : 205.851 [dP/s]
+Cycles out of bounds : 0.76
+Side-to-side cycles  : 1069.91
+Total cycles         : 1070.67
+==================================================================================
+
+==================================================================================
+--- p  : 701030978491237579
+--- m  : 111546435
+--- f  : x^5 + 285885273498137656x^4 + 298353418055891013x^3 + 282154641189766253x^2 + 404972973060618437x + 399432609650234439
+--- s1 : 33154747 = 33154747 (mod m)
+--- s2 : 96818669 = 96818669 (mod m)
+--- N  : 491444432077361943290091744645979916
+--- pD : 9
+
+Test #101
+N                    : 491444432077361943290091744645979916
+Required times       : 6.34514 (20.6438) [s]
+Total jumps          : 126692 (434462)
+Distinguished found  : 1315 (4249)
+Speed                : 207.245 (205.855) [dP/s]
+Out of bounds cycles : 1 (0.762376)
+Side-to-side cycles  : 336 (1062)
+Total cycles         : 337 (1063)
+Right in             : 100% cases
+
+Test #102
+N                    : 491444432077361943290091744645979916
+Required times       : 6.05807 (20.5008) [s]
+Total jumps          : 128208 (431460)
+Distinguished found  : 1264 (4220)
+Speed                : 208.647 (205.863) [dP/s]
+Out of bounds cycles : 0 (0.754902)
+Side-to-side cycles  : 311 (1055)
+Total cycles         : 311 (1056)
+Right in             : 100% cases
+
+Test #103
+N                    : 491444432077361943290091744645979916
+Required times       : 20.8943 (20.5046) [s]
+Total jumps          : 454342 (431682)
+Distinguished found  : 4278 (4220)
+Speed                : 204.745 (205.852) [dP/s]
+Out of bounds cycles : 0 (0.747573)
+Side-to-side cycles  : 1074 (1055)
+Total cycles         : 1074 (1056)
+Right in             : 100% cases
+
+Test #104
+N                    : 491444432077361943290091744645979916
+Required times       : 16.1889 (20.4631) [s]
+Total jumps          : 340637 (430806)
+Distinguished found  : 3415 (4213)
+Speed                : 210.947 (205.891) [dP/s]
+Out of bounds cycles : 1 (0.75)
+Side-to-side cycles  : 807 (1053)
+Total cycles         : 808 (1053)
+Right in             : 100% cases
+
+Test #105
+N                    : 491444432077361943290091744645979916
+Required times       : 9.28768 (20.3567) [s]
+Total jumps          : 199912 (428607)
+Distinguished found  : 1840 (4190)
+Speed                : 198.112 (205.857) [dP/s]
+Out of bounds cycles : 0 (0.742857)
+Side-to-side cycles  : 476 (1047)
+Total cycles         : 476 (1048)
+Right in             : 100% cases
+
+Test #106
+N                    : 491444432077361943290091744645979916
+Required times       : 20.854 (20.3614) [s]
+Total jumps          : 432952 (428648)
+Distinguished found  : 4322 (4191)
+Speed                : 207.25 (205.87) [dP/s]
+Out of bounds cycles : 0 (0.735849)
+Side-to-side cycles  : 1083 (1047)
+Total cycles         : 1083 (1048)
+Right in             : 100% cases
+
+Test #107
+N                    : 491444432077361943290091744645979916
+Required times       : 10.1518 (20.2659) [s]
+Total jumps          : 211972 (426623)
+Distinguished found  : 2095 (4172)
+Speed                : 206.366 (205.873) [dP/s]
+Out of bounds cycles : 1 (0.738318)
+Side-to-side cycles  : 523 (1043)
+Total cycles         : 524 (1043)
+Right in             : 100% cases
+
+Test #108
+N                    : 491444432077361943290091744645979916
+Required times       : 7.16035 (20.1446) [s]
+Total jumps          : 145625 (424021)
+Distinguished found  : 1441 (4146)
+Speed                : 201.247 (205.858) [dP/s]
+Out of bounds cycles : 0 (0.731481)
+Side-to-side cycles  : 340 (1036)
+Total cycles         : 340 (1037)
+Right in             : 100% cases
+
+Test #109
+N                    : 491444432077361943290091744645979916
+Required times       : 15.718 (20.104) [s]
+Total jumps          : 346386 (423309)
+Distinguished found  : 3270 (4138)
+Speed                : 208.042 (205.873) [dP/s]
+Out of bounds cycles : 1 (0.733945)
+Side-to-side cycles  : 841 (1034)
+Total cycles         : 842 (1035)
+Right in             : 100% cases
+
+Test #110
+N                    : 491444432077361943290091744645979916
+Required times       : 16.121 (20.0678) [s]
+Total jumps          : 371605 (422839)
+Distinguished found  : 3164 (4130)
+Speed                : 196.266 (205.803) [dP/s]
+Out of bounds cycles : 3 (0.754545)
+Side-to-side cycles  : 812 (1032)
+Total cycles         : 815 (1033)
+Right in             : 100% cases
+
+Test #111
+N                    : 491444432077361943290091744645979916
+Required times       : 27.2148 (20.1322) [s]
+Total jumps          : 596091 (424400)
+Distinguished found  : 5675 (4143)
+Speed                : 208.526 (205.836) [dP/s]
+Out of bounds cycles : 1 (0.756757)
+Side-to-side cycles  : 1521 (1037)
+Total cycles         : 1522 (1037)
+Right in             : 100% cases
+
+Test #112
+N                    : 491444432077361943290091744645979916
+Required times       : 27.4826 (20.1978) [s]
+Total jumps          : 572451 (425722)
+Distinguished found  : 5593 (4156)
+Speed                : 203.511 (205.808) [dP/s]
+Out of bounds cycles : 0 (0.75)
+Side-to-side cycles  : 1388 (1040)
+Total cycles         : 1388 (1040)
+Right in             : 100% cases
+
+Test #113
+N                    : 491444432077361943290091744645979916
+Required times       : 19.115 (20.1882) [s]
+Total jumps          : 399698 (425492)
+Distinguished found  : 4028 (4155)
+Speed                : 210.725 (205.849) [dP/s]
+Out of bounds cycles : 1 (0.752212)
+Side-to-side cycles  : 1017 (1040)
+Total cycles         : 1018 (1040)
+Right in             : 100% cases
+
+Test #114
+N                    : 491444432077361943290091744645979916
+Required times       : 31.7936 (20.29) [s]
+Total jumps          : 665480 (427597)
+Distinguished found  : 6504 (4176)
+Speed                : 204.569 (205.832) [dP/s]
+Out of bounds cycles : 3 (0.77193)
+Side-to-side cycles  : 1648 (1045)
+Total cycles         : 1651 (1046)
+Right in             : 100% cases
+
+Test #115
+N                    : 491444432077361943290091744645979916
+Required times       : 10.2731 (20.2029) [s]
+Total jumps          : 208651 (425693)
+Distinguished found  : 2153 (4158)
+Speed                : 209.577 (205.848) [dP/s]
+Out of bounds cycles : 0 (0.765217)
+Side-to-side cycles  : 509 (1040)
+Total cycles         : 509 (1041)
+Right in             : 100% cases
+
+Test #116
+N                    : 491444432077361943290091744645979916
+Required times       : 7.40887 (20.0926) [s]
+Total jumps          : 162105 (423421)
+Distinguished found  : 1535 (4136)
+Speed                : 207.184 (205.852) [dP/s]
+Out of bounds cycles : 0 (0.758621)
+Side-to-side cycles  : 387 (1035)
+Total cycles         : 387 (1035)
+Right in             : 100% cases
+
+Test #117
+N                    : 491444432077361943290091744645979916
+Required times       : 10.0009 (20.0064) [s]
+Total jumps          : 208179 (421581)
+Distinguished found  : 2087 (4118)
+Speed                : 208.682 (205.864) [dP/s]
+Out of bounds cycles : 1 (0.760684)
+Side-to-side cycles  : 528 (1030)
+Total cycles         : 529 (1031)
+Right in             : 100% cases
+
+Test #118
+N                    : 491444432077361943290091744645979916
+Required times       : 25.1488 (20.0499) [s]
+Total jumps          : 532215 (422518)
+Distinguished found  : 5219 (4127)
+Speed                : 207.525 (205.882) [dP/s]
+Out of bounds cycles : 2 (0.771186)
+Side-to-side cycles  : 1352 (1033)
+Total cycles         : 1354 (1034)
+Right in             : 100% cases
+
+Test #119
+N                    : 491444432077361943290091744645979916
+Required times       : 13.5065 (19.995) [s]
+Total jumps          : 259913 (421152)
+Distinguished found  : 2806 (4116)
+Speed                : 207.752 (205.893) [dP/s]
+Out of bounds cycles : 1 (0.773109)
+Side-to-side cycles  : 640 (1030)
+Total cycles         : 641 (1030)
+Right in             : 100% cases
+
+Test #120
+N                    : 491444432077361943290091744645979916
+Required times       : 18.2876 (19.9807) [s]
+Total jumps          : 381882 (420825)
+Distinguished found  : 3849 (4114)
+Speed                : 210.471 (205.928) [dP/s]
+Out of bounds cycles : 0 (0.766667)
+Side-to-side cycles  : 930 (1029)
+Total cycles         : 930 (1030)
+Right in             : 100% cases
+
+Test #121
+N                    : 491444432077361943290091744645979916
+Required times       : 12.9088 (19.9223) [s]
+Total jumps          : 264173 (419530)
+Distinguished found  : 2626 (4102)
+Speed                : 203.427 (205.914) [dP/s]
+Out of bounds cycles : 2 (0.77686)
+Side-to-side cycles  : 621 (1025)
+Total cycles         : 623 (1026)
+Right in             : 100% cases
+
+Test #122
+N                    : 491444432077361943290091744645979916
+Required times       : 15.1016 (19.8828) [s]
+Total jumps          : 326071 (418764)
+Distinguished found  : 3169 (4094)
+Speed                : 209.846 (205.939) [dP/s]
+Out of bounds cycles : 0 (0.770492)
+Side-to-side cycles  : 813 (1024)
+Total cycles         : 813 (1024)
+Right in             : 100% cases
+
+Test #123
+N                    : 491444432077361943290091744645979916
+Required times       : 15.566 (19.8477) [s]
+Total jumps          : 316303 (417931)
+Distinguished found  : 3303 (4088)
+Speed                : 212.193 (205.979) [dP/s]
+Out of bounds cycles : 0 (0.764228)
+Side-to-side cycles  : 797 (1022)
+Total cycles         : 797 (1023)
+Right in             : 100% cases
+
+Test #124
+N                    : 491444432077361943290091744645979916
+Required times       : 6.17586 (19.7374) [s]
+Total jumps          : 131468 (415621)
+Distinguished found  : 1293 (4065)
+Speed                : 209.364 (205.987) [dP/s]
+Out of bounds cycles : 0 (0.758065)
+Side-to-side cycles  : 308 (1016)
+Total cycles         : 308 (1017)
+Right in             : 100% cases
+
+Test #125
+N                    : 491444432077361943290091744645979916
+Required times       : 42.922 (19.9229) [s]
+Total jumps          : 870129 (419257)
+Distinguished found  : 8832 (4103)
+Speed                : 205.769 (205.983) [dP/s]
+Out of bounds cycles : 1 (0.76)
+Side-to-side cycles  : 2111 (1025)
+Total cycles         : 2112 (1026)
+Right in             : 100% cases
+
+Test #126
+N                    : 491444432077361943290091744645979916
+Required times       : 17.2956 (19.902) [s]
+Total jumps          : 360243 (418788)
+Distinguished found  : 3600 (4099)
+Speed                : 208.146 (205.998) [dP/s]
+Out of bounds cycles : 0 (0.753968)
+Side-to-side cycles  : 905 (1024)
+Total cycles         : 905 (1025)
+Right in             : 100% cases
+
+Test #127
+N                    : 491444432077361943290091744645979916
+Required times       : 8.24635 (19.8103) [s]
+Total jumps          : 176651 (416882)
+Distinguished found  : 1681 (4080)
+Speed                : 203.848 (205.991) [dP/s]
+Out of bounds cycles : 0 (0.748031)
+Side-to-side cycles  : 430 (1019)
+Total cycles         : 430 (1020)
+Right in             : 100% cases
+
+Test #128
+N                    : 491444432077361943290091744645979916
+Required times       : 12.8683 (19.756) [s]
+Total jumps          : 258638 (415646)
+Distinguished found  : 2726 (4070)
+Speed                : 211.838 (206.021) [dP/s]
+Out of bounds cycles : 2 (0.757812)
+Side-to-side cycles  : 671 (1016)
+Total cycles         : 673 (1017)
+Right in             : 100% cases
+
+Test #129
+N                    : 491444432077361943290091744645979916
+Required times       : 3.91513 (19.6332) [s]
+Total jumps          : 83656 (413072)
+Distinguished found  : 819 (4044)
+Speed                : 209.188 (206.026) [dP/s]
+Out of bounds cycles : 0 (0.751938)
+Side-to-side cycles  : 216 (1010)
+Total cycles         : 216 (1011)
+Right in             : 100% cases
+
+Test #130
+N                    : 491444432077361943290091744645979916
+Required times       : 7.87263 (19.5428) [s]
+Total jumps          : 167496 (411183)
+Distinguished found  : 1601 (4026)
+Speed                : 203.363 (206.018) [dP/s]
+Out of bounds cycles : 0 (0.746154)
+Side-to-side cycles  : 405 (1006)
+Total cycles         : 405 (1006)
+Right in             : 100% cases
+
+Test #131
+N                    : 491444432077361943290091744645979916
+Required times       : 5.56643 (19.4361) [s]
+Total jumps          : 117942 (408945)
+Distinguished found  : 1126 (4004)
+Speed                : 202.284 (206.009) [dP/s]
+Out of bounds cycles : 0 (0.740458)
+Side-to-side cycles  : 285 (1000)
+Total cycles         : 285 (1001)
+Right in             : 100% cases
+
+Test #132
+N                    : 491444432077361943290091744645979916
+Required times       : 32.1188 (19.5322) [s]
+Total jumps          : 682496 (411017)
+Distinguished found  : 6614 (4023)
+Speed                : 205.923 (206.008) [dP/s]
+Out of bounds cycles : 2 (0.75)
+Side-to-side cycles  : 1630 (1005)
+Total cycles         : 1632 (1006)
+Right in             : 100% cases
+
+Test #133
+N                    : 491444432077361943290091744645979916
+Required times       : 17.6322 (19.5179) [s]
+Total jumps          : 370955 (410716)
+Distinguished found  : 3679 (4021)
+Speed                : 208.653 (206.026) [dP/s]
+Out of bounds cycles : 0 (0.744361)
+Side-to-side cycles  : 907 (1004)
+Total cycles         : 907 (1005)
+Right in             : 100% cases
+
+Test #134
+N                    : 491444432077361943290091744645979916
+Required times       : 3.91938 (19.4015) [s]
+Total jumps          : 91893 (408336)
+Distinguished found  : 778 (3996)
+Speed                : 198.501 (206.015) [dP/s]
+Out of bounds cycles : 0 (0.738806)
+Side-to-side cycles  : 207 (998)
+Total cycles         : 207 (999)
+Right in             : 100% cases
+
+Test #135
+N                    : 491444432077361943290091744645979916
+Required times       : 20.4536 (19.4093) [s]
+Total jumps          : 472672 (408813)
+Distinguished found  : 4189 (3998)
+Speed                : 204.805 (206.006) [dP/s]
+Out of bounds cycles : 1 (0.740741)
+Side-to-side cycles  : 1085 (999)
+Total cycles         : 1086 (1000)
+Right in             : 100% cases
+
+Test #136
+N                    : 491444432077361943290091744645979916
+Required times       : 21.9309 (19.4278) [s]
+Total jumps          : 478528 (409326)
+Distinguished found  : 4445 (4001)
+Speed                : 202.682 (205.978) [dP/s]
+Out of bounds cycles : 1 (0.742647)
+Side-to-side cycles  : 1143 (1000)
+Total cycles         : 1144 (1001)
+Right in             : 100% cases
+
+Test #137
+N                    : 491444432077361943290091744645979916
+Required times       : 29.9068 (19.5043) [s]
+Total jumps          : 598210 (410704)
+Distinguished found  : 6178 (4017)
+Speed                : 206.575 (205.985) [dP/s]
+Out of bounds cycles : 0 (0.737226)
+Side-to-side cycles  : 1518 (1004)
+Total cycles         : 1518 (1004)
+Right in             : 100% cases
+
+Test #138
+N                    : 491444432077361943290091744645979916
+Required times       : 13.9848 (19.4643) [s]
+Total jumps          : 296726 (409878)
+Distinguished found  : 2862 (4009)
+Speed                : 204.651 (205.978) [dP/s]
+Out of bounds cycles : 0 (0.731884)
+Side-to-side cycles  : 737 (1002)
+Total cycles         : 737 (1002)
+Right in             : 100% cases
+
+Test #139
+N                    : 491444432077361943290091744645979916
+Required times       : 10.4547 (19.3995) [s]
+Total jumps          : 241689 (408668)
+Distinguished found  : 2045 (3995)
+Speed                : 195.607 (205.938) [dP/s]
+Out of bounds cycles : 1 (0.733813)
+Side-to-side cycles  : 556 (998)
+Total cycles         : 557 (999)
+Right in             : 100% cases
+
+Test #140
+N                    : 491444432077361943290091744645979916
+Required times       : 13.9673 (19.3607) [s]
+Total jumps          : 311259 (407973)
+Distinguished found  : 2907 (3987)
+Speed                : 208.128 (205.949) [dP/s]
+Out of bounds cycles : 2 (0.742857)
+Side-to-side cycles  : 752 (997)
+Total cycles         : 754 (997)
+Right in             : 100% cases
+
+Test #141
+N                    : 491444432077361943290091744645979916
+Required times       : 2.11458 (19.2384) [s]
+Total jumps          : 45075 (405399)
+Distinguished found  : 423 (3962)
+Speed                : 200.04 (205.944) [dP/s]
+Out of bounds cycles : 1 (0.744681)
+Side-to-side cycles  : 125 (991)
+Total cycles         : 126 (991)
+Right in             : 100% cases
+
+Test #142
+N                    : 491444432077361943290091744645979916
+Required times       : 9.58317 (19.1704) [s]
+Total jumps          : 202087 (403967)
+Distinguished found  : 1991 (3948)
+Speed                : 207.76 (205.951) [dP/s]
+Out of bounds cycles : 0 (0.739437)
+Side-to-side cycles  : 496 (987)
+Total cycles         : 496 (988)
+Right in             : 100% cases
+
+Test #143
+N                    : 491444432077361943290091744645979916
+Required times       : 20.402 (19.179) [s]
+Total jumps          : 458392 (404348)
+Distinguished found  : 4035 (3948)
+Speed                : 197.775 (205.89) [dP/s]
+Out of bounds cycles : 2 (0.748252)
+Side-to-side cycles  : 1039 (987)
+Total cycles         : 1041 (988)
+Right in             : 100% cases
+
+Test #144
+N                    : 491444432077361943290091744645979916
+Required times       : 24.1981 (19.2138) [s]
+Total jumps          : 512901 (405101)
+Distinguished found  : 4947 (3955)
+Speed                : 204.438 (205.877) [dP/s]
+Out of bounds cycles : 4 (0.770833)
+Side-to-side cycles  : 1240 (989)
+Total cycles         : 1244 (990)
+Right in             : 100% cases
+
+Test #145
+N                    : 491444432077361943290091744645979916
+Required times       : 3.94388 (19.1085) [s]
+Total jumps          : 82094 (402874)
+Distinguished found  : 779 (3933)
+Speed                : 197.521 (205.865) [dP/s]
+Out of bounds cycles : 0 (0.765517)
+Side-to-side cycles  : 196 (984)
+Total cycles         : 196 (984)
+Right in             : 100% cases
+
+Test #146
+N                    : 491444432077361943290091744645979916
+Required times       : 19.1197 (19.1086) [s]
+Total jumps          : 400328 (402856)
+Distinguished found  : 4029 (3934)
+Speed                : 210.725 (205.898) [dP/s]
+Out of bounds cycles : 0 (0.760274)
+Side-to-side cycles  : 951 (983)
+Total cycles         : 951 (984)
+Right in             : 100% cases
+
+Test #147
+N                    : 491444432077361943290091744645979916
+Required times       : 4.1054 (19.0065) [s]
+Total jumps          : 75339 (400628)
+Distinguished found  : 908 (3913)
+Speed                : 221.172 (205.921) [dP/s]
+Out of bounds cycles : 0 (0.755102)
+Side-to-side cycles  : 203 (978)
+Total cycles         : 203 (979)
+Right in             : 100% cases
+
+Test #148
+N                    : 491444432077361943290091744645979916
+Required times       : 12.3202 (18.9614) [s]
+Total jumps          : 264561 (399709)
+Distinguished found  : 2505 (3904)
+Speed                : 203.325 (205.91) [dP/s]
+Out of bounds cycles : 0 (0.75)
+Side-to-side cycles  : 628 (976)
+Total cycles         : 628 (977)
+Right in             : 100% cases
+
+Test #149
+N                    : 491444432077361943290091744645979916
+Required times       : 17.005 (18.9482) [s]
+Total jumps          : 371749 (399521)
+Distinguished found  : 3507 (3901)
+Speed                : 206.234 (205.911) [dP/s]
+Out of bounds cycles : 1 (0.751678)
+Side-to-side cycles  : 893 (975)
+Total cycles         : 894 (976)
+Right in             : 100% cases
+
+Test #150
+N                    : 491444432077361943290091744645979916
+Required times       : 8.61602 (18.8793) [s]
+Total jumps          : 189394 (398120)
+Distinguished found  : 1828 (3887)
+Speed                : 212.163 (205.931) [dP/s]
+Out of bounds cycles : 0 (0.746667)
+Side-to-side cycles  : 473 (972)
+Total cycles         : 473 (973)
+Right in             : 100% cases
+
+Test #151
+N                    : 491444432077361943290091744645979916
+Required times       : 21.4313 (18.8962) [s]
+Total jumps          : 461084 (398537)
+Distinguished found  : 4436 (3891)
+Speed                : 206.987 (205.938) [dP/s]
+Out of bounds cycles : 0 (0.741722)
+Side-to-side cycles  : 1126 (973)
+Total cycles         : 1126 (974)
+Right in             : 100% cases
+
+Test #152
+N                    : 491444432077361943290091744645979916
+Required times       : 8.71305 (18.8293) [s]
+Total jumps          : 193942 (397191)
+Distinguished found  : 1822 (3877)
+Speed                : 209.112 (205.948) [dP/s]
+Out of bounds cycles : 1 (0.743421)
+Side-to-side cycles  : 450 (969)
+Total cycles         : 451 (970)
+Right in             : 100% cases
+
+Test #153
+N                    : 491444432077361943290091744645979916
+Required times       : 26.9413 (18.8823) [s]
+Total jumps          : 577280 (398368)
+Distinguished found  : 5617 (3889)
+Speed                : 208.49 (205.972) [dP/s]
+Out of bounds cycles : 3 (0.75817)
+Side-to-side cycles  : 1502 (973)
+Total cycles         : 1505 (974)
+Right in             : 100% cases
+
+Test #154
+N                    : 491444432077361943290091744645979916
+Required times       : 11.3724 (18.8335) [s]
+Total jumps          : 246500 (397382)
+Distinguished found  : 2342 (3879)
+Speed                : 205.937 (205.972) [dP/s]
+Out of bounds cycles : 1 (0.75974)
+Side-to-side cycles  : 595 (970)
+Total cycles         : 596 (971)
+Right in             : 100% cases
+
+Test #155
+N                    : 491444432077361943290091744645979916
+Required times       : 15.7558 (18.8136) [s]
+Total jumps          : 348234 (397065)
+Distinguished found  : 3205 (3874)
+Speed                : 203.417 (205.958) [dP/s]
+Out of bounds cycles : 1 (0.76129)
+Side-to-side cycles  : 816 (969)
+Total cycles         : 817 (970)
+Right in             : 100% cases
+
+Test #156
+N                    : 491444432077361943290091744645979916
+Required times       : 8.15657 (18.7453) [s]
+Total jumps          : 180931 (395680)
+Distinguished found  : 1674 (3860)
+Speed                : 205.233 (205.956) [dP/s]
+Out of bounds cycles : 0 (0.75641)
+Side-to-side cycles  : 436 (966)
+Total cycles         : 436 (967)
+Right in             : 100% cases
+
+Test #157
+N                    : 491444432077361943290091744645979916
+Required times       : 11.8417 (18.7014) [s]
+Total jumps          : 283591 (394966)
+Distinguished found  : 2408 (3851)
+Speed                : 203.35 (205.945) [dP/s]
+Out of bounds cycles : 0 (0.751592)
+Side-to-side cycles  : 640 (964)
+Total cycles         : 640 (965)
+Right in             : 100% cases
+
+Test #158
+N                    : 491444432077361943290091744645979916
+Required times       : 9.66272 (18.6442) [s]
+Total jumps          : 198505 (393722)
+Distinguished found  : 1940 (3839)
+Speed                : 200.772 (205.928) [dP/s]
+Out of bounds cycles : 2 (0.759494)
+Side-to-side cycles  : 492 (961)
+Total cycles         : 494 (962)
+Right in             : 100% cases
+
+Test #159
+N                    : 491444432077361943290091744645979916
+Required times       : 8.52804 (18.5805) [s]
+Total jumps          : 178863 (392371)
+Distinguished found  : 1677 (3825)
+Speed                : 196.645 (205.902) [dP/s]
+Out of bounds cycles : 0 (0.754717)
+Side-to-side cycles  : 452 (958)
+Total cycles         : 452 (959)
+Right in             : 100% cases
+
+Test #160
+N                    : 491444432077361943290091744645979916
+Required times       : 4.93172 (18.4952) [s]
+Total jumps          : 106855 (390587)
+Distinguished found  : 969 (3807)
+Speed                : 196.483 (205.886) [dP/s]
+Out of bounds cycles : 0 (0.75)
+Side-to-side cycles  : 264 (953)
+Total cycles         : 264 (954)
+Right in             : 100% cases
+
+Test #161
+N                    : 491444432077361943290091744645979916
+Required times       : 14.4008 (18.4698) [s]
+Total jumps          : 316742 (390128)
+Distinguished found  : 2948 (3802)
+Speed                : 204.711 (205.88) [dP/s]
+Out of bounds cycles : 0 (0.745342)
+Side-to-side cycles  : 745 (952)
+Total cycles         : 745 (953)
+Right in             : 100% cases
+
+Test #162
+N                    : 491444432077361943290091744645979916
+Required times       : 35.1538 (18.5728) [s]
+Total jumps          : 743997 (392312)
+Distinguished found  : 7211 (3823)
+Speed                : 205.127 (205.871) [dP/s]
+Out of bounds cycles : 2 (0.753086)
+Side-to-side cycles  : 1846 (958)
+Total cycles         : 1848 (958)
+Right in             : 100% cases
+
+Test #163
+N                    : 491444432077361943290091744645979916
+Required times       : 14.6825 (18.5489) [s]
+Total jumps          : 312919 (391825)
+Distinguished found  : 3011 (3818)
+Speed                : 205.074 (205.868) [dP/s]
+Out of bounds cycles : 1 (0.754601)
+Side-to-side cycles  : 752 (956)
+Total cycles         : 753 (957)
+Right in             : 100% cases
+
+Test #164
+N                    : 491444432077361943290091744645979916
+Required times       : 6.3607 (18.4746) [s]
+Total jumps          : 139929 (390289)
+Distinguished found  : 1308 (3803)
+Speed                : 205.638 (205.867) [dP/s]
+Out of bounds cycles : 0 (0.75)
+Side-to-side cycles  : 344 (953)
+Total cycles         : 344 (953)
+Right in             : 100% cases
+
+Test #165
+N                    : 491444432077361943290091744645979916
+Required times       : 13.6712 (18.4455) [s]
+Total jumps          : 287994 (389669)
+Distinguished found  : 2868 (3797)
+Speed                : 209.783 (205.885) [dP/s]
+Out of bounds cycles : 1 (0.751515)
+Side-to-side cycles  : 685 (951)
+Total cycles         : 686 (952)
+Right in             : 100% cases
+
+Test #166
+N                    : 491444432077361943290091744645979916
+Required times       : 12.8011 (18.4115) [s]
+Total jumps          : 281620 (389018)
+Distinguished found  : 2616 (3790)
+Speed                : 204.357 (205.878) [dP/s]
+Out of bounds cycles : 0 (0.746988)
+Side-to-side cycles  : 675 (949)
+Total cycles         : 675 (950)
+Right in             : 100% cases
+
+Test #167
+N                    : 491444432077361943290091744645979916
+Required times       : 12.2753 (18.3747) [s]
+Total jumps          : 261410 (388254)
+Distinguished found  : 2574 (3783)
+Speed                : 209.69 (205.893) [dP/s]
+Out of bounds cycles : 2 (0.754491)
+Side-to-side cycles  : 661 (948)
+Total cycles         : 663 (948)
+Right in             : 100% cases
+
+Test #168
+N                    : 491444432077361943290091744645979916
+Required times       : 9.86187 (18.3241) [s]
+Total jumps          : 216657 (387233)
+Distinguished found  : 2051 (3772)
+Speed                : 207.973 (205.9) [dP/s]
+Out of bounds cycles : 1 (0.755952)
+Side-to-side cycles  : 537 (945)
+Total cycles         : 538 (946)
+Right in             : 100% cases
+
+Test #169
+N                    : 491444432077361943290091744645979916
+Required times       : 13.6004 (18.2961) [s]
+Total jumps          : 298703 (386709)
+Distinguished found  : 2748 (3766)
+Speed                : 202.053 (205.883) [dP/s]
+Out of bounds cycles : 2 (0.763314)
+Side-to-side cycles  : 708 (944)
+Total cycles         : 710 (945)
+Right in             : 100% cases
+
+Test #170
+N                    : 491444432077361943290091744645979916
+Required times       : 6.95198 (18.2294) [s]
+Total jumps          : 148480 (385308)
+Distinguished found  : 1452 (3753)
+Speed                : 208.861 (205.89) [dP/s]
+Out of bounds cycles : 0 (0.758824)
+Side-to-side cycles  : 365 (940)
+Total cycles         : 365 (941)
+Right in             : 100% cases
+
+Test #171
+N                    : 491444432077361943290091744645979916
+Required times       : 1.6693 (18.1325) [s]
+Total jumps          : 36945 (383270)
+Distinguished found  : 386 (3733)
+Speed                : 231.235 (205.904) [dP/s]
+Out of bounds cycles : 1 (0.760234)
+Side-to-side cycles  : 85 (935)
+Total cycles         : 86 (936)
+Right in             : 100% cases
+
+Test #172
+N                    : 491444432077361943290091744645979916
+Required times       : 5.42736 (18.0587) [s]
+Total jumps          : 115345 (381713)
+Distinguished found  : 1095 (3718)
+Speed                : 201.755 (205.896) [dP/s]
+Out of bounds cycles : 1 (0.761628)
+Side-to-side cycles  : 294 (932)
+Total cycles         : 295 (932)
+Right in             : 100% cases
+
+Test #173
+N                    : 491444432077361943290091744645979916
+Required times       : 36.8933 (18.1675) [s]
+Total jumps          : 772098 (383969)
+Distinguished found  : 7522 (3740)
+Speed                : 203.885 (205.873) [dP/s]
+Out of bounds cycles : 1 (0.763006)
+Side-to-side cycles  : 1876 (937)
+Total cycles         : 1877 (938)
+Right in             : 100% cases
+
+Test #174
+N                    : 491444432077361943290091744645979916
+Required times       : 14.2761 (18.1452) [s]
+Total jumps          : 286707 (383410)
+Distinguished found  : 2982 (3735)
+Speed                : 208.88 (205.886) [dP/s]
+Out of bounds cycles : 0 (0.758621)
+Side-to-side cycles  : 741 (936)
+Total cycles         : 741 (937)
+Right in             : 100% cases
+
+Test #175
+N                    : 491444432077361943290091744645979916
+Required times       : 23.4051 (18.1752) [s]
+Total jumps          : 490699 (384023)
+Distinguished found  : 4758 (3741)
+Speed                : 203.289 (205.867) [dP/s]
+Out of bounds cycles : 3 (0.771429)
+Side-to-side cycles  : 1189 (937)
+Total cycles         : 1192 (938)
+Right in             : 100% cases
+
+Test #176
+N                    : 491444432077361943290091744645979916
+Required times       : 16.5171 (18.1658) [s]
+Total jumps          : 368343 (383934)
+Distinguished found  : 3327 (3739)
+Speed                : 201.427 (205.844) [dP/s]
+Out of bounds cycles : 1 (0.772727)
+Side-to-side cycles  : 905 (937)
+Total cycles         : 906 (938)
+Right in             : 100% cases
+
+Test #177
+N                    : 491444432077361943290091744645979916
+Required times       : 20.7183 (18.1802) [s]
+Total jumps          : 423464 (384158)
+Distinguished found  : 4277 (3742)
+Speed                : 206.436 (205.848) [dP/s]
+Out of bounds cycles : 0 (0.768362)
+Side-to-side cycles  : 1076 (938)
+Total cycles         : 1076 (939)
+Right in             : 100% cases
+
+Test #178
+N                    : 491444432077361943290091744645979916
+Required times       : 28.9811 (18.2409) [s]
+Total jumps          : 611459 (385435)
+Distinguished found  : 5912 (3754)
+Speed                : 203.995 (205.832) [dP/s]
+Out of bounds cycles : 1 (0.769663)
+Side-to-side cycles  : 1534 (941)
+Total cycles         : 1535 (942)
+Right in             : 100% cases
+
+Test #179
+N                    : 491444432077361943290091744645979916
+Required times       : 26.4131 (18.2866) [s]
+Total jumps          : 577777 (386509)
+Distinguished found  : 5523 (3764)
+Speed                : 209.1 (205.858) [dP/s]
+Out of bounds cycles : 5 (0.793296)
+Side-to-side cycles  : 1453 (944)
+Total cycles         : 1458 (945)
+Right in             : 100% cases
+
+Test #180
+N                    : 491444432077361943290091744645979916
+Required times       : 20.0818 (18.2965) [s]
+Total jumps          : 416767 (386677)
+Distinguished found  : 4188 (3766)
+Speed                : 208.547 (205.874) [dP/s]
+Out of bounds cycles : 1 (0.794444)
+Side-to-side cycles  : 986 (944)
+Total cycles         : 987 (945)
+Right in             : 100% cases
+
+Test #181
+N                    : 491444432077361943290091744645979916
+Required times       : 35.7467 (18.393) [s]
+Total jumps          : 737073 (388613)
+Distinguished found  : 7411 (3786)
+Speed                : 207.32 (205.89) [dP/s]
+Out of bounds cycles : 1 (0.79558)
+Side-to-side cycles  : 1840 (949)
+Total cycles         : 1841 (950)
+Right in             : 100% cases
+
+Test #182
+N                    : 491444432077361943290091744645979916
+Required times       : 33.4133 (18.4755) [s]
+Total jumps          : 670436 (390162)
+Distinguished found  : 6653 (3802)
+Speed                : 199.112 (205.822) [dP/s]
+Out of bounds cycles : 4 (0.813187)
+Side-to-side cycles  : 1709 (954)
+Total cycles         : 1713 (954)
+Right in             : 100% cases
+
+Test #183
+N                    : 491444432077361943290091744645979916
+Required times       : 26.7984 (18.521) [s]
+Total jumps          : 564755 (391116)
+Distinguished found  : 5544 (3812)
+Speed                : 206.878 (205.831) [dP/s]
+Out of bounds cycles : 0 (0.808743)
+Side-to-side cycles  : 1420 (956)
+Total cycles         : 1420 (957)
+Right in             : 100% cases
+
+Test #184
+N                    : 491444432077361943290091744645979916
+Required times       : 17.4763 (18.5153) [s]
+Total jumps          : 379806 (391054)
+Distinguished found  : 3551 (3810)
+Speed                : 203.189 (205.817) [dP/s]
+Out of bounds cycles : 2 (0.815217)
+Side-to-side cycles  : 898 (956)
+Total cycles         : 900 (957)
+Right in             : 100% cases
+
+Test #185
+N                    : 491444432077361943290091744645979916
+Required times       : 25.4175 (18.5526) [s]
+Total jumps          : 585223 (392104)
+Distinguished found  : 5188 (3818)
+Speed                : 204.112 (205.805) [dP/s]
+Out of bounds cycles : 1 (0.816216)
+Side-to-side cycles  : 1378 (958)
+Total cycles         : 1379 (959)
+Right in             : 100% cases
+
+Test #186
+N                    : 491444432077361943290091744645979916
+Required times       : 10.0396 (18.5068) [s]
+Total jumps          : 219179 (391174)
+Distinguished found  : 2081 (3808)
+Speed                : 207.28 (205.809) [dP/s]
+Out of bounds cycles : 2 (0.822581)
+Side-to-side cycles  : 518 (956)
+Total cycles         : 520 (956)
+Right in             : 100% cases
+
+Test #187
+N                    : 491444432077361943290091744645979916
+Required times       : 10.9657 (18.4665) [s]
+Total jumps          : 225934 (390290)
+Distinguished found  : 2305 (3800)
+Speed                : 210.2 (205.823) [dP/s]
+Out of bounds cycles : 0 (0.818182)
+Side-to-side cycles  : 537 (953)
+Total cycles         : 537 (954)
+Right in             : 100% cases
+
+Test #188
+N                    : 491444432077361943290091744645979916
+Required times       : 21.7301 (18.4839) [s]
+Total jumps          : 480459 (390770)
+Distinguished found  : 4371 (3803)
+Speed                : 201.149 (205.794) [dP/s]
+Out of bounds cycles : 0 (0.81383)
+Side-to-side cycles  : 1149 (954)
+Total cycles         : 1149 (955)
+Right in             : 100% cases
+
+Test #189
+N                    : 491444432077361943290091744645979916
+Required times       : 12.9345 (18.4545) [s]
+Total jumps          : 280612 (390187)
+Distinguished found  : 2609 (3797)
+Speed                : 201.709 (205.778) [dP/s]
+Out of bounds cycles : 0 (0.809524)
+Side-to-side cycles  : 679 (953)
+Total cycles         : 679 (954)
+Right in             : 100% cases
+
+Test #190
+N                    : 491444432077361943290091744645979916
+Required times       : 15.8391 (18.4407) [s]
+Total jumps          : 339859 (389922)
+Distinguished found  : 3307 (3794)
+Speed                : 208.787 (205.792) [dP/s]
+Out of bounds cycles : 0 (0.805263)
+Side-to-side cycles  : 796 (952)
+Total cycles         : 796 (953)
+Right in             : 100% cases
+
+Test #191
+N                    : 491444432077361943290091744645979916
+Required times       : 20.6162 (18.4521) [s]
+Total jumps          : 477303 (390380)
+Distinguished found  : 4192 (3797)
+Speed                : 203.335 (205.778) [dP/s]
+Out of bounds cycles : 1 (0.806283)
+Side-to-side cycles  : 1103 (953)
+Total cycles         : 1104 (954)
+Right in             : 100% cases
+
+Test #192
+N                    : 491444432077361943290091744645979916
+Required times       : 13.7781 (18.4278) [s]
+Total jumps          : 282011 (389815)
+Distinguished found  : 2884 (3792)
+Speed                : 209.318 (205.792) [dP/s]
+Out of bounds cycles : 0 (0.802083)
+Side-to-side cycles  : 725 (952)
+Total cycles         : 725 (953)
+Right in             : 100% cases
+
+Test #193
+N                    : 491444432077361943290091744645979916
+Required times       : 13.1983 (18.4007) [s]
+Total jumps          : 295082 (389324)
+Distinguished found  : 2736 (3786)
+Speed                : 207.299 (205.797) [dP/s]
+Out of bounds cycles : 1 (0.803109)
+Side-to-side cycles  : 750 (951)
+Total cycles         : 751 (952)
+Right in             : 100% cases
+
+Test #194
+N                    : 491444432077361943290091744645979916
+Required times       : 6.98211 (18.3418) [s]
+Total jumps          : 146832 (388074)
+Distinguished found  : 1488 (3774)
+Speed                : 213.116 (205.811) [dP/s]
+Out of bounds cycles : 1 (0.804124)
+Side-to-side cycles  : 365 (948)
+Total cycles         : 366 (949)
+Right in             : 100% cases
+
+Test #195
+N                    : 491444432077361943290091744645979916
+Required times       : 17.7914 (18.339) [s]
+Total jumps          : 376132 (388013)
+Distinguished found  : 3812 (3775)
+Speed                : 214.261 (205.854) [dP/s]
+Out of bounds cycles : 2 (0.810256)
+Side-to-side cycles  : 900 (947)
+Total cycles         : 902 (948)
+Right in             : 100% cases
+
+Test #196
+N                    : 491444432077361943290091744645979916
+Required times       : 23.4268 (18.365) [s]
+Total jumps          : 489855 (388533)
+Distinguished found  : 4769 (3780)
+Speed                : 203.571 (205.839) [dP/s]
+Out of bounds cycles : 1 (0.811224)
+Side-to-side cycles  : 1187 (949)
+Total cycles         : 1188 (949)
+Right in             : 100% cases
+
+Test #197
+N                    : 491444432077361943290091744645979916
+Required times       : 11.164 (18.3284) [s]
+Total jumps          : 256522 (387863)
+Distinguished found  : 2328 (3772)
+Speed                : 208.528 (205.847) [dP/s]
+Out of bounds cycles : 2 (0.817259)
+Side-to-side cycles  : 621 (947)
+Total cycles         : 623 (948)
+Right in             : 100% cases
+
+Test #198
+N                    : 491444432077361943290091744645979916
+Required times       : 8.37617 (18.2781) [s]
+Total jumps          : 196299 (386895)
+Distinguished found  : 1717 (3762)
+Speed                : 204.986 (205.845) [dP/s]
+Out of bounds cycles : 0 (0.813131)
+Side-to-side cycles  : 480 (945)
+Total cycles         : 480 (945)
+Right in             : 100% cases
+
+Test #199
+N                    : 491444432077361943290091744645979916
+Required times       : 11.8105 (18.2456) [s]
+Total jumps          : 248848 (386202)
+Distinguished found  : 2457 (3755)
+Speed                : 208.035 (205.852) [dP/s]
+Out of bounds cycles : 1 (0.81407)
+Side-to-side cycles  : 599 (943)
+Total cycles         : 600 (944)
+Right in             : 100% cases
+
+Test #200
+N                    : 491444432077361943290091744645979916
+Required times       : 2.21148 (18.1655) [s]
+Total jumps          : 42719 (384484)
+Distinguished found  : 434 (3739)
+Speed                : 196.249 (205.846) [dP/s]
+Out of bounds cycles : 0 (0.81)
+Side-to-side cycles  : 108 (939)
+Total cycles         : 108 (940)
+Right in             : 100% cases
+
+
+==================================================================================
+Time                 : 18.1655 [sec]
+Jumps                : 384484
+Ratio                : 1.77024
+Speed                : 205.846 [dP/s]
+Cycles out of bounds : 0.81
+Side-to-side cycles  : 939.235
+Total cycles         : 940.045
+==================================================================================
+
+==================================================================================
+--- p  : 708341597604364277
+--- m  : 111546435
+--- f  : x^5 + 572727326971802609x^4 + 427425966384216632x^3 + 544834593262268420x^2 + 667541949849975350x + 420969081953509700
+--- s1 : 68059083 = 68059083 (mod m)
+--- s2 : 26243920 = 26243920 (mod m)
+--- N  : 501747819480597884077168136752853256
+--- pD : 9
+
+Test #201
+N                    : 501747819480597884077168136752853256
+Required times       : 13.258 (18.1411) [s]
+Total jumps          : 285593 (383992)
+Distinguished found  : 2718 (3734)
+Speed                : 205.009 (205.843) [dP/s]
+Out of bounds cycles : 3 (0.820896)
+Side-to-side cycles  : 704 (938)
+Total cycles         : 707 (938)
+Right in             : 100% cases
+
+Test #202
+N                    : 501747819480597884077168136752853256
+Required times       : 21.9031 (18.1597) [s]
+Total jumps          : 448566 (384312)
+Distinguished found  : 4500 (3738)
+Speed                : 205.45 (205.841) [dP/s]
+Out of bounds cycles : 1 (0.821782)
+Side-to-side cycles  : 1117 (938)
+Total cycles         : 1118 (939)
+Right in             : 100% cases
+
+Test #203
+N                    : 501747819480597884077168136752853256
+Required times       : 14.6112 (18.1422) [s]
+Total jumps          : 327862 (384034)
+Distinguished found  : 2915 (3733)
+Speed                : 199.504 (205.816) [dP/s]
+Out of bounds cycles : 1 (0.82266)
+Side-to-side cycles  : 760 (938)
+Total cycles         : 761 (938)
+Right in             : 100% cases
+
+Test #204
+N                    : 501747819480597884077168136752853256
+Required times       : 23.1985 (18.167) [s]
+Total jumps          : 479202 (384500)
+Distinguished found  : 4724 (3738)
+Speed                : 203.634 (205.802) [dP/s]
+Out of bounds cycles : 0 (0.818627)
+Side-to-side cycles  : 1189 (939)
+Total cycles         : 1189 (940)
+Right in             : 100% cases
+
+Test #205
+N                    : 501747819480597884077168136752853256
+Required times       : 20.4726 (18.1782) [s]
+Total jumps          : 460800 (384872)
+Distinguished found  : 4197 (3741)
+Speed                : 205.006 (205.798) [dP/s]
+Out of bounds cycles : 0 (0.814634)
+Side-to-side cycles  : 1084 (940)
+Total cycles         : 1084 (940)
+Right in             : 100% cases
+
+Test #206
+N                    : 501747819480597884077168136752853256
+Required times       : 8.97325 (18.1336) [s]
+Total jumps          : 201950 (383984)
+Distinguished found  : 1831 (3731)
+Speed                : 204.051 (205.793) [dP/s]
+Out of bounds cycles : 0 (0.81068)
+Side-to-side cycles  : 498 (937)
+Total cycles         : 498 (938)
+Right in             : 100% cases
+
+Test #207
+N                    : 501747819480597884077168136752853256
+Required times       : 17.3235 (18.1296) [s]
+Total jumps          : 356277 (383851)
+Distinguished found  : 3467 (3730)
+Speed                : 200.133 (205.767) [dP/s]
+Out of bounds cycles : 2 (0.816425)
+Side-to-side cycles  : 916 (937)
+Total cycles         : 918 (938)
+Right in             : 100% cases
+
+Test #208
+N                    : 501747819480597884077168136752853256
+Required times       : 21.3783 (18.1453) [s]
+Total jumps          : 458580 (384210)
+Distinguished found  : 4432 (3733)
+Speed                : 207.313 (205.776) [dP/s]
+Out of bounds cycles : 0 (0.8125)
+Side-to-side cycles  : 1107 (938)
+Total cycles         : 1107 (939)
+Right in             : 100% cases
+
+Test #209
+N                    : 501747819480597884077168136752853256
+Required times       : 24.8671 (18.1774) [s]
+Total jumps          : 540327 (384957)
+Distinguished found  : 4996 (3739)
+Speed                : 200.908 (205.744) [dP/s]
+Out of bounds cycles : 0 (0.808612)
+Side-to-side cycles  : 1279 (940)
+Total cycles         : 1279 (941)
+Right in             : 100% cases
+
+Test #210
+N                    : 501747819480597884077168136752853256
+Required times       : 15.517 (18.1648) [s]
+Total jumps          : 338663 (384736)
+Distinguished found  : 3150 (3737)
+Speed                : 203.003 (205.733) [dP/s]
+Out of bounds cycles : 1 (0.809524)
+Side-to-side cycles  : 820 (939)
+Total cycles         : 821 (940)
+Right in             : 100% cases
+
+Test #211
+N                    : 501747819480597884077168136752853256
+Required times       : 22.3496 (18.1846) [s]
+Total jumps          : 482016 (385197)
+Distinguished found  : 4588 (3741)
+Speed                : 205.283 (205.73) [dP/s]
+Out of bounds cycles : 3 (0.819905)
+Side-to-side cycles  : 1196 (940)
+Total cycles         : 1199 (941)
+Right in             : 100% cases
+
+Test #212
+N                    : 501747819480597884077168136752853256
+Required times       : 11.4825 (18.153) [s]
+Total jumps          : 242194 (384523)
+Distinguished found  : 2417 (3734)
+Speed                : 210.494 (205.745) [dP/s]
+Out of bounds cycles : 1 (0.820755)
+Side-to-side cycles  : 594 (939)
+Total cycles         : 595 (940)
+Right in             : 100% cases
+
+Test #213
+N                    : 501747819480597884077168136752853256
+Required times       : 16.2223 (18.1439) [s]
+Total jumps          : 329928 (384267)
+Distinguished found  : 3248 (3732)
+Speed                : 200.218 (205.721) [dP/s]
+Out of bounds cycles : 1 (0.821596)
+Side-to-side cycles  : 811 (938)
+Total cycles         : 812 (939)
+Right in             : 100% cases
+
+Test #214
+N                    : 501747819480597884077168136752853256
+Required times       : 9.29684 (18.1026) [s]
+Total jumps          : 188617 (383352)
+Distinguished found  : 1945 (3724)
+Speed                : 209.211 (205.73) [dP/s]
+Out of bounds cycles : 1 (0.82243)
+Side-to-side cycles  : 465 (936)
+Total cycles         : 466 (937)
+Right in             : 100% cases
+
+Test #215
+N                    : 501747819480597884077168136752853256
+Required times       : 7.0009 (18.0509) [s]
+Total jumps          : 146640 (382251)
+Distinguished found  : 1447 (3713)
+Speed                : 206.688 (205.732) [dP/s]
+Out of bounds cycles : 0 (0.818605)
+Side-to-side cycles  : 363 (933)
+Total cycles         : 363 (934)
+Right in             : 100% cases
+
+Test #216
+N                    : 501747819480597884077168136752853256
+Required times       : 23.3223 (18.0753) [s]
+Total jumps          : 482798 (382717)
+Distinguished found  : 4778 (3718)
+Speed                : 204.868 (205.726) [dP/s]
+Out of bounds cycles : 1 (0.819444)
+Side-to-side cycles  : 1191 (934)
+Total cycles         : 1192 (935)
+Right in             : 100% cases
+
+Test #217
+N                    : 501747819480597884077168136752853256
+Required times       : 20.4074 (18.0861) [s]
+Total jumps          : 428919 (382930)
+Distinguished found  : 4234 (3720)
+Speed                : 207.473 (205.736) [dP/s]
+Out of bounds cycles : 1 (0.820276)
+Side-to-side cycles  : 1044 (935)
+Total cycles         : 1045 (936)
+Right in             : 100% cases
+
+Test #218
+N                    : 501747819480597884077168136752853256
+Required times       : 9.36788 (18.0461) [s]
+Total jumps          : 221713 (382190)
+Distinguished found  : 1938 (3712)
+Speed                : 206.877 (205.738) [dP/s]
+Out of bounds cycles : 0 (0.816514)
+Side-to-side cycles  : 509 (933)
+Total cycles         : 509 (934)
+Right in             : 100% cases
+
+Test #219
+N                    : 501747819480597884077168136752853256
+Required times       : 11.0564 (18.0142) [s]
+Total jumps          : 237112 (381528)
+Distinguished found  : 2234 (3706)
+Speed                : 202.056 (205.728) [dP/s]
+Out of bounds cycles : 0 (0.812785)
+Side-to-side cycles  : 576 (931)
+Total cycles         : 576 (932)
+Right in             : 100% cases
+
+Test #220
+N                    : 501747819480597884077168136752853256
+Required times       : 9.25322 (17.9743) [s]
+Total jumps          : 208589 (380742)
+Distinguished found  : 1866 (3697)
+Speed                : 201.66 (205.718) [dP/s]
+Out of bounds cycles : 0 (0.809091)
+Side-to-side cycles  : 472 (929)
+Total cycles         : 472 (930)
+Right in             : 100% cases
+
+Test #221
+N                    : 501747819480597884077168136752853256
+Required times       : 6.02979 (17.9203) [s]
+Total jumps          : 127693 (379597)
+Distinguished found  : 1226 (3686)
+Speed                : 203.324 (205.715) [dP/s]
+Out of bounds cycles : 0 (0.80543)
+Side-to-side cycles  : 308 (926)
+Total cycles         : 308 (927)
+Right in             : 100% cases
+
+Test #222
+N                    : 501747819480597884077168136752853256
+Required times       : 16.8986 (17.9157) [s]
+Total jumps          : 355455 (379488)
+Distinguished found  : 3491 (3685)
+Speed                : 206.585 (205.718) [dP/s]
+Out of bounds cycles : 0 (0.801802)
+Side-to-side cycles  : 858 (926)
+Total cycles         : 858 (927)
+Right in             : 100% cases
+
+Test #223
+N                    : 501747819480597884077168136752853256
+Required times       : 25.4544 (17.9495) [s]
+Total jumps          : 516312 (380101)
+Distinguished found  : 5299 (3692)
+Speed                : 208.176 (205.734) [dP/s]
+Out of bounds cycles : 1 (0.802691)
+Side-to-side cycles  : 1256 (928)
+Total cycles         : 1257 (928)
+Right in             : 100% cases
+
+Test #224
+N                    : 501747819480597884077168136752853256
+Required times       : 3.86079 (17.8866) [s]
+Total jumps          : 69189 (378713)
+Distinguished found  : 809 (3679)
+Speed                : 209.543 (205.738) [dP/s]
+Out of bounds cycles : 1 (0.803571)
+Side-to-side cycles  : 195 (924)
+Total cycles         : 196 (925)
+Right in             : 100% cases
+
+Test #225
+N                    : 501747819480597884077168136752853256
+Required times       : 6.98806 (17.8382) [s]
+Total jumps          : 133024 (377621)
+Distinguished found  : 1456 (3670)
+Speed                : 208.356 (205.742) [dP/s]
+Out of bounds cycles : 0 (0.8)
+Side-to-side cycles  : 339 (922)
+Total cycles         : 339 (923)
+Right in             : 100% cases
+
+Test #226
+N                    : 501747819480597884077168136752853256
+Required times       : 8.91593 (17.7987) [s]
+Total jumps          : 202966 (376849)
+Distinguished found  : 1818 (3661)
+Speed                : 203.905 (205.738) [dP/s]
+Out of bounds cycles : 0 (0.79646)
+Side-to-side cycles  : 461 (920)
+Total cycles         : 461 (920)
+Right in             : 100% cases
+
+Test #227
+N                    : 501747819480597884077168136752853256
+Required times       : 11.7476 (17.772) [s]
+Total jumps          : 274425 (376397)
+Distinguished found  : 2332 (3656)
+Speed                : 198.508 (205.717) [dP/s]
+Out of bounds cycles : 1 (0.797357)
+Side-to-side cycles  : 629 (918)
+Total cycles         : 630 (919)
+Right in             : 100% cases
+
+Test #228
+N                    : 501747819480597884077168136752853256
+Required times       : 26.0019 (17.8081) [s]
+Total jumps          : 518712 (377022)
+Distinguished found  : 5418 (3663)
+Speed                : 208.369 (205.734) [dP/s]
+Out of bounds cycles : 1 (0.798246)
+Side-to-side cycles  : 1310 (920)
+Total cycles         : 1311 (921)
+Right in             : 100% cases
+
+Test #229
+N                    : 501747819480597884077168136752853256
+Required times       : 3.53484 (17.7458) [s]
+Total jumps          : 68511 (375674)
+Distinguished found  : 749 (3651)
+Speed                : 211.891 (205.74) [dP/s]
+Out of bounds cycles : 0 (0.79476)
+Side-to-side cycles  : 194 (917)
+Total cycles         : 194 (918)
+Right in             : 100% cases
+
+Test #230
+N                    : 501747819480597884077168136752853256
+Required times       : 7.05586 (17.6993) [s]
+Total jumps          : 156247 (374720)
+Distinguished found  : 1477 (3641)
+Speed                : 209.33 (205.746) [dP/s]
+Out of bounds cycles : 0 (0.791304)
+Side-to-side cycles  : 387 (915)
+Total cycles         : 387 (915)
+Right in             : 100% cases
+
+Test #231
+N                    : 501747819480597884077168136752853256
+Required times       : 1.862 (17.6308) [s]
+Total jumps          : 46671 (373300)
+Distinguished found  : 402 (3627)
+Speed                : 215.897 (205.75) [dP/s]
+Out of bounds cycles : 0 (0.787879)
+Side-to-side cycles  : 119 (911)
+Total cycles         : 119 (912)
+Right in             : 100% cases
+
+Test #232
+N                    : 501747819480597884077168136752853256
+Required times       : 14.2296 (17.6161) [s]
+Total jumps          : 308663 (373022)
+Distinguished found  : 2884 (3624)
+Speed                : 202.676 (205.74) [dP/s]
+Out of bounds cycles : 1 (0.788793)
+Side-to-side cycles  : 770 (911)
+Total cycles         : 771 (911)
+Right in             : 100% cases
+
+Test #233
+N                    : 501747819480597884077168136752853256
+Required times       : 13.4912 (17.5984) [s]
+Total jumps          : 289966 (372665)
+Distinguished found  : 2795 (3620)
+Speed                : 207.173 (205.744) [dP/s]
+Out of bounds cycles : 1 (0.7897)
+Side-to-side cycles  : 686 (910)
+Total cycles         : 687 (910)
+Right in             : 100% cases
+
+Test #234
+N                    : 501747819480597884077168136752853256
+Required times       : 18.7925 (17.6035) [s]
+Total jumps          : 402197 (372791)
+Distinguished found  : 3875 (3621)
+Speed                : 206.2 (205.746) [dP/s]
+Out of bounds cycles : 0 (0.786325)
+Side-to-side cycles  : 994 (910)
+Total cycles         : 994 (911)
+Right in             : 100% cases
+
+Test #235
+N                    : 501747819480597884077168136752853256
+Required times       : 11.862 (17.5791) [s]
+Total jumps          : 248432 (372262)
+Distinguished found  : 2454 (3616)
+Speed                : 206.88 (205.75) [dP/s]
+Out of bounds cycles : 0 (0.782979)
+Side-to-side cycles  : 622 (909)
+Total cycles         : 622 (910)
+Right in             : 100% cases
+
+Test #236
+N                    : 501747819480597884077168136752853256
+Required times       : 16.9418 (17.5764) [s]
+Total jumps          : 343255 (372139)
+Distinguished found  : 3529 (3616)
+Speed                : 208.301 (205.76) [dP/s]
+Out of bounds cycles : 0 (0.779661)
+Side-to-side cycles  : 838 (908)
+Total cycles         : 838 (909)
+Right in             : 100% cases
+
+Test #237
+N                    : 501747819480597884077168136752853256
+Required times       : 19.0145 (17.5824) [s]
+Total jumps          : 380679 (372175)
+Distinguished found  : 3950 (3617)
+Speed                : 207.737 (205.769) [dP/s]
+Out of bounds cycles : 1 (0.780591)
+Side-to-side cycles  : 945 (909)
+Total cycles         : 946 (909)
+Right in             : 100% cases
+
+Test #238
+N                    : 501747819480597884077168136752853256
+Required times       : 4.78425 (17.5287) [s]
+Total jumps          : 110199 (371075)
+Distinguished found  : 949 (3606)
+Speed                : 198.359 (205.761) [dP/s]
+Out of bounds cycles : 0 (0.777311)
+Side-to-side cycles  : 257 (906)
+Total cycles         : 257 (907)
+Right in             : 100% cases
+
+Test #239
+N                    : 501747819480597884077168136752853256
+Required times       : 27.9891 (17.5724) [s]
+Total jumps          : 573638 (371922)
+Distinguished found  : 5828 (3616)
+Speed                : 208.224 (205.777) [dP/s]
+Out of bounds cycles : 2 (0.782427)
+Side-to-side cycles  : 1455 (908)
+Total cycles         : 1457 (909)
+Right in             : 100% cases
+
+Test #240
+N                    : 501747819480597884077168136752853256
+Required times       : 15.9966 (17.5659) [s]
+Total jumps          : 333544 (371762)
+Distinguished found  : 3292 (3614)
+Speed                : 205.794 (205.777) [dP/s]
+Out of bounds cycles : 0 (0.779167)
+Side-to-side cycles  : 835 (908)
+Total cycles         : 835 (909)
+Right in             : 100% cases
+
+Test #241
+N                    : 501747819480597884077168136752853256
+Required times       : 7.86801 (17.5256) [s]
+Total jumps          : 157391 (370873)
+Distinguished found  : 1659 (3606)
+Speed                : 210.854 (205.787) [dP/s]
+Out of bounds cycles : 0 (0.775934)
+Side-to-side cycles  : 407 (906)
+Total cycles         : 407 (907)
+Right in             : 100% cases
+
+Test #242
+N                    : 501747819480597884077168136752853256
+Required times       : 5.21152 (17.4747) [s]
+Total jumps          : 108451 (369788)
+Distinguished found  : 1049 (3595)
+Speed                : 201.285 (205.781) [dP/s]
+Out of bounds cycles : 0 (0.772727)
+Side-to-side cycles  : 271 (903)
+Total cycles         : 271 (904)
+Right in             : 100% cases
+
+Test #243
+N                    : 501747819480597884077168136752853256
+Required times       : 22.8472 (17.4969) [s]
+Total jumps          : 448391 (370112)
+Distinguished found  : 4744 (3600)
+Speed                : 207.641 (205.791) [dP/s]
+Out of bounds cycles : 1 (0.773663)
+Side-to-side cycles  : 1104 (904)
+Total cycles         : 1105 (905)
+Right in             : 100% cases
+
+Test #244
+N                    : 501747819480597884077168136752853256
+Required times       : 20.5656 (17.5094) [s]
+Total jumps          : 428192 (370350)
+Distinguished found  : 4268 (3603)
+Speed                : 207.531 (205.799) [dP/s]
+Out of bounds cycles : 1 (0.77459)
+Side-to-side cycles  : 1076 (905)
+Total cycles         : 1077 (905)
+Right in             : 100% cases
+
+Test #245
+N                    : 501747819480597884077168136752853256
+Required times       : 5.93125 (17.4622) [s]
+Total jumps          : 115640 (369310)
+Distinguished found  : 1229 (3593)
+Speed                : 207.208 (205.801) [dP/s]
+Out of bounds cycles : 0 (0.771429)
+Side-to-side cycles  : 271 (902)
+Total cycles         : 271 (903)
+Right in             : 100% cases
+
+Test #246
+N                    : 501747819480597884077168136752853256
+Required times       : 19.9577 (17.4723) [s]
+Total jumps          : 429398 (369554)
+Distinguished found  : 4086 (3595)
+Speed                : 204.733 (205.796) [dP/s]
+Out of bounds cycles : 2 (0.776423)
+Side-to-side cycles  : 1039 (903)
+Total cycles         : 1041 (903)
+Right in             : 100% cases
+
+Test #247
+N                    : 501747819480597884077168136752853256
+Required times       : 9.30615 (17.4393) [s]
+Total jumps          : 197742 (368859)
+Distinguished found  : 1950 (3589)
+Speed                : 209.539 (205.805) [dP/s]
+Out of bounds cycles : 0 (0.773279)
+Side-to-side cycles  : 468 (901)
+Total cycles         : 468 (902)
+Right in             : 100% cases
+
+Test #248
+N                    : 501747819480597884077168136752853256
+Required times       : 19.2313 (17.4465) [s]
+Total jumps          : 420683 (369068)
+Distinguished found  : 3941 (3590)
+Speed                : 204.926 (205.801) [dP/s]
+Out of bounds cycles : 0 (0.770161)
+Side-to-side cycles  : 1034 (901)
+Total cycles         : 1034 (902)
+Right in             : 100% cases
+
+Test #249
+N                    : 501747819480597884077168136752853256
+Required times       : 14.6885 (17.4354) [s]
+Total jumps          : 297625 (368781)
+Distinguished found  : 3002 (3588)
+Speed                : 204.377 (205.796) [dP/s]
+Out of bounds cycles : 1 (0.771084)
+Side-to-side cycles  : 699 (901)
+Total cycles         : 700 (901)
+Right in             : 100% cases
+
+Test #250
+N                    : 501747819480597884077168136752853256
+Required times       : 9.60678 (17.4041) [s]
+Total jumps          : 197451 (368096)
+Distinguished found  : 1997 (3581)
+Speed                : 207.874 (205.8) [dP/s]
+Out of bounds cycles : 1 (0.772)
+Side-to-side cycles  : 481 (899)
+Total cycles         : 482 (900)
+Right in             : 100% cases
+
+Test #251
+N                    : 501747819480597884077168136752853256
+Required times       : 26.9246 (17.442) [s]
+Total jumps          : 553525 (368834)
+Distinguished found  : 5520 (3589)
+Speed                : 205.017 (205.796) [dP/s]
+Out of bounds cycles : 1 (0.772908)
+Side-to-side cycles  : 1361 (901)
+Total cycles         : 1362 (902)
+Right in             : 100% cases
+
+Test #252
+N                    : 501747819480597884077168136752853256
+Required times       : 2.53512 (17.3829) [s]
+Total jumps          : 59945 (367609)
+Distinguished found  : 537 (3577)
+Speed                : 211.824 (205.799) [dP/s]
+Out of bounds cycles : 0 (0.769841)
+Side-to-side cycles  : 139 (898)
+Total cycles         : 139 (898)
+Right in             : 100% cases
+
+Test #253
+N                    : 501747819480597884077168136752853256
+Required times       : 14.6293 (17.372) [s]
+Total jumps          : 303523 (367355)
+Distinguished found  : 3037 (3575)
+Speed                : 207.597 (205.805) [dP/s]
+Out of bounds cycles : 2 (0.774704)
+Side-to-side cycles  : 763 (897)
+Total cycles         : 765 (898)
+Right in             : 100% cases
+
+Test #254
+N                    : 501747819480597884077168136752853256
+Required times       : 16.5738 (17.3688) [s]
+Total jumps          : 367356 (367355)
+Distinguished found  : 3415 (3574)
+Speed                : 206.048 (205.806) [dP/s]
+Out of bounds cycles : 1 (0.775591)
+Side-to-side cycles  : 868 (897)
+Total cycles         : 869 (898)
+Right in             : 100% cases
+
+Test #255
+N                    : 501747819480597884077168136752853256
+Required times       : 19.2456 (17.3762) [s]
+Total jumps          : 387937 (367436)
+Distinguished found  : 3993 (3576)
+Speed                : 207.476 (205.813) [dP/s]
+Out of bounds cycles : 0 (0.772549)
+Side-to-side cycles  : 992 (897)
+Total cycles         : 992 (898)
+Right in             : 100% cases
+
+Test #256
+N                    : 501747819480597884077168136752853256
+Required times       : 9.54869 (17.3456) [s]
+Total jumps          : 202000 (366790)
+Distinguished found  : 1978 (3570)
+Speed                : 207.149 (205.816) [dP/s]
+Out of bounds cycles : 0 (0.769531)
+Side-to-side cycles  : 512 (896)
+Total cycles         : 512 (897)
+Right in             : 100% cases
+
+Test #257
+N                    : 501747819480597884077168136752853256
+Required times       : 36.3313 (17.4195) [s]
+Total jumps          : 754710 (368299)
+Distinguished found  : 7544 (3585)
+Speed                : 207.645 (205.831) [dP/s]
+Out of bounds cycles : 2 (0.774319)
+Side-to-side cycles  : 1921 (900)
+Total cycles         : 1923 (901)
+Right in             : 100% cases
+
+Test #258
+N                    : 501747819480597884077168136752853256
+Required times       : 35.5651 (17.4898) [s]
+Total jumps          : 750660 (369781)
+Distinguished found  : 7278 (3599)
+Speed                : 204.639 (205.822) [dP/s]
+Out of bounds cycles : 0 (0.771318)
+Side-to-side cycles  : 1899 (904)
+Total cycles         : 1899 (905)
+Right in             : 100% cases
+
+Test #259
+N                    : 501747819480597884077168136752853256
+Required times       : 17.7629 (17.4909) [s]
+Total jumps          : 348100 (369697)
+Distinguished found  : 3656 (3600)
+Speed                : 205.823 (205.822) [dP/s]
+Out of bounds cycles : 0 (0.76834)
+Side-to-side cycles  : 868 (904)
+Total cycles         : 868 (904)
+Right in             : 100% cases
+
+Test #260
+N                    : 501747819480597884077168136752853256
+Required times       : 3.96959 (17.4389) [s]
+Total jumps          : 92736 (368632)
+Distinguished found  : 802 (3589)
+Speed                : 202.036 (205.818) [dP/s]
+Out of bounds cycles : 0 (0.765385)
+Side-to-side cycles  : 203 (901)
+Total cycles         : 203 (902)
+Right in             : 100% cases
+
+Test #261
+N                    : 501747819480597884077168136752853256
+Required times       : 15.9498 (17.4332) [s]
+Total jumps          : 318610 (368441)
+Distinguished found  : 3373 (3588)
+Speed                : 211.476 (205.838) [dP/s]
+Out of bounds cycles : 1 (0.766284)
+Side-to-side cycles  : 811 (901)
+Total cycles         : 812 (901)
+Right in             : 100% cases
+
+Test #262
+N                    : 501747819480597884077168136752853256
+Required times       : 3.68042 (17.3807) [s]
+Total jumps          : 80815 (367343)
+Distinguished found  : 777 (3577)
+Speed                : 211.117 (205.842) [dP/s]
+Out of bounds cycles : 0 (0.763359)
+Side-to-side cycles  : 195 (898)
+Total cycles         : 195 (899)
+Right in             : 100% cases
+
+Test #263
+N                    : 501747819480597884077168136752853256
+Required times       : 7.00301 (17.3412) [s]
+Total jumps          : 155755 (366538)
+Distinguished found  : 1395 (3569)
+Speed                : 199.2 (205.832) [dP/s]
+Out of bounds cycles : 0 (0.760456)
+Side-to-side cycles  : 388 (896)
+Total cycles         : 388 (897)
+Right in             : 100% cases
+
+Test #264
+N                    : 501747819480597884077168136752853256
+Required times       : 14.2803 (17.3296) [s]
+Total jumps          : 304711 (366304)
+Distinguished found  : 2979 (3567)
+Speed                : 208.608 (205.841) [dP/s]
+Out of bounds cycles : 1 (0.761364)
+Side-to-side cycles  : 745 (895)
+Total cycles         : 746 (896)
+Right in             : 100% cases
+
+Test #265
+N                    : 501747819480597884077168136752853256
+Required times       : 22.9919 (17.351) [s]
+Total jumps          : 494032 (366786)
+Distinguished found  : 4624 (3571)
+Speed                : 201.114 (205.817) [dP/s]
+Out of bounds cycles : 0 (0.758491)
+Side-to-side cycles  : 1235 (897)
+Total cycles         : 1235 (897)
+Right in             : 100% cases
+
+Test #266
+N                    : 501747819480597884077168136752853256
+Required times       : 26.726 (17.3862) [s]
+Total jumps          : 542055 (367445)
+Distinguished found  : 5601 (3578)
+Speed                : 209.571 (205.839) [dP/s]
+Out of bounds cycles : 3 (0.766917)
+Side-to-side cycles  : 1328 (898)
+Total cycles         : 1331 (899)
+Right in             : 100% cases
+
+Test #267
+N                    : 501747819480597884077168136752853256
+Required times       : 18.2276 (17.3894) [s]
+Total jumps          : 400580 (367569)
+Distinguished found  : 3803 (3579)
+Speed                : 208.64 (205.85) [dP/s]
+Out of bounds cycles : 0 (0.764045)
+Side-to-side cycles  : 986 (899)
+Total cycles         : 986 (899)
+Right in             : 100% cases
+
+Test #268
+N                    : 501747819480597884077168136752853256
+Required times       : 2.53965 (17.334) [s]
+Total jumps          : 53382 (366397)
+Distinguished found  : 512 (3568)
+Speed                : 201.603 (205.848) [dP/s]
+Out of bounds cycles : 0 (0.761194)
+Side-to-side cycles  : 131 (896)
+Total cycles         : 131 (897)
+Right in             : 100% cases
+
+Test #269
+N                    : 501747819480597884077168136752853256
+Required times       : 16.3542 (17.3303) [s]
+Total jumps          : 360439 (366375)
+Distinguished found  : 3373 (3567)
+Speed                : 206.246 (205.849) [dP/s]
+Out of bounds cycles : 0 (0.758364)
+Side-to-side cycles  : 860 (896)
+Total cycles         : 860 (896)
+Right in             : 100% cases
+
+Test #270
+N                    : 501747819480597884077168136752853256
+Required times       : 5.1153 (17.2851) [s]
+Total jumps          : 105843 (365410)
+Distinguished found  : 1096 (3558)
+Speed                : 214.259 (205.858) [dP/s]
+Out of bounds cycles : 0 (0.755556)
+Side-to-side cycles  : 269 (893)
+Total cycles         : 269 (894)
+Right in             : 100% cases
+
+Test #271
+N                    : 501747819480597884077168136752853256
+Required times       : 13.9068 (17.2726) [s]
+Total jumps          : 274882 (365076)
+Distinguished found  : 2889 (3555)
+Speed                : 207.74 (205.864) [dP/s]
+Out of bounds cycles : 2 (0.760148)
+Side-to-side cycles  : 679 (893)
+Total cycles         : 681 (893)
+Right in             : 100% cases
+
+Test #272
+N                    : 501747819480597884077168136752853256
+Required times       : 21.5722 (17.2884) [s]
+Total jumps          : 459966 (365424)
+Distinguished found  : 4348 (3558)
+Speed                : 201.555 (205.844) [dP/s]
+Out of bounds cycles : 2 (0.764706)
+Side-to-side cycles  : 1097 (893)
+Total cycles         : 1099 (894)
+Right in             : 100% cases
+
+Test #273
+N                    : 501747819480597884077168136752853256
+Required times       : 24.9851 (17.3166) [s]
+Total jumps          : 503728 (365931)
+Distinguished found  : 5170 (3564)
+Speed                : 206.923 (205.85) [dP/s]
+Out of bounds cycles : 3 (0.772894)
+Side-to-side cycles  : 1307 (895)
+Total cycles         : 1310 (896)
+Right in             : 100% cases
+
+Test #274
+N                    : 501747819480597884077168136752853256
+Required times       : 7.15031 (17.2795) [s]
+Total jumps          : 139082 (365103)
+Distinguished found  : 1486 (3557)
+Speed                : 207.823 (205.853) [dP/s]
+Out of bounds cycles : 0 (0.770073)
+Side-to-side cycles  : 354 (893)
+Total cycles         : 354 (894)
+Right in             : 100% cases
+
+Test #275
+N                    : 501747819480597884077168136752853256
+Required times       : 4.4959 (17.233) [s]
+Total jumps          : 97648 (364131)
+Distinguished found  : 904 (3547)
+Speed                : 201.072 (205.848) [dP/s]
+Out of bounds cycles : 0 (0.767273)
+Side-to-side cycles  : 252 (890)
+Total cycles         : 252 (891)
+Right in             : 100% cases
+
+Test #276
+N                    : 501747819480597884077168136752853256
+Required times       : 2.43393 (17.1794) [s]
+Total jumps          : 53099 (363004)
+Distinguished found  : 503 (3536)
+Speed                : 206.662 (205.849) [dP/s]
+Out of bounds cycles : 1 (0.768116)
+Side-to-side cycles  : 132 (888)
+Total cycles         : 133 (888)
+Right in             : 100% cases
+
+Test #277
+N                    : 501747819480597884077168136752853256
+Required times       : 4.17713 (17.1325) [s]
+Total jumps          : 97069 (362044)
+Distinguished found  : 836 (3526)
+Speed                : 200.137 (205.843) [dP/s]
+Out of bounds cycles : 0 (0.765343)
+Side-to-side cycles  : 218 (885)
+Total cycles         : 218 (886)
+Right in             : 100% cases
+
+Test #278
+N                    : 501747819480597884077168136752853256
+Required times       : 11.0854 (17.1107) [s]
+Total jumps          : 217574 (361524)
+Distinguished found  : 2340 (3522)
+Speed                : 211.088 (205.856) [dP/s]
+Out of bounds cycles : 2 (0.769784)
+Side-to-side cycles  : 569 (884)
+Total cycles         : 571 (885)
+Right in             : 100% cases
+
+Test #279
+N                    : 501747819480597884077168136752853256
+Required times       : 13.1323 (17.0965) [s]
+Total jumps          : 298237 (361297)
+Distinguished found  : 2642 (3519)
+Speed                : 201.184 (205.843) [dP/s]
+Out of bounds cycles : 1 (0.770609)
+Side-to-side cycles  : 724 (884)
+Total cycles         : 725 (884)
+Right in             : 100% cases
+
+Test #280
+N                    : 501747819480597884077168136752853256
+Required times       : 33.4142 (17.1547) [s]
+Total jumps          : 721537 (362584)
+Distinguished found  : 6885 (3531)
+Speed                : 206.05 (205.844) [dP/s]
+Out of bounds cycles : 0 (0.767857)
+Side-to-side cycles  : 1755 (887)
+Total cycles         : 1755 (887)
+Right in             : 100% cases
+
+Test #281
+N                    : 501747819480597884077168136752853256
+Required times       : 18.4787 (17.1595) [s]
+Total jumps          : 385196 (362664)
+Distinguished found  : 3805 (3532)
+Speed                : 205.913 (205.845) [dP/s]
+Out of bounds cycles : 0 (0.765125)
+Side-to-side cycles  : 963 (887)
+Total cycles         : 963 (888)
+Right in             : 100% cases
+
+Test #282
+N                    : 501747819480597884077168136752853256
+Required times       : 3.78227 (17.112) [s]
+Total jumps          : 79122 (361659)
+Distinguished found  : 794 (3522)
+Speed                : 209.927 (205.848) [dP/s]
+Out of bounds cycles : 0 (0.762411)
+Side-to-side cycles  : 200 (885)
+Total cycles         : 200 (885)
+Right in             : 100% cases
+
+Test #283
+N                    : 501747819480597884077168136752853256
+Required times       : 4.10477 (17.0661) [s]
+Total jumps          : 83735 (360677)
+Distinguished found  : 826 (3512)
+Speed                : 201.229 (205.844) [dP/s]
+Out of bounds cycles : 0 (0.759717)
+Side-to-side cycles  : 208 (882)
+Total cycles         : 208 (883)
+Right in             : 100% cases
+
+Test #284
+N                    : 501747819480597884077168136752853256
+Required times       : 4.00127 (17.0201) [s]
+Total jumps          : 87902 (359716)
+Distinguished found  : 784 (3503)
+Speed                : 195.938 (205.836) [dP/s]
+Out of bounds cycles : 1 (0.760563)
+Side-to-side cycles  : 207 (880)
+Total cycles         : 208 (881)
+Right in             : 100% cases
+
+Test #285
+N                    : 501747819480597884077168136752853256
+Required times       : 3.08738 (16.9712) [s]
+Total jumps          : 65874 (358685)
+Distinguished found  : 649 (3493)
+Speed                : 210.21 (205.838) [dP/s]
+Out of bounds cycles : 0 (0.757895)
+Side-to-side cycles  : 164 (877)
+Total cycles         : 164 (878)
+Right in             : 100% cases
+
+Test #286
+N                    : 501747819480597884077168136752853256
+Required times       : 26.1306 (17.0032) [s]
+Total jumps          : 525200 (359267)
+Distinguished found  : 5387 (3499)
+Speed                : 206.157 (205.84) [dP/s]
+Out of bounds cycles : 2 (0.762238)
+Side-to-side cycles  : 1364 (879)
+Total cycles         : 1366 (880)
+Right in             : 100% cases
+
+Test #287
+N                    : 501747819480597884077168136752853256
+Required times       : 13.0792 (16.9895) [s]
+Total jumps          : 285520 (359010)
+Distinguished found  : 2690 (3497)
+Speed                : 205.671 (205.84) [dP/s]
+Out of bounds cycles : 0 (0.759582)
+Side-to-side cycles  : 693 (878)
+Total cycles         : 693 (879)
+Right in             : 100% cases
+
+Test #288
+N                    : 501747819480597884077168136752853256
+Required times       : 12.9019 (16.9753) [s]
+Total jumps          : 270956 (358705)
+Distinguished found  : 2661 (3494)
+Speed                : 206.249 (205.841) [dP/s]
+Out of bounds cycles : 0 (0.756944)
+Side-to-side cycles  : 657 (878)
+Total cycles         : 657 (878)
+Right in             : 100% cases
+
+Test #289
+N                    : 501747819480597884077168136752853256
+Required times       : 9.36622 (16.949) [s]
+Total jumps          : 213250 (358201)
+Distinguished found  : 1916 (3488)
+Speed                : 204.565 (205.838) [dP/s]
+Out of bounds cycles : 0 (0.754325)
+Side-to-side cycles  : 512 (876)
+Total cycles         : 512 (877)
+Right in             : 100% cases
+
+Test #290
+N                    : 501747819480597884077168136752853256
+Required times       : 21.7241 (16.9655) [s]
+Total jumps          : 467643 (358579)
+Distinguished found  : 4409 (3491)
+Speed                : 202.954 (205.826) [dP/s]
+Out of bounds cycles : 1 (0.755172)
+Side-to-side cycles  : 1144 (877)
+Total cycles         : 1145 (878)
+Right in             : 100% cases
+
+Test #291
+N                    : 501747819480597884077168136752853256
+Required times       : 7.3608 (16.9325) [s]
+Total jumps          : 141611 (357833)
+Distinguished found  : 1537 (3485)
+Speed                : 208.809 (205.83) [dP/s]
+Out of bounds cycles : 1 (0.756014)
+Side-to-side cycles  : 362 (875)
+Total cycles         : 363 (876)
+Right in             : 100% cases
+
+Test #292
+N                    : 501747819480597884077168136752853256
+Required times       : 22.288 (16.9508) [s]
+Total jumps          : 483920 (358265)
+Distinguished found  : 4594 (3489)
+Speed                : 206.119 (205.831) [dP/s]
+Out of bounds cycles : 0 (0.753425)
+Side-to-side cycles  : 1168 (876)
+Total cycles         : 1168 (877)
+Right in             : 100% cases
+
+Test #293
+N                    : 501747819480597884077168136752853256
+Required times       : 26.0985 (16.982) [s]
+Total jumps          : 559005 (358950)
+Distinguished found  : 5327 (3495)
+Speed                : 204.111 (205.822) [dP/s]
+Out of bounds cycles : 0 (0.750853)
+Side-to-side cycles  : 1368 (878)
+Total cycles         : 1368 (879)
+Right in             : 100% cases
+
+Test #294
+N                    : 501747819480597884077168136752853256
+Required times       : 24.4309 (17.0074) [s]
+Total jumps          : 511890 (359470)
+Distinguished found  : 4974 (3500)
+Speed                : 203.594 (205.811) [dP/s]
+Out of bounds cycles : 1 (0.751701)
+Side-to-side cycles  : 1274 (879)
+Total cycles         : 1275 (880)
+Right in             : 100% cases
+
+Test #295
+N                    : 501747819480597884077168136752853256
+Required times       : 10.1448 (16.9841) [s]
+Total jumps          : 196007 (358916)
+Distinguished found  : 2065 (3495)
+Speed                : 203.553 (205.807) [dP/s]
+Out of bounds cycles : 0 (0.749153)
+Side-to-side cycles  : 481 (878)
+Total cycles         : 481 (879)
+Right in             : 100% cases
+
+Test #296
+N                    : 501747819480597884077168136752853256
+Required times       : 29.3983 (17.026) [s]
+Total jumps          : 665174 (359951)
+Distinguished found  : 6080 (3504)
+Speed                : 206.815 (205.813) [dP/s]
+Out of bounds cycles : 0 (0.746622)
+Side-to-side cycles  : 1558 (880)
+Total cycles         : 1558 (881)
+Right in             : 100% cases
+
+Test #297
+N                    : 501747819480597884077168136752853256
+Required times       : 12.2033 (17.0098) [s]
+Total jumps          : 259816 (359614)
+Distinguished found  : 2514 (3500)
+Speed                : 206.01 (205.813) [dP/s]
+Out of bounds cycles : 0 (0.744108)
+Side-to-side cycles  : 621 (879)
+Total cycles         : 621 (880)
+Right in             : 100% cases
+
+Test #298
+N                    : 501747819480597884077168136752853256
+Required times       : 9.62274 (16.985) [s]
+Total jumps          : 191678 (359050)
+Distinguished found  : 2008 (3495)
+Speed                : 208.672 (205.819) [dP/s]
+Out of bounds cycles : 0 (0.741611)
+Side-to-side cycles  : 486 (878)
+Total cycles         : 486 (879)
+Right in             : 100% cases
+
+Test #299
+N                    : 501747819480597884077168136752853256
+Required times       : 21.8257 (17.0012) [s]
+Total jumps          : 433483 (359299)
+Distinguished found  : 4488 (3499)
+Speed                : 205.629 (205.818) [dP/s]
+Out of bounds cycles : 2 (0.745819)
+Side-to-side cycles  : 1072 (879)
+Total cycles         : 1074 (880)
+Right in             : 100% cases
+
+Test #300
+N                    : 501747819480597884077168136752853256
+Required times       : 4.41101 (16.9592) [s]
+Total jumps          : 93462 (358413)
+Distinguished found  : 865 (3490)
+Speed                : 196.1 (205.809) [dP/s]
+Out of bounds cycles : 0 (0.743333)
+Side-to-side cycles  : 222 (877)
+Total cycles         : 222 (877)
+Right in             : 100% cases
+
+
+==================================================================================
+Time                 : 16.9592 [sec]
+Jumps                : 358413
+Ratio                : 1.63741
+Speed                : 205.809 [dP/s]
+Cycles out of bounds : 0.743333
+Side-to-side cycles  : 877.117
+Total cycles         : 877.86
+==================================================================================
+
+==================================================================================
+--- p  : 1038720947788497319
+--- m  : 111546435
+--- f  : x^5 + 1006475661677997548x^4 + 546037102128246768x^3 + 83012479091067977x^2 + 372622063697290625x + 724409045141907988
+--- s1 : 99334338 = 99334338 (mod m)
+--- s2 : 15660052 = 15660052 (mod m)
+--- N  : 1078941207387319134507151265573715204
+--- pD : 10
+
+Test #301
+N                    : 1078941207387319134507151265573715204
+Required times       : 16.387 (16.9573) [s]
+Total jumps          : 554923 (359066)
+Distinguished found  : 1736 (3484)
+Speed                : 105.938 (205.489) [dP/s]
+Out of bounds cycles : 1 (0.744186)
+Side-to-side cycles  : 857 (877)
+Total cycles         : 858 (877)
+Right in             : 100% cases
+
+Test #302
+N                    : 1078941207387319134507151265573715204
+Required times       : 41.5092 (17.0386) [s]
+Total jumps          : 1499576 (362842)
+Distinguished found  : 4291 (3487)
+Speed                : 103.375 (204.665) [dP/s]
+Out of bounds cycles : 4 (0.754967)
+Side-to-side cycles  : 2166 (881)
+Total cycles         : 2170 (882)
+Right in             : 100% cases
+
+Test #303
+N                    : 1078941207387319134507151265573715204
+Required times       : 28.9657 (17.078) [s]
+Total jumps          : 1042403 (365085)
+Distinguished found  : 3001 (3485)
+Speed                : 103.605 (204.099) [dP/s]
+Out of bounds cycles : 4 (0.765677)
+Side-to-side cycles  : 1515 (883)
+Total cycles         : 1519 (884)
+Right in             : 100% cases
+
+Test #304
+N                    : 1078941207387319134507151265573715204
+Required times       : 22.7539 (17.0967) [s]
+Total jumps          : 835630 (366633)
+Distinguished found  : 2464 (3482)
+Speed                : 108.289 (203.68) [dP/s]
+Out of bounds cycles : 1 (0.766447)
+Side-to-side cycles  : 1205 (884)
+Total cycles         : 1206 (885)
+Right in             : 100% cases
+
+Test #305
+N                    : 1078941207387319134507151265573715204
+Required times       : 26.5779 (17.1278) [s]
+Total jumps          : 963599 (368590)
+Distinguished found  : 2855 (3480)
+Speed                : 107.42 (203.19) [dP/s]
+Out of bounds cycles : 1 (0.767213)
+Side-to-side cycles  : 1424 (886)
+Total cycles         : 1425 (887)
+Right in             : 100% cases
+
+Test #306
+N                    : 1078941207387319134507151265573715204
+Required times       : 15.1747 (17.1214) [s]
+Total jumps          : 550923 (369186)
+Distinguished found  : 1687 (3474)
+Speed                : 111.172 (202.924) [dP/s]
+Out of bounds cycles : 3 (0.77451)
+Side-to-side cycles  : 843 (886)
+Total cycles         : 846 (886)
+Right in             : 100% cases
+
+Test #307
+N                    : 1078941207387319134507151265573715204
+Required times       : 4.2429 (17.0794) [s]
+Total jumps          : 154214 (368486)
+Distinguished found  : 480 (3464)
+Speed                : 113.13 (202.851) [dP/s]
+Out of bounds cycles : 0 (0.771987)
+Side-to-side cycles  : 241 (883)
+Total cycles         : 241 (884)
+Right in             : 100% cases
+
+Test #308
+N                    : 1078941207387319134507151265573715204
+Required times       : 14.5171 (17.0711) [s]
+Total jumps          : 549557 (369074)
+Distinguished found  : 1578 (3458)
+Speed                : 108.699 (202.591) [dP/s]
+Out of bounds cycles : 1 (0.772727)
+Side-to-side cycles  : 762 (883)
+Total cycles         : 763 (884)
+Right in             : 100% cases
+
+Test #309
+N                    : 1078941207387319134507151265573715204
+Required times       : 20.7452 (17.083) [s]
+Total jumps          : 750632 (370308)
+Distinguished found  : 2235 (3454)
+Speed                : 107.736 (202.218) [dP/s]
+Out of bounds cycles : 1 (0.773463)
+Side-to-side cycles  : 1150 (884)
+Total cycles         : 1151 (885)
+Right in             : 100% cases
+
+Test #310
+N                    : 1078941207387319134507151265573715204
+Required times       : 45.069 (17.1733) [s]
+Total jumps          : 1626845 (374362)
+Distinguished found  : 4735 (3458)
+Speed                : 105.061 (201.396) [dP/s]
+Out of bounds cycles : 7 (0.793548)
+Side-to-side cycles  : 2404 (889)
+Total cycles         : 2411 (890)
+Right in             : 100% cases
+
+Test #311
+N                    : 1078941207387319134507151265573715204
+Required times       : 17.4502 (17.1742) [s]
+Total jumps          : 620320 (375153)
+Distinguished found  : 1907 (3453)
+Speed                : 109.282 (201.095) [dP/s]
+Out of bounds cycles : 2 (0.797428)
+Side-to-side cycles  : 942 (889)
+Total cycles         : 944 (890)
+Right in             : 100% cases
+
+Test #312
+N                    : 1078941207387319134507151265573715204
+Required times       : 7.39414 (17.1428) [s]
+Total jumps          : 263597 (374795)
+Distinguished found  : 787 (3445)
+Speed                : 106.436 (200.964) [dP/s]
+Out of bounds cycles : 2 (0.801282)
+Side-to-side cycles  : 402 (887)
+Total cycles         : 404 (888)
+Right in             : 100% cases
+
+Test #313
+N                    : 1078941207387319134507151265573715204
+Required times       : 44.4183 (17.23) [s]
+Total jumps          : 1631603 (378810)
+Distinguished found  : 4701 (3449)
+Speed                : 105.835 (200.18) [dP/s]
+Out of bounds cycles : 5 (0.814696)
+Side-to-side cycles  : 2408 (892)
+Total cycles         : 2413 (893)
+Right in             : 100% cases
+
+Test #314
+N                    : 1078941207387319134507151265573715204
+Required times       : 25.9711 (17.2578) [s]
+Total jumps          : 915922 (380521)
+Distinguished found  : 2822 (3447)
+Speed                : 108.659 (199.742) [dP/s]
+Out of bounds cycles : 0 (0.812102)
+Side-to-side cycles  : 1372 (894)
+Total cycles         : 1372 (895)
+Right in             : 100% cases
+
+Test #315
+N                    : 1078941207387319134507151265573715204
+Required times       : 9.06284 (17.2318) [s]
+Total jumps          : 359199 (380453)
+Distinguished found  : 963 (3439)
+Speed                : 106.258 (199.586) [dP/s]
+Out of bounds cycles : 1 (0.812698)
+Side-to-side cycles  : 522 (893)
+Total cycles         : 523 (893)
+Right in             : 100% cases
+
+Test #316
+N                    : 1078941207387319134507151265573715204
+Required times       : 26.9793 (17.2626) [s]
+Total jumps          : 993735 (382394)
+Distinguished found  : 2922 (3437)
+Speed                : 108.305 (199.134) [dP/s]
+Out of bounds cycles : 6 (0.829114)
+Side-to-side cycles  : 1440 (894)
+Total cycles         : 1446 (895)
+Right in             : 100% cases
+
+Test #317
+N                    : 1078941207387319134507151265573715204
+Required times       : 14.3106 (17.2533) [s]
+Total jumps          : 505044 (382781)
+Distinguished found  : 1584 (3431)
+Speed                : 110.687 (198.903) [dP/s]
+Out of bounds cycles : 3 (0.835962)
+Side-to-side cycles  : 735 (894)
+Total cycles         : 738 (895)
+Right in             : 100% cases
+
+Test #318
+N                    : 1078941207387319134507151265573715204
+Required times       : 4.61616 (17.2136) [s]
+Total jumps          : 156458 (382069)
+Distinguished found  : 516 (3422)
+Speed                : 111.781 (198.829) [dP/s]
+Out of bounds cycles : 0 (0.833333)
+Side-to-side cycles  : 247 (892)
+Total cycles         : 247 (893)
+Right in             : 100% cases
+
+Test #319
+N                    : 1078941207387319134507151265573715204
+Required times       : 37.5104 (17.2772) [s]
+Total jumps          : 1346417 (385092)
+Distinguished found  : 3955 (3424)
+Speed                : 105.437 (198.194) [dP/s]
+Out of bounds cycles : 7 (0.852665)
+Side-to-side cycles  : 1940 (895)
+Total cycles         : 1947 (896)
+Right in             : 100% cases
+
+Test #320
+N                    : 1078941207387319134507151265573715204
+Required times       : 37.7644 (17.3412) [s]
+Total jumps          : 1332882 (388054)
+Distinguished found  : 4001 (3426)
+Speed                : 105.946 (197.566) [dP/s]
+Out of bounds cycles : 6 (0.86875)
+Side-to-side cycles  : 1973 (899)
+Total cycles         : 1979 (899)
+Right in             : 100% cases
+
+Test #321
+N                    : 1078941207387319134507151265573715204
+Required times       : 7.96662 (17.312) [s]
+Total jumps          : 301716 (387785)
+Distinguished found  : 837 (3417)
+Speed                : 105.063 (197.433) [dP/s]
+Out of bounds cycles : 2 (0.872274)
+Side-to-side cycles  : 447 (897)
+Total cycles         : 449 (898)
+Right in             : 100% cases
+
+Test #322
+N                    : 1078941207387319134507151265573715204
+Required times       : 18.8041 (17.3166) [s]
+Total jumps          : 663342 (388641)
+Distinguished found  : 2079 (3413)
+Speed                : 110.561 (197.14) [dP/s]
+Out of bounds cycles : 0 (0.869565)
+Side-to-side cycles  : 986 (897)
+Total cycles         : 986 (898)
+Right in             : 100% cases
+
+Test #323
+N                    : 1078941207387319134507151265573715204
+Required times       : 14.2018 (17.307) [s]
+Total jumps          : 523438 (389058)
+Distinguished found  : 1547 (3408)
+Speed                : 108.93 (196.916) [dP/s]
+Out of bounds cycles : 3 (0.876161)
+Side-to-side cycles  : 793 (897)
+Total cycles         : 796 (898)
+Right in             : 100% cases
+
+Test #324
+N                    : 1078941207387319134507151265573715204
+Required times       : 22.889 (17.3242) [s]
+Total jumps          : 809207 (390355)
+Distinguished found  : 2517 (3405)
+Speed                : 109.965 (196.562) [dP/s]
+Out of bounds cycles : 0 (0.873457)
+Side-to-side cycles  : 1238 (898)
+Total cycles         : 1238 (899)
+Right in             : 100% cases
+
+Test #325
+N                    : 1078941207387319134507151265573715204
+Required times       : 7.99181 (17.2955) [s]
+Total jumps          : 294404 (390060)
+Distinguished found  : 893 (3397)
+Speed                : 111.739 (196.441) [dP/s]
+Out of bounds cycles : 1 (0.873846)
+Side-to-side cycles  : 441 (897)
+Total cycles         : 442 (898)
+Right in             : 100% cases
+
+Test #326
+N                    : 1078941207387319134507151265573715204
+Required times       : 6.75914 (17.2632) [s]
+Total jumps          : 241093 (389603)
+Distinguished found  : 748 (3389)
+Speed                : 110.665 (196.338) [dP/s]
+Out of bounds cycles : 0 (0.871166)
+Side-to-side cycles  : 364 (895)
+Total cycles         : 364 (896)
+Right in             : 100% cases
+
+Test #327
+N                    : 1078941207387319134507151265573715204
+Required times       : 34.089 (17.3147) [s]
+Total jumps          : 1224834 (392157)
+Distinguished found  : 3683 (3390)
+Speed                : 108.041 (195.806) [dP/s]
+Out of bounds cycles : 3 (0.877676)
+Side-to-side cycles  : 1783 (898)
+Total cycles         : 1786 (899)
+Right in             : 100% cases
+
+Test #328
+N                    : 1078941207387319134507151265573715204
+Required times       : 11.7468 (17.2977) [s]
+Total jumps          : 411725 (392217)
+Distinguished found  : 1281 (3383)
+Speed                : 109.051 (195.627) [dP/s]
+Out of bounds cycles : 3 (0.884146)
+Side-to-side cycles  : 606 (897)
+Total cycles         : 609 (898)
+Right in             : 100% cases
+
+Test #329
+N                    : 1078941207387319134507151265573715204
+Required times       : 12.9311 (17.2844) [s]
+Total jumps          : 484812 (392498)
+Distinguished found  : 1376 (3377)
+Speed                : 106.411 (195.424) [dP/s]
+Out of bounds cycles : 1 (0.884498)
+Side-to-side cycles  : 737 (896)
+Total cycles         : 738 (897)
+Right in             : 100% cases
+
+Test #330
+N                    : 1078941207387319134507151265573715204
+Required times       : 16.316 (17.2815) [s]
+Total jumps          : 590703 (393099)
+Distinguished found  : 1748 (3372)
+Speed                : 107.134 (195.171) [dP/s]
+Out of bounds cycles : 1 (0.884848)
+Side-to-side cycles  : 898 (896)
+Total cycles         : 899 (897)
+Right in             : 100% cases
+
+Test #331
+N                    : 1078941207387319134507151265573715204
+Required times       : 31.0105 (17.3229) [s]
+Total jumps          : 1158256 (395410)
+Distinguished found  : 3181 (3372)
+Speed                : 102.578 (194.671) [dP/s]
+Out of bounds cycles : 10 (0.912387)
+Side-to-side cycles  : 1595 (899)
+Total cycles         : 1605 (899)
+Right in             : 100% cases
+
+Test #332
+N                    : 1078941207387319134507151265573715204
+Required times       : 19.9568 (17.3309) [s]
+Total jumps          : 720708 (396390)
+Distinguished found  : 2148 (3368)
+Speed                : 107.633 (194.369) [dP/s]
+Out of bounds cycles : 1 (0.912651)
+Side-to-side cycles  : 1072 (899)
+Total cycles         : 1073 (900)
+Right in             : 100% cases
+
+Test #333
+N                    : 1078941207387319134507151265573715204
+Required times       : 23.1523 (17.3484) [s]
+Total jumps          : 885436 (397859)
+Distinguished found  : 2428 (3365)
+Speed                : 104.871 (194.01) [dP/s]
+Out of bounds cycles : 3 (0.918919)
+Side-to-side cycles  : 1317 (900)
+Total cycles         : 1320 (901)
+Right in             : 100% cases
+
+Test #334
+N                    : 1078941207387319134507151265573715204
+Required times       : 14.0684 (17.3385) [s]
+Total jumps          : 512215 (398201)
+Distinguished found  : 1536 (3360)
+Speed                : 109.18 (193.804) [dP/s]
+Out of bounds cycles : 0 (0.916168)
+Side-to-side cycles  : 801 (900)
+Total cycles         : 801 (901)
+Right in             : 100% cases
+
+Test #335
+N                    : 1078941207387319134507151265573715204
+Required times       : 11.9878 (17.3226) [s]
+Total jumps          : 419058 (398263)
+Distinguished found  : 1301 (3354)
+Speed                : 108.527 (193.628) [dP/s]
+Out of bounds cycles : 0 (0.913433)
+Side-to-side cycles  : 633 (899)
+Total cycles         : 633 (900)
+Right in             : 100% cases
+
+Test #336
+N                    : 1078941207387319134507151265573715204
+Required times       : 17.7743 (17.3239) [s]
+Total jumps          : 642049 (398989)
+Distinguished found  : 1892 (3349)
+Speed                : 106.446 (193.362) [dP/s]
+Out of bounds cycles : 6 (0.928571)
+Side-to-side cycles  : 944 (899)
+Total cycles         : 950 (900)
+Right in             : 100% cases
+
+Test #337
+N                    : 1078941207387319134507151265573715204
+Required times       : 5.42363 (17.2886) [s]
+Total jumps          : 199755 (398398)
+Distinguished found  : 588 (3341)
+Speed                : 108.414 (193.283) [dP/s]
+Out of bounds cycles : 1 (0.928783)
+Side-to-side cycles  : 297 (898)
+Total cycles         : 298 (898)
+Right in             : 100% cases
+
+Test #338
+N                    : 1078941207387319134507151265573715204
+Required times       : 30.596 (17.328) [s]
+Total jumps          : 1127823 (400556)
+Distinguished found  : 3222 (3341)
+Speed                : 105.308 (192.823) [dP/s]
+Out of bounds cycles : 3 (0.934911)
+Side-to-side cycles  : 1608 (900)
+Total cycles         : 1611 (901)
+Right in             : 100% cases
+
+Test #339
+N                    : 1078941207387319134507151265573715204
+Required times       : 38.2775 (17.3898) [s]
+Total jumps          : 1391989 (403480)
+Distinguished found  : 4106 (3343)
+Speed                : 107.269 (192.267) [dP/s]
+Out of bounds cycles : 7 (0.952802)
+Side-to-side cycles  : 2032 (903)
+Total cycles         : 2039 (904)
+Right in             : 100% cases
+
+Test #340
+N                    : 1078941207387319134507151265573715204
+Required times       : 11.6853 (17.373) [s]
+Total jumps          : 449881 (403617)
+Distinguished found  : 1208 (3337)
+Speed                : 103.378 (192.092) [dP/s]
+Out of bounds cycles : 0 (0.95)
+Side-to-side cycles  : 638 (902)
+Total cycles         : 638 (903)
+Right in             : 100% cases
+
+Test #341
+N                    : 1078941207387319134507151265573715204
+Required times       : 8.57141 (17.3472) [s]
+Total jumps          : 311782 (403348)
+Distinguished found  : 942 (3330)
+Speed                : 109.9 (191.972) [dP/s]
+Out of bounds cycles : 1 (0.950147)
+Side-to-side cycles  : 464 (901)
+Total cycles         : 465 (902)
+Right in             : 100% cases
+
+Test #342
+N                    : 1078941207387319134507151265573715204
+Required times       : 25.1428 (17.37) [s]
+Total jumps          : 909487 (404828)
+Distinguished found  : 2649 (3328)
+Speed                : 105.358 (191.606) [dP/s]
+Out of bounds cycles : 2 (0.953216)
+Side-to-side cycles  : 1326 (902)
+Total cycles         : 1328 (903)
+Right in             : 100% cases
+
+Test #343
+N                    : 1078941207387319134507151265573715204
+Required times       : 17.8278 (17.3713) [s]
+Total jumps          : 676511 (405620)
+Distinguished found  : 1825 (3323)
+Speed                : 102.368 (191.339) [dP/s]
+Out of bounds cycles : 4 (0.962099)
+Side-to-side cycles  : 962 (902)
+Total cycles         : 966 (903)
+Right in             : 100% cases
+
+Test #344
+N                    : 1078941207387319134507151265573715204
+Required times       : 18.4549 (17.3745) [s]
+Total jumps          : 660223 (406360)
+Distinguished found  : 1962 (3319)
+Speed                : 106.313 (191.076) [dP/s]
+Out of bounds cycles : 1 (0.962209)
+Side-to-side cycles  : 998 (903)
+Total cycles         : 999 (904)
+Right in             : 100% cases
+
+Test #345
+N                    : 1078941207387319134507151265573715204
+Required times       : 28.4704 (17.4066) [s]
+Total jumps          : 1065996 (408272)
+Distinguished found  : 2966 (3318)
+Speed                : 104.178 (190.664) [dP/s]
+Out of bounds cycles : 4 (0.971014)
+Side-to-side cycles  : 1521 (904)
+Total cycles         : 1525 (905)
+Right in             : 100% cases
+
+Test #346
+N                    : 1078941207387319134507151265573715204
+Required times       : 28.2848 (17.4381) [s]
+Total jumps          : 1077490 (410206)
+Distinguished found  : 2986 (3317)
+Speed                : 105.569 (190.265) [dP/s]
+Out of bounds cycles : 3 (0.976879)
+Side-to-side cycles  : 1526 (906)
+Total cycles         : 1529 (907)
+Right in             : 100% cases
+
+Test #347
+N                    : 1078941207387319134507151265573715204
+Required times       : 28.8501 (17.471) [s]
+Total jumps          : 1028158 (411987)
+Distinguished found  : 3185 (3317)
+Speed                : 110.398 (189.885) [dP/s]
+Out of bounds cycles : 3 (0.982709)
+Side-to-side cycles  : 1489 (908)
+Total cycles         : 1492 (909)
+Right in             : 100% cases
+
+Test #348
+N                    : 1078941207387319134507151265573715204
+Required times       : 32.0951 (17.513) [s]
+Total jumps          : 1175980 (414182)
+Distinguished found  : 3520 (3318)
+Speed                : 109.674 (189.463) [dP/s]
+Out of bounds cycles : 3 (0.988506)
+Side-to-side cycles  : 1780 (910)
+Total cycles         : 1783 (911)
+Right in             : 100% cases
+
+Test #349
+N                    : 1078941207387319134507151265573715204
+Required times       : 28.5125 (17.5445) [s]
+Total jumps          : 1074676 (416075)
+Distinguished found  : 3036 (3317)
+Speed                : 106.479 (189.077) [dP/s]
+Out of bounds cycles : 0 (0.985673)
+Side-to-side cycles  : 1598 (912)
+Total cycles         : 1598 (913)
+Right in             : 100% cases
+
+Test #350
+N                    : 1078941207387319134507151265573715204
+Required times       : 4.61591 (17.5076) [s]
+Total jumps          : 182893 (415408)
+Distinguished found  : 470 (3309)
+Speed                : 101.822 (189.011) [dP/s]
+Out of bounds cycles : 1 (0.985714)
+Side-to-side cycles  : 259 (910)
+Total cycles         : 260 (911)
+Right in             : 100% cases
+
+Test #351
+N                    : 1078941207387319134507151265573715204
+Required times       : 22.1718 (17.5208) [s]
+Total jumps          : 812282 (416539)
+Distinguished found  : 2355 (3306)
+Speed                : 106.216 (188.712) [dP/s]
+Out of bounds cycles : 1 (0.985755)
+Side-to-side cycles  : 1187 (911)
+Total cycles         : 1188 (912)
+Right in             : 100% cases
+
+Test #352
+N                    : 1078941207387319134507151265573715204
+Required times       : 27.2307 (17.5484) [s]
+Total jumps          : 990328 (418169)
+Distinguished found  : 2905 (3305)
+Speed                : 106.681 (188.351) [dP/s]
+Out of bounds cycles : 1 (0.985795)
+Side-to-side cycles  : 1469 (913)
+Total cycles         : 1470 (914)
+Right in             : 100% cases
+
+Test #353
+N                    : 1078941207387319134507151265573715204
+Required times       : 18.2929 (17.5505) [s]
+Total jumps          : 674845 (418896)
+Distinguished found  : 1938 (3301)
+Speed                : 105.943 (188.107) [dP/s]
+Out of bounds cycles : 2 (0.988669)
+Side-to-side cycles  : 984 (913)
+Total cycles         : 986 (914)
+Right in             : 100% cases
+
+Test #354
+N                    : 1078941207387319134507151265573715204
+Required times       : 14.5348 (17.542) [s]
+Total jumps          : 599749 (419407)
+Distinguished found  : 1525 (3296)
+Speed                : 104.92 (187.913) [dP/s]
+Out of bounds cycles : 0 (0.985876)
+Side-to-side cycles  : 827 (913)
+Total cycles         : 827 (914)
+Right in             : 100% cases
+
+Test #355
+N                    : 1078941207387319134507151265573715204
+Required times       : 17.5437 (17.542) [s]
+Total jumps          : 604038 (419927)
+Distinguished found  : 1899 (3292)
+Speed                : 108.244 (187.688) [dP/s]
+Out of bounds cycles : 2 (0.988732)
+Side-to-side cycles  : 932 (913)
+Total cycles         : 934 (914)
+Right in             : 100% cases
+
+Test #356
+N                    : 1078941207387319134507151265573715204
+Required times       : 19.0609 (17.5463) [s]
+Total jumps          : 698580 (420710)
+Distinguished found  : 1948 (3288)
+Speed                : 102.199 (187.427) [dP/s]
+Out of bounds cycles : 2 (0.991573)
+Side-to-side cycles  : 1031 (913)
+Total cycles         : 1033 (914)
+Right in             : 100% cases
+
+Test #357
+N                    : 1078941207387319134507151265573715204
+Required times       : 5.63502 (17.5129) [s]
+Total jumps          : 203338 (420101)
+Distinguished found  : 622 (3281)
+Speed                : 110.381 (187.358) [dP/s]
+Out of bounds cycles : 1 (0.991597)
+Side-to-side cycles  : 312 (911)
+Total cycles         : 313 (912)
+Right in             : 100% cases
+
+Test #358
+N                    : 1078941207387319134507151265573715204
+Required times       : 25.6889 (17.5358) [s]
+Total jumps          : 936854 (421545)
+Distinguished found  : 2724 (3279)
+Speed                : 106.038 (187.025) [dP/s]
+Out of bounds cycles : 4 (1)
+Side-to-side cycles  : 1342 (913)
+Total cycles         : 1346 (914)
+Right in             : 100% cases
+
+Test #359
+N                    : 1078941207387319134507151265573715204
+Required times       : 31.1575 (17.5737) [s]
+Total jumps          : 1152755 (423581)
+Distinguished found  : 3351 (3279)
+Speed                : 107.55 (186.633) [dP/s]
+Out of bounds cycles : 2 (1.00279)
+Side-to-side cycles  : 1728 (915)
+Total cycles         : 1730 (916)
+Right in             : 100% cases
+
+Test #360
+N                    : 1078941207387319134507151265573715204
+Required times       : 19.7718 (17.5798) [s]
+Total jumps          : 745681 (424476)
+Distinguished found  : 2084 (3276)
+Speed                : 105.403 (186.379) [dP/s]
+Out of bounds cycles : 3 (1.00833)
+Side-to-side cycles  : 1118 (916)
+Total cycles         : 1121 (917)
+Right in             : 100% cases
+
+Test #361
+N                    : 1078941207387319134507151265573715204
+Required times       : 15.1422 (17.5731) [s]
+Total jumps          : 507521 (424706)
+Distinguished found  : 1659 (3272)
+Speed                : 109.561 (186.196) [dP/s]
+Out of bounds cycles : 1 (1.00831)
+Side-to-side cycles  : 788 (915)
+Total cycles         : 789 (916)
+Right in             : 100% cases
+
+Test #362
+N                    : 1078941207387319134507151265573715204
+Required times       : 7.06601 (17.544) [s]
+Total jumps          : 235997 (424185)
+Distinguished found  : 751 (3265)
+Speed                : 106.283 (186.107) [dP/s]
+Out of bounds cycles : 0 (1.00552)
+Side-to-side cycles  : 329 (914)
+Total cycles         : 329 (915)
+Right in             : 100% cases
+
+Test #363
+N                    : 1078941207387319134507151265573715204
+Required times       : 22.3309 (17.5572) [s]
+Total jumps          : 855665 (425373)
+Distinguished found  : 2432 (3262)
+Speed                : 108.907 (185.836) [dP/s]
+Out of bounds cycles : 0 (1.00275)
+Side-to-side cycles  : 1236 (914)
+Total cycles         : 1236 (915)
+Right in             : 100% cases
+
+Test #364
+N                    : 1078941207387319134507151265573715204
+Required times       : 11.7748 (17.5413) [s]
+Total jumps          : 461223 (425472)
+Distinguished found  : 1301 (3257)
+Speed                : 110.491 (185.697) [dP/s]
+Out of bounds cycles : 0 (1)
+Side-to-side cycles  : 664 (914)
+Total cycles         : 664 (915)
+Right in             : 100% cases
+
+Test #365
+N                    : 1078941207387319134507151265573715204
+Required times       : 7.58338 (17.5141) [s]
+Total jumps          : 255099 (425005)
+Distinguished found  : 800 (3250)
+Speed                : 105.494 (185.602) [dP/s]
+Out of bounds cycles : 1 (1)
+Side-to-side cycles  : 421 (912)
+Total cycles         : 422 (913)
+Right in             : 100% cases
+
+Test #366
+N                    : 1078941207387319134507151265573715204
+Required times       : 17.8999 (17.5151) [s]
+Total jumps          : 657706 (425641)
+Distinguished found  : 1902 (3246)
+Speed                : 106.258 (185.38) [dP/s]
+Out of bounds cycles : 1 (1)
+Side-to-side cycles  : 913 (912)
+Total cycles         : 914 (913)
+Right in             : 100% cases
+
+Test #367
+N                    : 1078941207387319134507151265573715204
+Required times       : 5.82731 (17.4833) [s]
+Total jumps          : 212167 (425059)
+Distinguished found  : 668 (3239)
+Speed                : 114.633 (185.316) [dP/s]
+Out of bounds cycles : 0 (0.997275)
+Side-to-side cycles  : 320 (911)
+Total cycles         : 320 (912)
+Right in             : 100% cases
+
+Test #368
+N                    : 1078941207387319134507151265573715204
+Required times       : 19.0459 (17.4875) [s]
+Total jumps          : 703185 (425815)
+Distinguished found  : 2055 (3236)
+Speed                : 107.897 (185.087) [dP/s]
+Out of bounds cycles : 0 (0.994565)
+Side-to-side cycles  : 1082 (911)
+Total cycles         : 1082 (912)
+Right in             : 100% cases
+
+Test #369
+N                    : 1078941207387319134507151265573715204
+Required times       : 32.4061 (17.5279) [s]
+Total jumps          : 1216410 (427958)
+Distinguished found  : 3477 (3237)
+Speed                : 107.295 (184.697) [dP/s]
+Out of bounds cycles : 4 (1.00271)
+Side-to-side cycles  : 1820 (914)
+Total cycles         : 1824 (915)
+Right in             : 100% cases
+
+Test #370
+N                    : 1078941207387319134507151265573715204
+Required times       : 4.9244 (17.4939) [s]
+Total jumps          : 180536 (427289)
+Distinguished found  : 556 (3230)
+Speed                : 112.907 (184.643) [dP/s]
+Out of bounds cycles : 0 (1)
+Side-to-side cycles  : 276 (912)
+Total cycles         : 276 (913)
+Right in             : 100% cases
+
+Test #371
+N                    : 1078941207387319134507151265573715204
+Required times       : 11.9767 (17.479) [s]
+Total jumps          : 412573 (427249)
+Distinguished found  : 1316 (3224)
+Speed                : 109.88 (184.505) [dP/s]
+Out of bounds cycles : 1 (1)
+Side-to-side cycles  : 616 (911)
+Total cycles         : 617 (912)
+Right in             : 100% cases
+
+Test #372
+N                    : 1078941207387319134507151265573715204
+Required times       : 17.8263 (17.4799) [s]
+Total jumps          : 682762 (427936)
+Distinguished found  : 1888 (3221)
+Speed                : 105.911 (184.289) [dP/s]
+Out of bounds cycles : 2 (1.00269)
+Side-to-side cycles  : 962 (911)
+Total cycles         : 964 (912)
+Right in             : 100% cases
+
+Test #373
+N                    : 1078941207387319134507151265573715204
+Required times       : 18.3018 (17.4821) [s]
+Total jumps          : 674988 (428598)
+Distinguished found  : 1948 (3217)
+Speed                : 106.438 (184.071) [dP/s]
+Out of bounds cycles : 0 (1)
+Side-to-side cycles  : 976 (911)
+Total cycles         : 976 (912)
+Right in             : 100% cases
+
+Test #374
+N                    : 1078941207387319134507151265573715204
+Required times       : 60.9834 (17.5985) [s]
+Total jumps          : 2281646 (433553)
+Distinguished found  : 6317 (3226)
+Speed                : 103.586 (183.325) [dP/s]
+Out of bounds cycles : 13 (1.03209)
+Side-to-side cycles  : 3307 (918)
+Total cycles         : 3320 (919)
+Right in             : 100% cases
+
+Test #375
+N                    : 1078941207387319134507151265573715204
+Required times       : 44.4613 (17.6701) [s]
+Total jumps          : 1570523 (436585)
+Distinguished found  : 4760 (3230)
+Speed                : 107.059 (182.813) [dP/s]
+Out of bounds cycles : 5 (1.04267)
+Side-to-side cycles  : 2388 (922)
+Total cycles         : 2393 (923)
+Right in             : 100% cases
+
+Test #376
+N                    : 1078941207387319134507151265573715204
+Required times       : 20.0141 (17.6763) [s]
+Total jumps          : 759759 (437444)
+Distinguished found  : 2086 (3227)
+Speed                : 104.226 (182.577) [dP/s]
+Out of bounds cycles : 1 (1.04255)
+Side-to-side cycles  : 1090 (922)
+Total cycles         : 1091 (923)
+Right in             : 100% cases
+
+Test #377
+N                    : 1078941207387319134507151265573715204
+Required times       : 24.7474 (17.6951) [s]
+Total jumps          : 901540 (438676)
+Distinguished found  : 2632 (3225)
+Speed                : 106.355 (182.294) [dP/s]
+Out of bounds cycles : 2 (1.04509)
+Side-to-side cycles  : 1329 (923)
+Total cycles         : 1331 (924)
+Right in             : 100% cases
+
+Test #378
+N                    : 1078941207387319134507151265573715204
+Required times       : 20.4895 (17.7025) [s]
+Total jumps          : 773762 (439562)
+Distinguished found  : 2195 (3222)
+Speed                : 107.128 (182.064) [dP/s]
+Out of bounds cycles : 3 (1.05026)
+Side-to-side cycles  : 1126 (924)
+Total cycles         : 1129 (925)
+Right in             : 100% cases
+
+Test #379
+N                    : 1078941207387319134507151265573715204
+Required times       : 29.2512 (17.7329) [s]
+Total jumps          : 1001040 (441043)
+Distinguished found  : 3143 (3222)
+Speed                : 107.448 (181.739) [dP/s]
+Out of bounds cycles : 8 (1.0686)
+Side-to-side cycles  : 1518 (925)
+Total cycles         : 1526 (926)
+Right in             : 100% cases
+
+Test #380
+N                    : 1078941207387319134507151265573715204
+Required times       : 4.06526 (17.697) [s]
+Total jumps          : 166488 (440321)
+Distinguished found  : 435 (3215)
+Speed                : 107.004 (181.694) [dP/s]
+Out of bounds cycles : 0 (1.06579)
+Side-to-side cycles  : 242 (924)
+Total cycles         : 242 (925)
+Right in             : 100% cases
+
+Test #381
+N                    : 1078941207387319134507151265573715204
+Required times       : 29.6729 (17.7284) [s]
+Total jumps          : 1099648 (442051)
+Distinguished found  : 3119 (3215)
+Speed                : 105.113 (181.357) [dP/s]
+Out of bounds cycles : 6 (1.07874)
+Side-to-side cycles  : 1558 (925)
+Total cycles         : 1564 (926)
+Right in             : 100% cases
+
+Test #382
+N                    : 1078941207387319134507151265573715204
+Required times       : 22.8879 (17.7419) [s]
+Total jumps          : 850861 (443122)
+Distinguished found  : 2438 (3213)
+Speed                : 106.519 (181.105) [dP/s]
+Out of bounds cycles : 3 (1.08377)
+Side-to-side cycles  : 1234 (926)
+Total cycles         : 1237 (927)
+Right in             : 100% cases
+
+Test #383
+N                    : 1078941207387319134507151265573715204
+Required times       : 27.8613 (17.7683) [s]
+Total jumps          : 1044022 (444691)
+Distinguished found  : 2989 (3212)
+Speed                : 107.281 (180.802) [dP/s]
+Out of bounds cycles : 1 (1.08355)
+Side-to-side cycles  : 1551 (928)
+Total cycles         : 1552 (929)
+Right in             : 100% cases
+
+Test #384
+N                    : 1078941207387319134507151265573715204
+Required times       : 6.89855 (17.74) [s]
+Total jumps          : 268242 (444231)
+Distinguished found  : 710 (3206)
+Speed                : 102.92 (180.723) [dP/s]
+Out of bounds cycles : 0 (1.08073)
+Side-to-side cycles  : 392 (926)
+Total cycles         : 392 (927)
+Right in             : 100% cases
+
+Test #385
+N                    : 1078941207387319134507151265573715204
+Required times       : 14.7318 (17.7322) [s]
+Total jumps          : 538484 (444476)
+Distinguished found  : 1568 (3201)
+Speed                : 106.436 (180.563) [dP/s]
+Out of bounds cycles : 1 (1.08052)
+Side-to-side cycles  : 765 (926)
+Total cycles         : 766 (927)
+Right in             : 100% cases
+
+Test #386
+N                    : 1078941207387319134507151265573715204
+Required times       : 5.25761 (17.6999) [s]
+Total jumps          : 194350 (443828)
+Distinguished found  : 559 (3194)
+Speed                : 106.322 (180.506) [dP/s]
+Out of bounds cycles : 0 (1.07772)
+Side-to-side cycles  : 275 (924)
+Total cycles         : 275 (925)
+Right in             : 100% cases
+
+Test #387
+N                    : 1078941207387319134507151265573715204
+Required times       : 34.1324 (17.7424) [s]
+Total jumps          : 1275635 (445977)
+Distinguished found  : 3758 (3196)
+Speed                : 110.101 (180.156) [dP/s]
+Out of bounds cycles : 1 (1.07752)
+Side-to-side cycles  : 1830 (927)
+Total cycles         : 1831 (928)
+Right in             : 100% cases
+
+Test #388
+N                    : 1078941207387319134507151265573715204
+Required times       : 5.50432 (17.7108) [s]
+Total jumps          : 206940 (445361)
+Distinguished found  : 554 (3189)
+Speed                : 100.648 (180.092) [dP/s]
+Out of bounds cycles : 3 (1.08247)
+Side-to-side cycles  : 286 (925)
+Total cycles         : 289 (926)
+Right in             : 100% cases
+
+Test #389
+N                    : 1078941207387319134507151265573715204
+Required times       : 9.22942 (17.689) [s]
+Total jumps          : 339163 (445088)
+Distinguished found  : 1027 (3184)
+Speed                : 111.275 (180) [dP/s]
+Out of bounds cycles : 2 (1.08483)
+Side-to-side cycles  : 469 (924)
+Total cycles         : 471 (925)
+Right in             : 100% cases
+
+Test #390
+N                    : 1078941207387319134507151265573715204
+Required times       : 14.7717 (17.6815) [s]
+Total jumps          : 555982 (445373)
+Distinguished found  : 1621 (3180)
+Speed                : 109.737 (179.85) [dP/s]
+Out of bounds cycles : 4 (1.09231)
+Side-to-side cycles  : 826 (923)
+Total cycles         : 830 (925)
+Right in             : 100% cases
+
+Test #391
+N                    : 1078941207387319134507151265573715204
+Required times       : 21.8357 (17.6922) [s]
+Total jumps          : 827959 (446351)
+Distinguished found  : 2276 (3177)
+Speed                : 104.233 (179.611) [dP/s]
+Out of bounds cycles : 2 (1.09463)
+Side-to-side cycles  : 1174 (924)
+Total cycles         : 1176 (925)
+Right in             : 100% cases
+
+Test #392
+N                    : 1078941207387319134507151265573715204
+Required times       : 15.7585 (17.6872) [s]
+Total jumps          : 577870 (446687)
+Distinguished found  : 1760 (3174)
+Speed                : 111.686 (179.456) [dP/s]
+Out of bounds cycles : 1 (1.09439)
+Side-to-side cycles  : 872 (924)
+Total cycles         : 873 (925)
+Right in             : 100% cases
+
+Test #393
+N                    : 1078941207387319134507151265573715204
+Required times       : 22.3421 (17.6991) [s]
+Total jumps          : 796694 (447577)
+Distinguished found  : 2426 (3172)
+Speed                : 108.584 (179.229) [dP/s]
+Out of bounds cycles : 4 (1.10178)
+Side-to-side cycles  : 1174 (925)
+Total cycles         : 1178 (926)
+Right in             : 100% cases
+
+Test #394
+N                    : 1078941207387319134507151265573715204
+Required times       : 9.03181 (17.6771) [s]
+Total jumps          : 321873 (447258)
+Distinguished found  : 979 (3166)
+Speed                : 108.395 (179.137) [dP/s]
+Out of bounds cycles : 0 (1.09898)
+Side-to-side cycles  : 502 (924)
+Total cycles         : 502 (925)
+Right in             : 100% cases
+
+Test #395
+N                    : 1078941207387319134507151265573715204
+Required times       : 21.493 (17.6867) [s]
+Total jumps          : 762155 (448055)
+Distinguished found  : 2278 (3164)
+Speed                : 105.988 (178.912) [dP/s]
+Out of bounds cycles : 3 (1.1038)
+Side-to-side cycles  : 1171 (924)
+Total cycles         : 1174 (925)
+Right in             : 100% cases
+
+Test #396
+N                    : 1078941207387319134507151265573715204
+Required times       : 24.9129 (17.705) [s]
+Total jumps          : 963763 (449358)
+Distinguished found  : 2609 (3162)
+Speed                : 104.725 (178.648) [dP/s]
+Out of bounds cycles : 3 (1.10859)
+Side-to-side cycles  : 1381 (925)
+Total cycles         : 1384 (926)
+Right in             : 100% cases
+
+Test #397
+N                    : 1078941207387319134507151265573715204
+Required times       : 29.9784 (17.7359) [s]
+Total jumps          : 1158635 (451144)
+Distinguished found  : 3217 (3163)
+Speed                : 107.311 (178.345) [dP/s]
+Out of bounds cycles : 2 (1.11083)
+Side-to-side cycles  : 1723 (927)
+Total cycles         : 1725 (928)
+Right in             : 100% cases
+
+Test #398
+N                    : 1078941207387319134507151265573715204
+Required times       : 23.954 (17.7515) [s]
+Total jumps          : 897715 (452266)
+Distinguished found  : 2547 (3161)
+Speed                : 106.329 (178.1) [dP/s]
+Out of bounds cycles : 4 (1.11809)
+Side-to-side cycles  : 1319 (928)
+Total cycles         : 1323 (929)
+Right in             : 100% cases
+
+Test #399
+N                    : 1078941207387319134507151265573715204
+Required times       : 3.153 (17.7149) [s]
+Total jumps          : 113528 (451417)
+Distinguished found  : 335 (3154)
+Speed                : 106.248 (178.068) [dP/s]
+Out of bounds cycles : 0 (1.11529)
+Side-to-side cycles  : 164 (926)
+Total cycles         : 164 (928)
+Right in             : 100% cases
+
+Test #400
+N                    : 1078941207387319134507151265573715204
+Required times       : 10.1486 (17.696) [s]
+Total jumps          : 379069 (451236)
+Distinguished found  : 1034 (3149)
+Speed                : 101.886 (177.959) [dP/s]
+Out of bounds cycles : 3 (1.12)
+Side-to-side cycles  : 552 (925)
+Total cycles         : 555 (927)
+Right in             : 100% cases
+
+
+==================================================================================
+Time                 : 17.696 [sec]
+Jumps                : 451236
+Ratio                : 1.54698
+Speed                : 177.959 [dP/s]
+Cycles out of bounds : 1.12
+Side-to-side cycles  : 925.967
+Total cycles         : 927.087
+==================================================================================
+
+==================================================================================
+--- p  : 901093925050813313
+--- m  : 111546435
+--- f  : x^5 + 191075073050362011x^4 + 160605463477594998x^3 + 600911294710423404x^2 + 355539042748289431x + 735776749746676728
+--- s1 : 72764820 = 72764820 (mod m)
+--- s2 : 8362838 = 8362838 (mod m)
+--- N  : 811970261898940452103887438984615208
+--- pD : 9
+
+Test #401
+N                    : 811970261898940452103887438984615208
+Required times       : 22.6665 (17.7084) [s]
+Total jumps          : 513965 (451393)
+Distinguished found  : 4689 (3153)
+Speed                : 206.869 (178.051) [dP/s]
+Out of bounds cycles : 1 (1.1197)
+Side-to-side cycles  : 1247 (926)
+Total cycles         : 1248 (927)
+Right in             : 100% cases
+
+Test #402
+N                    : 811970261898940452103887438984615208
+Required times       : 32.4037 (17.745) [s]
+Total jumps          : 701426 (452015)
+Distinguished found  : 6655 (3161)
+Speed                : 205.378 (178.176) [dP/s]
+Out of bounds cycles : 0 (1.11692)
+Side-to-side cycles  : 1721 (928)
+Total cycles         : 1721 (929)
+Right in             : 100% cases
+
+Test #403
+N                    : 811970261898940452103887438984615208
+Required times       : 6.02552 (17.7159) [s]
+Total jumps          : 132123 (451221)
+Distinguished found  : 1269 (3157)
+Speed                : 210.604 (178.203) [dP/s]
+Out of bounds cycles : 0 (1.11414)
+Side-to-side cycles  : 309 (927)
+Total cycles         : 309 (928)
+Right in             : 100% cases
+
+Test #404
+N                    : 811970261898940452103887438984615208
+Required times       : 14.6791 (17.7084) [s]
+Total jumps          : 333253 (450929)
+Distinguished found  : 3067 (3156)
+Speed                : 208.936 (178.266) [dP/s]
+Out of bounds cycles : 0 (1.11139)
+Side-to-side cycles  : 819 (926)
+Total cycles         : 819 (928)
+Right in             : 100% cases
+
+Test #405
+N                    : 811970261898940452103887438984615208
+Required times       : 13.7678 (17.6986) [s]
+Total jumps          : 290738 (450533)
+Distinguished found  : 2881 (3156)
+Speed                : 209.257 (178.326) [dP/s]
+Out of bounds cycles : 1 (1.11111)
+Side-to-side cycles  : 720 (926)
+Total cycles         : 721 (927)
+Right in             : 100% cases
+
+Test #406
+N                    : 811970261898940452103887438984615208
+Required times       : 28.9663 (17.7264) [s]
+Total jumps          : 622893 (450958)
+Distinguished found  : 5967 (3163)
+Speed                : 205.998 (178.437) [dP/s]
+Out of bounds cycles : 1 (1.11084)
+Side-to-side cycles  : 1527 (927)
+Total cycles         : 1528 (929)
+Right in             : 100% cases
+
+Test #407
+N                    : 811970261898940452103887438984615208
+Required times       : 7.55342 (17.7014) [s]
+Total jumps          : 148415 (450215)
+Distinguished found  : 1613 (3159)
+Speed                : 213.546 (178.474) [dP/s]
+Out of bounds cycles : 0 (1.10811)
+Side-to-side cycles  : 406 (926)
+Total cycles         : 406 (927)
+Right in             : 100% cases
+
+Test #408
+N                    : 811970261898940452103887438984615208
+Required times       : 12.7709 (17.6893) [s]
+Total jumps          : 268628 (449770)
+Distinguished found  : 2649 (3157)
+Speed                : 207.424 (178.525) [dP/s]
+Out of bounds cycles : 0 (1.10539)
+Side-to-side cycles  : 643 (925)
+Total cycles         : 643 (927)
+Right in             : 100% cases
+
+Test #409
+N                    : 811970261898940452103887438984615208
+Required times       : 13.3394 (17.6787) [s]
+Total jumps          : 305515 (449417)
+Distinguished found  : 2694 (3156)
+Speed                : 201.959 (178.568) [dP/s]
+Out of bounds cycles : 1 (1.10513)
+Side-to-side cycles  : 686 (925)
+Total cycles         : 687 (926)
+Right in             : 100% cases
+
+Test #410
+N                    : 811970261898940452103887438984615208
+Required times       : 29.7769 (17.7082) [s]
+Total jumps          : 608339 (449804)
+Distinguished found  : 6192 (3164)
+Speed                : 207.946 (178.689) [dP/s]
+Out of bounds cycles : 0 (1.10244)
+Side-to-side cycles  : 1522 (926)
+Total cycles         : 1522 (927)
+Right in             : 100% cases
+
+Test #411
+N                    : 811970261898940452103887438984615208
+Required times       : 18.1345 (17.7092) [s]
+Total jumps          : 384626 (449646)
+Distinguished found  : 3717 (3165)
+Speed                : 204.968 (178.754) [dP/s]
+Out of bounds cycles : 0 (1.09976)
+Side-to-side cycles  : 939 (926)
+Total cycles         : 939 (927)
+Right in             : 100% cases
+
+Test #412
+N                    : 811970261898940452103887438984615208
+Required times       : 36.424 (17.7546) [s]
+Total jumps          : 759180 (450397)
+Distinguished found  : 7595 (3176)
+Speed                : 208.516 (178.902) [dP/s]
+Out of bounds cycles : 0 (1.09709)
+Side-to-side cycles  : 1909 (929)
+Total cycles         : 1909 (930)
+Right in             : 100% cases
+
+Test #413
+N                    : 811970261898940452103887438984615208
+Required times       : 27.6762 (17.7787) [s]
+Total jumps          : 566712 (450679)
+Distinguished found  : 5661 (3182)
+Speed                : 204.544 (178.999) [dP/s]
+Out of bounds cycles : 1 (1.09685)
+Side-to-side cycles  : 1428 (930)
+Total cycles         : 1429 (931)
+Right in             : 100% cases
+
+Test #414
+N                    : 811970261898940452103887438984615208
+Required times       : 15.7628 (17.7738) [s]
+Total jumps          : 359010 (450457)
+Distinguished found  : 3170 (3182)
+Speed                : 201.106 (179.046) [dP/s]
+Out of bounds cycles : 0 (1.0942)
+Side-to-side cycles  : 795 (930)
+Total cycles         : 795 (931)
+Right in             : 100% cases
+
+Test #415
+N                    : 811970261898940452103887438984615208
+Required times       : 14.6626 (17.7663) [s]
+Total jumps          : 296572 (450087)
+Distinguished found  : 3018 (3181)
+Speed                : 205.83 (179.1) [dP/s]
+Out of bounds cycles : 1 (1.09398)
+Side-to-side cycles  : 757 (929)
+Total cycles         : 758 (930)
+Right in             : 100% cases
+
+Test #416
+N                    : 811970261898940452103887438984615208
+Required times       : 7.92439 (17.7426) [s]
+Total jumps          : 154893 (449377)
+Distinguished found  : 1718 (3178)
+Speed                : 216.799 (179.14) [dP/s]
+Out of bounds cycles : 0 (1.09135)
+Side-to-side cycles  : 397 (928)
+Total cycles         : 397 (929)
+Right in             : 100% cases
+
+Test #417
+N                    : 811970261898940452103887438984615208
+Required times       : 43.9396 (17.8055) [s]
+Total jumps          : 952875 (450584)
+Distinguished found  : 8858 (3192)
+Speed                : 201.595 (179.273) [dP/s]
+Out of bounds cycles : 0 (1.08873)
+Side-to-side cycles  : 2324 (931)
+Total cycles         : 2324 (932)
+Right in             : 100% cases
+
+Test #418
+N                    : 811970261898940452103887438984615208
+Required times       : 13.7689 (17.7958) [s]
+Total jumps          : 320567 (450273)
+Distinguished found  : 2882 (3191)
+Speed                : 209.312 (179.329) [dP/s]
+Out of bounds cycles : 0 (1.08612)
+Side-to-side cycles  : 768 (931)
+Total cycles         : 768 (932)
+Right in             : 100% cases
+
+Test #419
+N                    : 811970261898940452103887438984615208
+Required times       : 14.6355 (17.7883) [s]
+Total jumps          : 297317 (449908)
+Distinguished found  : 3039 (3190)
+Speed                : 207.645 (179.384) [dP/s]
+Out of bounds cycles : 1 (1.08592)
+Side-to-side cycles  : 764 (930)
+Total cycles         : 765 (932)
+Right in             : 100% cases
+
+Test #420
+N                    : 811970261898940452103887438984615208
+Required times       : 41.8876 (17.8456) [s]
+Total jumps          : 876334 (450924)
+Distinguished found  : 8590 (3203)
+Speed                : 205.072 (179.528) [dP/s]
+Out of bounds cycles : 1 (1.08571)
+Side-to-side cycles  : 2138 (933)
+Total cycles         : 2139 (934)
+Right in             : 100% cases
+
+Test #421
+N                    : 811970261898940452103887438984615208
+Required times       : 15.3447 (17.8397) [s]
+Total jumps          : 340092 (450660)
+Distinguished found  : 3114 (3203)
+Speed                : 202.936 (179.576) [dP/s]
+Out of bounds cycles : 0 (1.08314)
+Side-to-side cycles  : 831 (933)
+Total cycles         : 831 (934)
+Right in             : 100% cases
+
+Test #422
+N                    : 811970261898940452103887438984615208
+Required times       : 13.869 (17.8303) [s]
+Total jumps          : 307442 (450321)
+Distinguished found  : 2818 (3202)
+Speed                : 203.187 (179.619) [dP/s]
+Out of bounds cycles : 0 (1.08057)
+Side-to-side cycles  : 722 (933)
+Total cycles         : 722 (934)
+Right in             : 100% cases
+
+Test #423
+N                    : 811970261898940452103887438984615208
+Required times       : 24.8163 (17.8468) [s]
+Total jumps          : 519787 (450485)
+Distinguished found  : 4992 (3206)
+Speed                : 201.158 (179.69) [dP/s]
+Out of bounds cycles : 7 (1.09456)
+Side-to-side cycles  : 1253 (933)
+Total cycles         : 1260 (934)
+Right in             : 100% cases
+
+Test #424
+N                    : 811970261898940452103887438984615208
+Required times       : 4.69033 (17.8158) [s]
+Total jumps          : 101647 (449662)
+Distinguished found  : 974 (3201)
+Speed                : 207.661 (179.707) [dP/s]
+Out of bounds cycles : 1 (1.09434)
+Side-to-side cycles  : 242 (932)
+Total cycles         : 243 (933)
+Right in             : 100% cases
+
+Test #425
+N                    : 811970261898940452103887438984615208
+Required times       : 21.1859 (17.8237) [s]
+Total jumps          : 460256 (449687)
+Distinguished found  : 4410 (3204)
+Speed                : 208.157 (179.787) [dP/s]
+Out of bounds cycles : 0 (1.09176)
+Side-to-side cycles  : 1102 (932)
+Total cycles         : 1102 (933)
+Right in             : 100% cases
+
+Test #426
+N                    : 811970261898940452103887438984615208
+Required times       : 17.2583 (17.8224) [s]
+Total jumps          : 331900 (449411)
+Distinguished found  : 3713 (3205)
+Speed                : 215.143 (179.867) [dP/s]
+Out of bounds cycles : 0 (1.0892)
+Side-to-side cycles  : 855 (932)
+Total cycles         : 855 (933)
+Right in             : 100% cases
+
+Test #427
+N                    : 811970261898940452103887438984615208
+Required times       : 34.6659 (17.8618) [s]
+Total jumps          : 728664 (450065)
+Distinguished found  : 7143 (3214)
+Speed                : 206.053 (179.986) [dP/s]
+Out of bounds cycles : 1 (1.08899)
+Side-to-side cycles  : 1779 (934)
+Total cycles         : 1780 (935)
+Right in             : 100% cases
+
+Test #428
+N                    : 811970261898940452103887438984615208
+Required times       : 29.8535 (17.8898) [s]
+Total jumps          : 622407 (450468)
+Distinguished found  : 6169 (3221)
+Speed                : 206.643 (180.09) [dP/s]
+Out of bounds cycles : 0 (1.08645)
+Side-to-side cycles  : 1528 (935)
+Total cycles         : 1528 (936)
+Right in             : 100% cases
+
+Test #429
+N                    : 811970261898940452103887438984615208
+Required times       : 12.737 (17.8778) [s]
+Total jumps          : 264387 (450034)
+Distinguished found  : 2702 (3220)
+Speed                : 212.138 (180.143) [dP/s]
+Out of bounds cycles : 0 (1.08392)
+Side-to-side cycles  : 629 (935)
+Total cycles         : 629 (936)
+Right in             : 100% cases
+
+Test #430
+N                    : 811970261898940452103887438984615208
+Required times       : 19.6752 (17.882) [s]
+Total jumps          : 442755 (450017)
+Distinguished found  : 4029 (3222)
+Speed                : 204.776 (180.206) [dP/s]
+Out of bounds cycles : 2 (1.08605)
+Side-to-side cycles  : 1014 (935)
+Total cycles         : 1016 (936)
+Right in             : 100% cases
+
+Test #431
+N                    : 811970261898940452103887438984615208
+Required times       : 23.9687 (17.8961) [s]
+Total jumps          : 509870 (450156)
+Distinguished found  : 4961 (3226)
+Speed                : 206.978 (180.29) [dP/s]
+Out of bounds cycles : 0 (1.08353)
+Side-to-side cycles  : 1182 (935)
+Total cycles         : 1182 (936)
+Right in             : 100% cases
+
+Test #432
+N                    : 811970261898940452103887438984615208
+Required times       : 9.69125 (17.8771) [s]
+Total jumps          : 214783 (449611)
+Distinguished found  : 1994 (3223)
+Speed                : 205.753 (180.322) [dP/s]
+Out of bounds cycles : 0 (1.08102)
+Side-to-side cycles  : 528 (934)
+Total cycles         : 528 (935)
+Right in             : 100% cases
+
+Test #433
+N                    : 811970261898940452103887438984615208
+Required times       : 20.0871 (17.8823) [s]
+Total jumps          : 396818 (449489)
+Distinguished found  : 4088 (3225)
+Speed                : 203.514 (180.382) [dP/s]
+Out of bounds cycles : 1 (1.08083)
+Side-to-side cycles  : 980 (934)
+Total cycles         : 981 (936)
+Right in             : 100% cases
+
+Test #434
+N                    : 811970261898940452103887438984615208
+Required times       : 23.4679 (17.8951) [s]
+Total jumps          : 520969 (449654)
+Distinguished found  : 4894 (3229)
+Speed                : 208.541 (180.467) [dP/s]
+Out of bounds cycles : 0 (1.07834)
+Side-to-side cycles  : 1236 (935)
+Total cycles         : 1236 (936)
+Right in             : 100% cases
+
+Test #435
+N                    : 811970261898940452103887438984615208
+Required times       : 16.9158 (17.8929) [s]
+Total jumps          : 357117 (449441)
+Distinguished found  : 3535 (3230)
+Speed                : 208.976 (180.529) [dP/s]
+Out of bounds cycles : 1 (1.07816)
+Side-to-side cycles  : 893 (935)
+Total cycles         : 894 (936)
+Right in             : 100% cases
+
+Test #436
+N                    : 811970261898940452103887438984615208
+Required times       : 16.2452 (17.8891) [s]
+Total jumps          : 353776 (449221)
+Distinguished found  : 3291 (3230)
+Speed                : 202.583 (180.575) [dP/s]
+Out of bounds cycles : 0 (1.07569)
+Side-to-side cycles  : 844 (935)
+Total cycles         : 844 (936)
+Right in             : 100% cases
+
+Test #437
+N                    : 811970261898940452103887438984615208
+Required times       : 24.5663 (17.9044) [s]
+Total jumps          : 524229 (449393)
+Distinguished found  : 5041 (3234)
+Speed                : 205.2 (180.652) [dP/s]
+Out of bounds cycles : 1 (1.07551)
+Side-to-side cycles  : 1294 (936)
+Total cycles         : 1295 (937)
+Right in             : 100% cases
+
+Test #438
+N                    : 811970261898940452103887438984615208
+Required times       : 16.2 (17.9005) [s]
+Total jumps          : 362271 (449194)
+Distinguished found  : 3243 (3234)
+Speed                : 200.185 (180.692) [dP/s]
+Out of bounds cycles : 0 (1.07306)
+Side-to-side cycles  : 892 (936)
+Total cycles         : 892 (937)
+Right in             : 100% cases
+
+Test #439
+N                    : 811970261898940452103887438984615208
+Required times       : 16.304 (17.8968) [s]
+Total jumps          : 338401 (448942)
+Distinguished found  : 3380 (3234)
+Speed                : 207.311 (180.748) [dP/s]
+Out of bounds cycles : 0 (1.07062)
+Side-to-side cycles  : 793 (935)
+Total cycles         : 793 (936)
+Right in             : 100% cases
+
+Test #440
+N                    : 811970261898940452103887438984615208
+Required times       : 12.9974 (17.8857) [s]
+Total jumps          : 275470 (448548)
+Distinguished found  : 2691 (3233)
+Speed                : 207.042 (180.791) [dP/s]
+Out of bounds cycles : 1 (1.07045)
+Side-to-side cycles  : 690 (935)
+Total cycles         : 691 (936)
+Right in             : 100% cases
+
+Test #441
+N                    : 811970261898940452103887438984615208
+Required times       : 9.19739 (17.866) [s]
+Total jumps          : 202693 (447990)
+Distinguished found  : 1882 (3230)
+Speed                : 204.623 (180.819) [dP/s]
+Out of bounds cycles : 0 (1.06803)
+Side-to-side cycles  : 463 (934)
+Total cycles         : 463 (935)
+Right in             : 100% cases
+
+Test #442
+N                    : 811970261898940452103887438984615208
+Required times       : 5.56468 (17.8382) [s]
+Total jumps          : 123865 (447257)
+Distinguished found  : 1120 (3225)
+Speed                : 201.269 (180.833) [dP/s]
+Out of bounds cycles : 0 (1.06561)
+Side-to-side cycles  : 283 (932)
+Total cycles         : 283 (933)
+Right in             : 100% cases
+
+Test #443
+N                    : 811970261898940452103887438984615208
+Required times       : 8.22216 (17.8165) [s]
+Total jumps          : 177964 (446649)
+Distinguished found  : 1703 (3222)
+Speed                : 207.123 (180.861) [dP/s]
+Out of bounds cycles : 0 (1.06321)
+Side-to-side cycles  : 408 (931)
+Total cycles         : 408 (932)
+Right in             : 100% cases
+
+Test #444
+N                    : 811970261898940452103887438984615208
+Required times       : 13.6206 (17.807) [s]
+Total jumps          : 287109 (446290)
+Distinguished found  : 2873 (3221)
+Speed                : 210.93 (180.912) [dP/s]
+Out of bounds cycles : 0 (1.06081)
+Side-to-side cycles  : 732 (931)
+Total cycles         : 732 (932)
+Right in             : 100% cases
+
+Test #445
+N                    : 811970261898940452103887438984615208
+Required times       : 27.9684 (17.8299) [s]
+Total jumps          : 585331 (446602)
+Distinguished found  : 5629 (3226)
+Speed                : 201.263 (180.984) [dP/s]
+Out of bounds cycles : 2 (1.06292)
+Side-to-side cycles  : 1459 (932)
+Total cycles         : 1461 (933)
+Right in             : 100% cases
+
+Test #446
+N                    : 811970261898940452103887438984615208
+Required times       : 12.3521 (17.8176) [s]
+Total jumps          : 251973 (446166)
+Distinguished found  : 2522 (3225)
+Speed                : 204.175 (181.02) [dP/s]
+Out of bounds cycles : 0 (1.06054)
+Side-to-side cycles  : 630 (931)
+Total cycles         : 630 (932)
+Right in             : 100% cases
+
+Test #447
+N                    : 811970261898940452103887438984615208
+Required times       : 41.0794 (17.8696) [s]
+Total jumps          : 847452 (447063)
+Distinguished found  : 8443 (3237)
+Speed                : 205.529 (181.146) [dP/s]
+Out of bounds cycles : 2 (1.06264)
+Side-to-side cycles  : 2037 (934)
+Total cycles         : 2039 (935)
+Right in             : 100% cases
+
+Test #448
+N                    : 811970261898940452103887438984615208
+Required times       : 13.2223 (17.8592) [s]
+Total jumps          : 266538 (446660)
+Distinguished found  : 2769 (3235)
+Speed                : 209.418 (181.193) [dP/s]
+Out of bounds cycles : 1 (1.0625)
+Side-to-side cycles  : 675 (933)
+Total cycles         : 676 (934)
+Right in             : 100% cases
+
+Test #449
+N                    : 811970261898940452103887438984615208
+Required times       : 9.39157 (17.8404) [s]
+Total jumps          : 200441 (446112)
+Distinguished found  : 1922 (3233)
+Speed                : 204.652 (181.221) [dP/s]
+Out of bounds cycles : 1 (1.06236)
+Side-to-side cycles  : 493 (932)
+Total cycles         : 494 (933)
+Right in             : 100% cases
+
+Test #450
+N                    : 811970261898940452103887438984615208
+Required times       : 22.9361 (17.8517) [s]
+Total jumps          : 473963 (446174)
+Distinguished found  : 4745 (3236)
+Speed                : 206.879 (181.294) [dP/s]
+Out of bounds cycles : 1 (1.06222)
+Side-to-side cycles  : 1133 (932)
+Total cycles         : 1134 (933)
+Right in             : 100% cases
+
+Test #451
+N                    : 811970261898940452103887438984615208
+Required times       : 19.2202 (17.8547) [s]
+Total jumps          : 415776 (446107)
+Distinguished found  : 3917 (3237)
+Speed                : 203.796 (181.347) [dP/s]
+Out of bounds cycles : 0 (1.05987)
+Side-to-side cycles  : 1048 (933)
+Total cycles         : 1048 (934)
+Right in             : 100% cases
+
+Test #452
+N                    : 811970261898940452103887438984615208
+Required times       : 16.2855 (17.8513) [s]
+Total jumps          : 343238 (445879)
+Distinguished found  : 3338 (3238)
+Speed                : 204.968 (181.395) [dP/s]
+Out of bounds cycles : 0 (1.05752)
+Side-to-side cycles  : 837 (932)
+Total cycles         : 837 (934)
+Right in             : 100% cases
+
+Test #453
+N                    : 811970261898940452103887438984615208
+Required times       : 19.5897 (17.8551) [s]
+Total jumps          : 406334 (445792)
+Distinguished found  : 4098 (3240)
+Speed                : 209.192 (181.462) [dP/s]
+Out of bounds cycles : 1 (1.0574)
+Side-to-side cycles  : 1025 (933)
+Total cycles         : 1026 (934)
+Right in             : 100% cases
+
+Test #454
+N                    : 811970261898940452103887438984615208
+Required times       : 24.7241 (17.8702) [s]
+Total jumps          : 504837 (445922)
+Distinguished found  : 5120 (3244)
+Speed                : 207.086 (181.541) [dP/s]
+Out of bounds cycles : 2 (1.05947)
+Side-to-side cycles  : 1236 (933)
+Total cycles         : 1238 (934)
+Right in             : 100% cases
+
+Test #455
+N                    : 811970261898940452103887438984615208
+Required times       : 34.5602 (17.9069) [s]
+Total jumps          : 757648 (446607)
+Distinguished found  : 7020 (3252)
+Speed                : 203.124 (181.632) [dP/s]
+Out of bounds cycles : 0 (1.05714)
+Side-to-side cycles  : 1822 (935)
+Total cycles         : 1822 (936)
+Right in             : 100% cases
+
+Test #456
+N                    : 811970261898940452103887438984615208
+Required times       : 37.8615 (17.9507) [s]
+Total jumps          : 778308 (447334)
+Distinguished found  : 7645 (3262)
+Speed                : 201.92 (181.726) [dP/s]
+Out of bounds cycles : 1 (1.05702)
+Side-to-side cycles  : 1889 (937)
+Total cycles         : 1890 (938)
+Right in             : 100% cases
+
+Test #457
+N                    : 811970261898940452103887438984615208
+Required times       : 25.0099 (17.9661) [s]
+Total jumps          : 532903 (447521)
+Distinguished found  : 5089 (3266)
+Speed                : 203.48 (181.792) [dP/s]
+Out of bounds cycles : 2 (1.05908)
+Side-to-side cycles  : 1337 (938)
+Total cycles         : 1339 (939)
+Right in             : 100% cases
+
+Test #458
+N                    : 811970261898940452103887438984615208
+Required times       : 28.8392 (17.9899) [s]
+Total jumps          : 578486 (447807)
+Distinguished found  : 6028 (3272)
+Speed                : 209.021 (181.888) [dP/s]
+Out of bounds cycles : 0 (1.05677)
+Side-to-side cycles  : 1468 (939)
+Total cycles         : 1468 (940)
+Right in             : 100% cases
+
+Test #459
+N                    : 811970261898940452103887438984615208
+Required times       : 1.01687 (17.9529) [s]
+Total jumps          : 22679 (446881)
+Distinguished found  : 210 (3265)
+Speed                : 206.516 (181.891) [dP/s]
+Out of bounds cycles : 0 (1.05447)
+Side-to-side cycles  : 54 (937)
+Total cycles         : 54 (939)
+Right in             : 100% cases
+
+Test #460
+N                    : 811970261898940452103887438984615208
+Required times       : 13.6131 (17.9434) [s]
+Total jumps          : 281715 (446522)
+Distinguished found  : 2879 (3264)
+Speed                : 211.488 (181.939) [dP/s]
+Out of bounds cycles : 0 (1.05217)
+Side-to-side cycles  : 684 (937)
+Total cycles         : 684 (938)
+Right in             : 100% cases
+
+Test #461
+N                    : 811970261898940452103887438984615208
+Required times       : 33.1549 (17.9764) [s]
+Total jumps          : 703063 (447079)
+Distinguished found  : 6674 (3272)
+Speed                : 201.297 (182.017) [dP/s]
+Out of bounds cycles : 1 (1.05206)
+Side-to-side cycles  : 1706 (939)
+Total cycles         : 1707 (940)
+Right in             : 100% cases
+
+Test #462
+N                    : 811970261898940452103887438984615208
+Required times       : 30.8282 (18.0043) [s]
+Total jumps          : 626579 (447467)
+Distinguished found  : 6382 (3278)
+Speed                : 207.019 (182.109) [dP/s]
+Out of bounds cycles : 1 (1.05195)
+Side-to-side cycles  : 1550 (940)
+Total cycles         : 1551 (941)
+Right in             : 100% cases
+
+Test #463
+N                    : 811970261898940452103887438984615208
+Required times       : 32.9939 (18.0366) [s]
+Total jumps          : 729899 (448077)
+Distinguished found  : 6715 (3286)
+Speed                : 203.522 (182.194) [dP/s]
+Out of bounds cycles : 1 (1.05184)
+Side-to-side cycles  : 1689 (942)
+Total cycles         : 1690 (943)
+Right in             : 100% cases
+
+Test #464
+N                    : 811970261898940452103887438984615208
+Required times       : 21.2108 (18.0435) [s]
+Total jumps          : 421134 (448019)
+Distinguished found  : 4484 (3288)
+Speed                : 211.401 (182.268) [dP/s]
+Out of bounds cycles : 2 (1.05388)
+Side-to-side cycles  : 1080 (942)
+Total cycles         : 1082 (943)
+Right in             : 100% cases
+
+Test #465
+N                    : 811970261898940452103887438984615208
+Required times       : 15.6298 (18.0383) [s]
+Total jumps          : 343624 (447795)
+Distinguished found  : 3275 (3288)
+Speed                : 209.536 (182.319) [dP/s]
+Out of bounds cycles : 0 (1.05161)
+Side-to-side cycles  : 803 (942)
+Total cycles         : 803 (943)
+Right in             : 100% cases
+
+Test #466
+N                    : 811970261898940452103887438984615208
+Required times       : 11.0251 (18.0232) [s]
+Total jumps          : 245436 (447360)
+Distinguished found  : 2205 (3286)
+Speed                : 199.998 (182.342) [dP/s]
+Out of bounds cycles : 0 (1.04936)
+Side-to-side cycles  : 547 (941)
+Total cycles         : 547 (942)
+Right in             : 100% cases
+
+Test #467
+N                    : 811970261898940452103887438984615208
+Required times       : 15.8902 (18.0187) [s]
+Total jumps          : 335271 (447120)
+Distinguished found  : 3287 (3286)
+Speed                : 206.858 (182.388) [dP/s]
+Out of bounds cycles : 0 (1.04711)
+Side-to-side cycles  : 822 (940)
+Total cycles         : 822 (941)
+Right in             : 100% cases
+
+Test #468
+N                    : 811970261898940452103887438984615208
+Required times       : 37.1536 (18.0596) [s]
+Total jumps          : 770539 (447811)
+Distinguished found  : 7743 (3295)
+Speed                : 208.405 (182.503) [dP/s]
+Out of bounds cycles : 0 (1.04487)
+Side-to-side cycles  : 1889 (942)
+Total cycles         : 1889 (943)
+Right in             : 100% cases
+
+Test #469
+N                    : 811970261898940452103887438984615208
+Required times       : 22.4499 (18.0689) [s]
+Total jumps          : 482568 (447885)
+Distinguished found  : 4581 (3298)
+Speed                : 204.054 (182.56) [dP/s]
+Out of bounds cycles : 1 (1.04478)
+Side-to-side cycles  : 1155 (943)
+Total cycles         : 1156 (944)
+Right in             : 100% cases
+
+Test #470
+N                    : 811970261898940452103887438984615208
+Required times       : 9.04769 (18.0497) [s]
+Total jumps          : 188147 (447333)
+Distinguished found  : 1890 (3295)
+Speed                : 208.893 (182.588) [dP/s]
+Out of bounds cycles : 0 (1.04255)
+Side-to-side cycles  : 456 (942)
+Total cycles         : 456 (943)
+Right in             : 100% cases
+
+Test #471
+N                    : 811970261898940452103887438984615208
+Required times       : 9.58184 (18.0317) [s]
+Total jumps          : 195418 (446798)
+Distinguished found  : 2022 (3292)
+Speed                : 211.024 (182.62) [dP/s]
+Out of bounds cycles : 1 (1.04246)
+Side-to-side cycles  : 475 (941)
+Total cycles         : 476 (942)
+Right in             : 100% cases
+
+Test #472
+N                    : 811970261898940452103887438984615208
+Required times       : 7.2036 (18.0088) [s]
+Total jumps          : 139957 (446148)
+Distinguished found  : 1592 (3289)
+Speed                : 221.001 (182.653) [dP/s]
+Out of bounds cycles : 0 (1.04025)
+Side-to-side cycles  : 380 (940)
+Total cycles         : 380 (941)
+Right in             : 100% cases
+
+Test #473
+N                    : 811970261898940452103887438984615208
+Required times       : 38.1949 (18.0515) [s]
+Total jumps          : 778476 (446851)
+Distinguished found  : 7819 (3298)
+Speed                : 204.713 (182.751) [dP/s]
+Out of bounds cycles : 0 (1.03805)
+Side-to-side cycles  : 1962 (942)
+Total cycles         : 1962 (943)
+Right in             : 100% cases
+
+Test #474
+N                    : 811970261898940452103887438984615208
+Required times       : 29.7293 (18.0761) [s]
+Total jumps          : 625510 (447227)
+Distinguished found  : 6230 (3305)
+Speed                : 209.558 (182.844) [dP/s]
+Out of bounds cycles : 0 (1.03586)
+Side-to-side cycles  : 1608 (943)
+Total cycles         : 1608 (944)
+Right in             : 100% cases
+
+Test #475
+N                    : 811970261898940452103887438984615208
+Required times       : 13.7526 (18.067) [s]
+Total jumps          : 309352 (446937)
+Distinguished found  : 2858 (3304)
+Speed                : 207.815 (182.884) [dP/s]
+Out of bounds cycles : 1 (1.03579)
+Side-to-side cycles  : 719 (943)
+Total cycles         : 720 (944)
+Right in             : 100% cases
+
+Test #476
+N                    : 811970261898940452103887438984615208
+Required times       : 24.7478 (18.0811) [s]
+Total jumps          : 527915 (447107)
+Distinguished found  : 5049 (3307)
+Speed                : 204.018 (182.945) [dP/s]
+Out of bounds cycles : 2 (1.03782)
+Side-to-side cycles  : 1272 (943)
+Total cycles         : 1274 (944)
+Right in             : 100% cases
+
+Test #477
+N                    : 811970261898940452103887438984615208
+Required times       : 47.5923 (18.1429) [s]
+Total jumps          : 1016209 (448300)
+Distinguished found  : 9715 (3321)
+Speed                : 204.13 (183.062) [dP/s]
+Out of bounds cycles : 0 (1.03564)
+Side-to-side cycles  : 2416 (947)
+Total cycles         : 2416 (948)
+Right in             : 100% cases
+
+Test #478
+N                    : 811970261898940452103887438984615208
+Required times       : 7.41997 (18.1205) [s]
+Total jumps          : 157426 (447692)
+Distinguished found  : 1536 (3317)
+Speed                : 207.009 (183.082) [dP/s]
+Out of bounds cycles : 0 (1.03347)
+Side-to-side cycles  : 400 (945)
+Total cycles         : 400 (946)
+Right in             : 100% cases
+
+Test #479
+N                    : 811970261898940452103887438984615208
+Required times       : 26.0918 (18.1371) [s]
+Total jumps          : 549241 (447904)
+Distinguished found  : 5468 (3322)
+Speed                : 209.568 (183.162) [dP/s]
+Out of bounds cycles : 0 (1.03132)
+Side-to-side cycles  : 1361 (946)
+Total cycles         : 1361 (947)
+Right in             : 100% cases
+
+Test #480
+N                    : 811970261898940452103887438984615208
+Required times       : 40.7428 (18.1842) [s]
+Total jumps          : 834820 (448710)
+Distinguished found  : 8217 (3332)
+Speed                : 201.68 (183.248) [dP/s]
+Out of bounds cycles : 4 (1.0375)
+Side-to-side cycles  : 2046 (949)
+Total cycles         : 2050 (950)
+Right in             : 100% cases
+
+Test #481
+N                    : 811970261898940452103887438984615208
+Required times       : 18.5657 (18.185) [s]
+Total jumps          : 388925 (448586)
+Distinguished found  : 3780 (3333)
+Speed                : 203.602 (183.291) [dP/s]
+Out of bounds cycles : 1 (1.03742)
+Side-to-side cycles  : 902 (948)
+Total cycles         : 903 (949)
+Right in             : 100% cases
+
+Test #482
+N                    : 811970261898940452103887438984615208
+Required times       : 16.1996 (18.1809) [s]
+Total jumps          : 340318 (448361)
+Distinguished found  : 3381 (3333)
+Speed                : 208.709 (183.338) [dP/s]
+Out of bounds cycles : 0 (1.03527)
+Side-to-side cycles  : 821 (948)
+Total cycles         : 821 (949)
+Right in             : 100% cases
+
+Test #483
+N                    : 811970261898940452103887438984615208
+Required times       : 29.5141 (18.2044) [s]
+Total jumps          : 615405 (448707)
+Distinguished found  : 6113 (3339)
+Speed                : 207.121 (183.418) [dP/s]
+Out of bounds cycles : 0 (1.03313)
+Side-to-side cycles  : 1490 (949)
+Total cycles         : 1490 (950)
+Right in             : 100% cases
+
+Test #484
+N                    : 811970261898940452103887438984615208
+Required times       : 8.02821 (18.1833) [s]
+Total jumps          : 165084 (448121)
+Distinguished found  : 1707 (3335)
+Speed                : 212.625 (183.445) [dP/s]
+Out of bounds cycles : 0 (1.03099)
+Side-to-side cycles  : 409 (948)
+Total cycles         : 409 (949)
+Right in             : 100% cases
+
+Test #485
+N                    : 811970261898940452103887438984615208
+Required times       : 27.0405 (18.2016) [s]
+Total jumps          : 594087 (448422)
+Distinguished found  : 5507 (3340)
+Speed                : 203.658 (183.507) [dP/s]
+Out of bounds cycles : 1 (1.03093)
+Side-to-side cycles  : 1382 (949)
+Total cycles         : 1383 (950)
+Right in             : 100% cases
+
+Test #486
+N                    : 811970261898940452103887438984615208
+Required times       : 33.8734 (18.2338) [s]
+Total jumps          : 681230 (448901)
+Distinguished found  : 7116 (3347)
+Speed                : 210.076 (183.608) [dP/s]
+Out of bounds cycles : 1 (1.03086)
+Side-to-side cycles  : 1751 (951)
+Total cycles         : 1752 (952)
+Right in             : 100% cases
+
+Test #487
+N                    : 811970261898940452103887438984615208
+Required times       : 19.6324 (18.2367) [s]
+Total jumps          : 407801 (448816)
+Distinguished found  : 3960 (3349)
+Speed                : 201.707 (183.648) [dP/s]
+Out of bounds cycles : 3 (1.03491)
+Side-to-side cycles  : 977 (951)
+Total cycles         : 980 (952)
+Right in             : 100% cases
+
+Test #488
+N                    : 811970261898940452103887438984615208
+Required times       : 6.00396 (18.2116) [s]
+Total jumps          : 149070 (448202)
+Distinguished found  : 1230 (3344)
+Speed                : 204.865 (183.663) [dP/s]
+Out of bounds cycles : 0 (1.03279)
+Side-to-side cycles  : 367 (950)
+Total cycles         : 367 (951)
+Right in             : 100% cases
+
+Test #489
+N                    : 811970261898940452103887438984615208
+Required times       : 12.8824 (18.2008) [s]
+Total jumps          : 250455 (447798)
+Distinguished found  : 2690 (3343)
+Speed                : 208.812 (183.699) [dP/s]
+Out of bounds cycles : 0 (1.03067)
+Side-to-side cycles  : 613 (949)
+Total cycles         : 613 (950)
+Right in             : 100% cases
+
+Test #490
+N                    : 811970261898940452103887438984615208
+Required times       : 17.2842 (18.1989) [s]
+Total jumps          : 361504 (447622)
+Distinguished found  : 3520 (3343)
+Speed                : 203.654 (183.738) [dP/s]
+Out of bounds cycles : 0 (1.02857)
+Side-to-side cycles  : 880 (949)
+Total cycles         : 880 (950)
+Right in             : 100% cases
+
+Test #491
+N                    : 811970261898940452103887438984615208
+Required times       : 20.7379 (18.2041) [s]
+Total jumps          : 415159 (447556)
+Distinguished found  : 4368 (3345)
+Speed                : 210.628 (183.8) [dP/s]
+Out of bounds cycles : 0 (1.02648)
+Side-to-side cycles  : 1037 (949)
+Total cycles         : 1037 (950)
+Right in             : 100% cases
+
+Test #492
+N                    : 811970261898940452103887438984615208
+Required times       : 16.8997 (18.2014) [s]
+Total jumps          : 366271 (447390)
+Distinguished found  : 3377 (3345)
+Speed                : 199.826 (183.83) [dP/s]
+Out of bounds cycles : 1 (1.02642)
+Side-to-side cycles  : 886 (949)
+Total cycles         : 887 (950)
+Right in             : 100% cases
+
+Test #493
+N                    : 811970261898940452103887438984615208
+Required times       : 25.8354 (18.2169) [s]
+Total jumps          : 552745 (447604)
+Distinguished found  : 5302 (3349)
+Speed                : 205.222 (183.892) [dP/s]
+Out of bounds cycles : 0 (1.02434)
+Side-to-side cycles  : 1381 (950)
+Total cycles         : 1381 (951)
+Right in             : 100% cases
+
+Test #494
+N                    : 811970261898940452103887438984615208
+Required times       : 34.826 (18.2505) [s]
+Total jumps          : 754782 (448226)
+Distinguished found  : 7223 (3357)
+Speed                : 207.403 (183.983) [dP/s]
+Out of bounds cycles : 0 (1.02227)
+Side-to-side cycles  : 1860 (952)
+Total cycles         : 1860 (953)
+Right in             : 100% cases
+
+Test #495
+N                    : 811970261898940452103887438984615208
+Required times       : 58.5549 (18.3319) [s]
+Total jumps          : 1221276 (449788)
+Distinguished found  : 11850 (3374)
+Speed                : 202.374 (184.101) [dP/s]
+Out of bounds cycles : 2 (1.02424)
+Side-to-side cycles  : 2890 (955)
+Total cycles         : 2892 (956)
+Right in             : 100% cases
+
+Test #496
+N                    : 811970261898940452103887438984615208
+Required times       : 4.7156 (18.3045) [s]
+Total jumps          : 102586 (449088)
+Distinguished found  : 1020 (3370)
+Speed                : 216.304 (184.118) [dP/s]
+Out of bounds cycles : 0 (1.02218)
+Side-to-side cycles  : 237 (954)
+Total cycles         : 237 (955)
+Right in             : 100% cases
+
+Test #497
+N                    : 811970261898940452103887438984615208
+Required times       : 16.2659 (18.3004) [s]
+Total jumps          : 336509 (448861)
+Distinguished found  : 3388 (3370)
+Speed                : 208.288 (184.161) [dP/s]
+Out of bounds cycles : 0 (1.02012)
+Side-to-side cycles  : 834 (954)
+Total cycles         : 834 (955)
+Right in             : 100% cases
+
+Test #498
+N                    : 811970261898940452103887438984615208
+Required times       : 30.5966 (18.3251) [s]
+Total jumps          : 660726 (449287)
+Distinguished found  : 6237 (3375)
+Speed                : 203.847 (184.227) [dP/s]
+Out of bounds cycles : 1 (1.02008)
+Side-to-side cycles  : 1568 (955)
+Total cycles         : 1569 (956)
+Right in             : 100% cases
+
+Test #499
+N                    : 811970261898940452103887438984615208
+Required times       : 3.44153 (18.2952) [s]
+Total jumps          : 78209 (448543)
+Distinguished found  : 705 (3370)
+Speed                : 204.851 (184.235) [dP/s]
+Out of bounds cycles : 0 (1.01804)
+Side-to-side cycles  : 175 (953)
+Total cycles         : 175 (954)
+Right in             : 100% cases
+
+Test #500
+N                    : 811970261898940452103887438984615208
+Required times       : 27.4889 (18.3136) [s]
+Total jumps          : 579903 (448806)
+Distinguished found  : 5633 (3375)
+Speed                : 204.919 (184.297) [dP/s]
+Out of bounds cycles : 3 (1.022)
+Side-to-side cycles  : 1471 (954)
+Total cycles         : 1474 (955)
+Right in             : 100% cases
+
+
+==================================================================================
+Time                 : 18.3136 [sec]
+Jumps                : 448806
+Ratio                : 1.71174
+Speed                : 184.297 [dP/s]
+Cycles out of bounds : 1.022
+Side-to-side cycles  : 954.946
+Total cycles         : 955.968
+==================================================================================
+
