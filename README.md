@@ -1,6 +1,6 @@
 # Modified Galbraith-Ruprai algorithm.
-*Release date: 20.01.2022*
-*Author: Noga Alexey I.* (nogalexey@gmail.com)
+*Release date: 20.01.2022*  
+*Author: Noga Alexey I.* (nogalexey@gmail.com)  
 *Copyright :copyright: 2022*
 
 This work is part of a graduate thesis to modernize the Galbraith-Rupray 
